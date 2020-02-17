@@ -1,0 +1,278 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202002 will be lost/reset.
+# Last config file used to build this data file was /home/knowled5/tmp/awstats/ssl/awstats.knowledgedr.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2016                
+POS_TIME 2674                
+POS_VISITOR 7074                
+POS_DAY 7409                
+POS_DOMAIN 3281                
+POS_LOGIN 3518                
+POS_ROBOT 3673                
+POS_WORMS 3913                
+POS_EMAILSENDER 4044                
+POS_EMAILRECEIVER 4187                
+POS_SESSION 7543                
+POS_SIDER 7689                
+POS_FILETYPES 4322                
+POS_DOWNLOADS 4403                
+POS_OS 4451                
+POS_BROWSER 4528                
+POS_SCREENSIZE 4602                
+POS_UNKNOWNREFERER 4676                
+POS_UNKNOWNREFERERBROWSER 4882                
+POS_ORIGIN 4998                
+POS_SEREFERRALS 5128                
+POS_PAGEREFS 5272                
+POS_SEARCHWORDS 5420                
+POS_KEYWORDS 5572                
+POS_MISC 2338                
+POS_ERRORS 5631                
+POS_CLUSTER 3374                
+POS_SIDER_404 5748                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20200213052151 1 0 8601404195541
+FirstTime 0
+LastTime 20200212172329
+LastUpdate 20200213090844 1 0 1 0 0
+TotalVisits 7                   
+TotalUnique 7                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 7                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+AddToFavourites 0 0 0
+FlashSupport 0 0 0
+JavaEnabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+JavascriptDisabled 0 0 0
+DirectorSupport 0 0 0
+PDFSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 4 9 48921
+1 0 0 0 7 13 44764
+2 2 2 43216 0 9 226763
+3 0 0 0 6 13 126604
+4 2 2 43203 7 14 163700
+5 0 0 0 15 21 67460
+6 0 0 0 6 10 208806
+7 0 0 0 4 7 76571
+8 0 0 0 4 9 220463
+9 0 0 0 6 10 129728
+10 0 0 0 2 7 96363
+11 0 0 0 2 6 216700
+12 0 0 0 4 5 100378
+13 0 0 0 7 11 98464
+14 0 0 0 7 14 186736
+15 0 0 0 7 14 40732
+16 0 0 0 6 12 159864
+17 3 3 2172 4 8 7515
+18 0 0 0 0 2 20769
+19 0 0 0 5 8 70606
+20 0 0 0 6 6 5082
+21 0 0 0 3 8 154065
+22 0 0 0 2 10 35649
+23 0 0 0 4 10 183500
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 2
+us 6 6 48694
+gb 1 1 39897
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 3
+AhrefsBot/ 156 2590891 20200213022506 0
+no_user_agent 1 3302 20200206064318 0
+crawl 1 3302 20200212225005 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 1
+html 7 88591 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 1
+Unknown 7 7
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 2
+mozilla 4 4
+Unknown 3 3
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+Go-http-client/1.1 20200212172329
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20200203040056
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+Go-http-client/1.1 20200212172329
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 7 7
+From1 0 0
+From2 0 0
+From3 0 0
+From4 0 0
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+404 72 88992
+403 3 3681
+401 1 35
+302 2 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 32
+/the-shocking-truth-about-whats-in-your-skin-care-products/ 1 -
+/category/health/womens-health/ 1 -
+/robots.txt 37 -
+/category/food/functional-foods/ 1 -
+/category/fitness/fitness-tips/ 1 -
+/tag/sexual-energy/ 1 -
+/web-hosting.php 1 -
+/category/beauty/hair-care/ 1 -
+/category/lifestyle/travel/ 1 -
+/category/fitness/exercises/ 1 -
+/category/health/alternative-medicine/acupressure/ 1 -
+/category/fitness/general-fitness/ 1 -
+/category/health/mens-health/ 1 -
+/first-timers-guide-to-visiting-bordeaux/ 1 -
+/category/beauty/skin-care/ 1 -
+/category/happiness/ 1 -
+/8-ways-to-plan-out-a-healthy-lifestyle/ 1 -
+/lifestyle/ 1 -
+/page/2/ 1 -
+/index.html 1 -
+/reseller-hosting.php 1 -
+/comment-policy/ 1 -
+/category/relationships/family/ 1 -
+/category/lifestyle/life-skills/other-life-skills/ 1 -
+/ads.txt 5 -
+/tag/young/ 1 -
+/tag/hormones/ 1 -
+/category/happiness/humor/ 1 -
+/about-us.php 1 -
+/boost-the-immune-system-protect-your-body-with-vitamin-d3/ 1 -
+/category/health/ 1 -
+/category/fitness/exercises/aerobics/ 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 7
+68.183.49.136 1 1 3306 20200203040016
+34.223.40.49 1 1 724 20200208170623
+134.209.38.248 1 1 39909 20200203024108
+167.172.255.243 1 1 39897 20200203040056
+45.55.63.15 1 1 3307 20200203022535
+34.223.83.145 1 1 724 20200209172130
+52.88.5.110 1 1 724 20200212172329
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 4
+20200203 4 4 86419 4
+20200208 1 1 724 1
+20200209 1 1 724 1
+20200212 1 1 724 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 1
+0s-30s 7
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 1
+/ 7 88591 7 7
+END_SIDER

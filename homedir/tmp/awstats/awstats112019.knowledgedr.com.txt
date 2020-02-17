@@ -1,0 +1,499 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 201911 will be lost/reset.
+# Last config file used to build this data file was /home/knowled5/tmp/awstats/awstats.knowledgedr.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2012                
+POS_TIME 2676                
+POS_VISITOR 12383               
+POS_DAY 14991               
+POS_DOMAIN 3417                
+POS_LOGIN 3815                
+POS_ROBOT 3970                
+POS_WORMS 4617                
+POS_EMAILSENDER 4748                
+POS_EMAILRECEIVER 4891                
+POS_SESSION 15591               
+POS_SIDER 15748               
+POS_FILETYPES 5026                
+POS_DOWNLOADS 5215                
+POS_OS 5336                
+POS_BROWSER 5540                
+POS_SCREENSIZE 6268                
+POS_UNKNOWNREFERER 6342                
+POS_UNKNOWNREFERERBROWSER 6783                
+POS_ORIGIN 7179                
+POS_SEREFERRALS 7315                
+POS_PAGEREFS 7469                
+POS_SEARCHWORDS 7669                
+POS_KEYWORDS 7848                
+POS_MISC 2340                
+POS_ERRORS 7936                
+POS_CLUSTER 3671                
+POS_SIDER_404 8035                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20191201000532 21 3676 9439616064077
+FirstTime 0
+LastTime 20191130102452
+LastUpdate 20191201052245 21 0 20 0 0
+TotalVisits 64                  
+TotalUnique 60                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 69                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavascriptDisabled 0 0 0
+FlashSupport 0 0 0
+RealPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+AddToFavourites 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 3 5 18101 24 31 70017
+1 7 17 302102 10 25 40963
+2 1 1 0 20 31 71836
+3 2 2 3402 13 23 47273
+4 4 14 361630 14 31 495123
+5 0 0 0 16 32 277143
+6 1 1 3377 19 32 78695
+7 5 15 361543 15 43 1114965
+8 1 5 60951 16 22 51531
+9 0 52 741157 38 67 162659
+10 5 9 40765 15 39 1238708
+11 28 42 494619 20 48 1121317
+12 3 13 358141 18 24 67631
+13 3 3 10206 19 53 1341318
+14 26 36 437151 17 45 538624
+15 6 6 35894 11 26 52566
+16 13 27 450637 19 32 66660
+17 8 8 31555 22 34 74964
+18 6 6 20699 18 35 274043
+19 22 22 75710 23 38 72610
+20 6 16 470926 18 32 67800
+21 1 1 3402 17 38 72308
+22 1 1 3402 22 33 76810
+23 1 1 3402 23 44 312221
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 14
+us 122 213 3214948
+ru 4 4 13583
+pk 4 4 14074
+ca 4 14 361518
+cn 4 53 602137
+ua 3 3 18178
+gb 3 3 25688
+cl 2 2 6804
+eu 2 2 7116
+dk 1 1 3402
+fr 1 1 11143
+lv 1 1 3377
+ir 1 1 3402
+de 1 1 3402
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 12
+bingbot/ 120 427350 20191130232053 0
+AhrefsBot/ 113 405722 20191130182057 0
+Googlebot/ 100 1057391 20191130204816 0
+bingpreview 65 4791270 20191128111211 0
+Sogou[\x20]web[\x20]spider/ 18 61216 20191130093143 0
+spider 17 490362 20191126142100 0
+bot[\s_+:,\.\;\/\\-] 15 50980 20191126005520 0
+YandexBot/ 9 30712 20191127222402 0
+no_user_agent 7 24726 20191121134146 0
+(firefox/)([0-9]\.|[0-1][0]\.) 2 6804 20191126193903 0
+Xenu[\x20]Link[\x20]Sleuth 1 0 20191105164645 0
+HubSpot[\x20]Webcrawler 1 0 20191106080008 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 7
+woff2 7 540120 0 0
+php 24 24152 0 0
+txt 2 154 0 0
+woff 8 149432 0 0
+html 114 457961 0 0
+css 89 1008868 0 0
+js 59 2108085 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/.well-known/pki-validation/1C7FC62DD08E3CE82A5EEEAFC8EA98BF.txt 2 0 154
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 11
+macosx12 3 3
+win7 27 6
+macosx8 1 1
+winxp 2 2
+macosx10 3 3
+macosx 127 89
+Unknown 19 17
+linux 19 9
+win10 24 14
+ios_iphone 29 9
+winlong 49 0
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 34
+chrome40.0.2214.93 1 1
+safari13.0.3 15 5
+firefox35.0 1 1
+chrome58.0.3029.110 3 3
+chrome74.0.3729.131 2 2
+chrome77.0.3865.120 13 3
+chrome78.0.3904.97 1 1
+chrome63.0.3239.26 2 2
+chrome26.0.1410.65 1 1
+msie9.0 11 0
+safari1.2.4 1 1
+chrome41.0.2228.0 1 1
+chrome39.0.2171.95 1 1
+chrome74.0.3729.169 2 2
+firefox51.0 1 1
+firefox59.0 1 1
+Unknown 18 16
+msie6.0 1 1
+chrome56.0.2924.92 2 2
+safari 13 3
+chrome66.0.3359.139 53 53
+chrome65.0.3325.181 1 1
+chrome61.0.3163.79 1 1
+chrome78.0.3904.108 13 3
+chrome63.0.3239.132 1 1
+safari11.0 1 1
+chrome75.0.3770.142 14 4
+chrome76.0.3809.132 2 2
+firefox52.0 1 1
+chrome71.0.3578.98 1 1
+safari12.1 72 34
+firefox60.0 2 2
+msie7.0 49 0
+firefox69.0 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 6
+COMODO_DCV 20191116001320
+python-requests/2.22.0 20191107153259
+HubSpot_Connect_2.0_(http://dev.hubspot.com/)_-_BizOpsCompanies-Tq2-BizCoDomainValidationAudit 20191127035607
+Go-http-client/1.1 20191126173009
+Mozilla/5.0_Firefox/35.0 20191118152020
+HubSpot_Connect_2.0_(http://dev.hubspot.com/)_-_BizOpsCompaniesKafka-BizCoDomainValidation 20191106075950
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 5
+HubSpot_Connect_2.0_(http://dev.hubspot.com/)_-_BizOpsCompanies-Tq2-BizCoDomainValidationAudit 20191127035607
+Go-http-client/1.1 20191126173009
+HubSpot_Connect_2.0_(http://dev.hubspot.com/)_-_BizOpsCompaniesKafka-BizCoDomainValidation 20191106075950
+python-requests/2.22.0 20191107153259
+COMODO_DCV 20191116001320
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 56 128
+From1 0 0
+From2 2 2
+From3 1 1
+From4 94 172
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+sogou 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+http://www.tammyblog.online/blog/14914322/view/ 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+site+www.knowledgedr.com 2
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 2
+www.knowledgedr.com 2
+site 2
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+302 2 0
+404 357 441252
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 81
+/wp-content/plugins/jquery-html5-file-upload/readme.txt 2 http://www.google.com/
+/wp-content/uploads/2019/04/eric-ward-455457-unsplash-300x300.jpg 1 -
+/wp-content/themes/satoshi/styles/functions.css 1 http://www.google.com/
+/robots.txt 184 -
+/wp-content/uploads/2018/09/kdr.png 1 -
+/wp-content/uploads/2017/06/32-500x300.jpg 1 -
+/wp-content/uploads/2017/10/12-80x80.jpeg 1 -
+/wp-content/plugins/category-page-icons/readme.txt 1 http://knowledgedr.com/wp-content/plugins/category-page-icons/readme.txt
+/wp-content/plugins/maintenance/load/css/style.css 1 http://knowledgedr.com/7-steps-to-beautiful-healthier-skin/
+/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/category/fitness/exercises/cardio-exercises/ 1 -
+/category/health-living/ 1 -
+/wp-content/plugins/complete-gallery-manager/frames/upload-images.php 4 http://knowledgedr.com/wp-content/plugins/complete-gallery-manager/frames/upload-images.php
+/panel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/apple-touch-icon.png 1 -
+/privacy-policy/ 1 -
+/null 1 -
+/wp-content/themes/satoshi/upload-file.php 2 http://knowledgedr.com/wp-content/themes/satoshi/upload-file.php
+/tag/woman/ 2 -
+/fight-depression-now-with-these-6-steps-to-raise-your-spirits/ 2 -
+/category/business/ 1 -
+/wp-content/plugins/maintenance/load/js/jquery.frontend.js 1 http://knowledgedr.com/7-steps-to-beautiful-healthier-skin/
+/lifestyle/ 2 -
+/phpunit/phpunit/Util/PHP/eval-stdin.php 1 -
+/tag/depression/ 1 -
+/category/health/alternative-medicine/reflexology/ 1 -
+/contact 1 -
+/ads.txt 40 -
+/wp-content/plugins/wp-special-textboxes/stb-uploader.php 1 -
+/tag/link/ 1 -
+/tag/system/ 1 -
+/diet/ 5 -
+/category/health/alternative-medicine/homeopathy/ 1 -
+/lib/phpunit/Util/PHP/eval-stdin.php 1 -
+/category/health/alternative-medicine/acupressure/ 1 -
+/2017/06/27/amazing-sun-through-snowy-forest/ 1 -
+/installer-backup.php 3 -
+/self/ 2 -
+/washington-street-palms-in-san-francisco/ 1 -
+/how-sleep-loss-alters-our-emotional-perception-tips-to-better-sleep/ 1 -
+/wp-includes/js/jquery/jquery.js 1 http://knowledgedr.com/7-steps-to-beautiful-healthier-skin/
+/contact.php 4 -
+/tag/tag-three/ 1 -
+/2017/06/27/young-girl-with-pink-shoes-on-longboard/ 1 -
+/apple-touch-icon-precomposed.png 1 -
+/phpunit/Util/PHP/eval-stdin.php 1 -
+/the-truth-about-cardio-you-need-to-know/ 1 -
+/2017/06/27/san-francisco-bay-area-beautiful-sunset-evening-cityscape/ 1 -
+/feed/ 20 -
+/wp-includes/Text/Tiff.php 1 -
+/comment-policy/ 1 -
+/installer.php 1 -
+/seo-hacks/multiple-sites-does-it-hurt-or-help-seo/ 1 -
+/wp-content/plugins/maintenance/load/css/fonts.css 1 http://knowledgedr.com/7-steps-to-beautiful-healthier-skin/
+/wp-content/plugins/baggage-freight/readme.txt 1 http://www.google.com/
+/wp-content/uploads/2017/10/12-150x150.jpeg 1 -
+/news/how-to-use-automation-to-boost-ppc-performance/ 1 -
+/category/lifestyle/life-skills/goal-setting/ 2 -
+/about-us.php 1 -
+/vfm-admin/js/videojs/lang/zh.js 6 http://knowledgedr.com/
+/category/social-media/feed/ 3 -
+/vps-hosting.php 3 -
+/wp-content/plugins/dzs-videogallery/admin/dzsuploader/upload.css 2 http://www.google.com/
+/reseller-hosting.php 1 -
+/wp-includes/js/jquery/jquery-migrate.min.js 1 http://knowledgedr.com/7-steps-to-beautiful-healthier-skin/
+/comments/feed/ 2 -
+/wp-content/plugins/WP_Estimation_Form/assets/css/lfb_frontendPackedLibs.min.css 1 -
+/wp-content/uploads/2019/04/Vitamin-D3-300x300.jpg 2 -
+/vfm-admin/js/videojs/lang/pt.js 1 http://knowledgedr.com/
+/2017/06/27/golden-gate-bridge-from-battery-spencer-viewpoint/ 1 -
+/web-hosting.php 3 -
+/category/fitness/exercises/stretching/ 1 -
+/vendor/phpunit/Util/PHP/eval-stdin.php 1 -
+/lib/phpunit/phpunit/Util/PHP/eval-stdin.php 1 -
+/wp-content/uploads/2019/04/team-voyas-1112360-unsplash-300x300.jpg 1 -
+/category/social-media/ 2 -
+/resources-of-general-knowledge/ 1 -
+/wp-content/themes/satoshi/style.css 1 http://knowledgedr.com/wp-content/themes/satoshi/style.css
+/category/fitness/ 1 -
+/lib/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/wp-content/plugins/page-flip-image-gallery/upload.php 2 http://www.google.com/
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 69
+97.101.16.201 34 72 1268926 20191127162010
+209.251.20.139 21 21 72216 20191117142711
+198.12.105.95 21 21 72308 20191119192558
+24.23.176.199 5 15 459567 20191113201647
+3.135.201.72 4 14 284155 20191129014634
+121.52.149.219 4 4 14074 20191119111118
+97.101.89.185 3 13 358141 20191127142623
+47.190.37.3 3 13 358141 20191117120159
+73.82.237.81 2 2 7068 20191116105346
+191.101.170.25 2 2 6804 20191118110125
+173.252.95.38 2 7 90150 20191106042301
+193.202.81.227 2 2 7116 20191109184323
+46.151.108.6 2 2 6779 20191119110954
+194.44.167.202 2 2 14776 20191103141805
+213.182.208.117 1 1 3377 20191120181841
+52.38.111.237 1 1 3402 20191114182028
+34.222.208.91 1 1 3402 20191118172155
+13.52.75.117 1 1 11143 20191106080002
+54.174.53.123 1 1 0 20191106075950
+163.172.71.49 1 1 11143 20191130014717
+165.227.221.126 1 1 3402 20191109003414
+123.126.68.124 1 1 3402 20191126222259
+107.174.226.162 1 1 3402 20191107151842
+54.174.55.37 1 1 0 20191120173952
+185.39.199.137 1 1 3402 20191119111032
+207.46.13.34 0 2 168807 
+110.89.6.152 1 1 3402 20191113132313
+13.66.132.138 1 1 3402 20191116002825
+207.46.13.184 0 3 4024 
+34.66.56.40 1 1 11143 20191108154504
+184.154.46.57 0 2 154 
+173.252.95.27 1 5 110688 20191106042301
+178.173.237.98 1 1 3402 20191128015831
+157.55.39.178 0 1 12592 
+54.212.0.170 1 1 3402 20191108172636
+106.120.173.145 0 49 580788 
+62.210.172.215 1 1 11143 20191126175055
+207.46.13.91 0 1 1000 
+13.57.187.215 1 1 3402 20191109154612
+34.66.202.98 1 1 3402 20191107153259
+34.219.148.254 1 1 3402 20191120181738
+52.34.197.63 1 1 3402 20191110201714
+173.252.95.25 0 1 157390 
+64.246.161.30 1 1 3402 20191113212942
+54.174.54.32 1 1 0 20191127035607
+107.172.56.226 1 1 3402 20191128101934
+157.55.39.234 0 1 1304 
+34.223.43.82 1 1 3402 20191125130634
+193.110.203.249 1 1 3402 20191117194422
+167.114.232.244 1 1 3377 20191102062954
+54.242.176.121 1 1 11143 20191125004703
+111.202.102.77 1 1 3402 20191126012542
+162.223.88.87 1 1 3412 20191119111220
+66.84.91.17 1 1 3377 20191117142703
+52.25.217.223 1 1 3402 20191116172130
+52.35.101.25 1 1 3402 20191112172309
+51.158.121.89 1 1 3402 20191130102452
+193.128.108.254 1 1 11143 20191117104100
+158.46.214.203 1 1 3402 20191113232725
+18.141.56.196 1 1 3402 20191112030940
+45.88.42.58 1 1 3402 20191118183633
+124.206.180.180 1 1 11143 20191118152020
+34.213.153.153 1 1 3402 20191126173009
+52.40.172.153 1 1 3402 20191109172815
+54.174.54.128 1 1 0 20191112025839
+108.62.69.76 1 1 3402 20191105151410
+5.189.207.238 1 1 3402 20191128045307
+5.180.244.220 1 1 3402 20191127072232
+157.55.39.232 0 3 38200 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 25
+20191101 1 1 11359 1
+20191102 1 1 3377 1
+20191103 2 2 6819 2
+20191105 1 8 89302 1
+20191106 8 28 727512 5
+20191107 2 2 6804 2
+20191108 2 2 14545 2
+20191109 23 43 537217 5
+20191110 1 6 70357 1
+20191111 0 5 66955 0
+20191112 3 10 106149 3
+20191113 7 17 466371 4
+20191114 1 1 3402 1
+20191116 4 6 14026 3
+20191117 27 37 448279 5
+20191118 5 12 245654 4
+20191119 29 33 104999 5
+20191120 3 7 49093 3
+20191122 0 4 42314 0
+20191125 2 6 56859 2
+20191126 4 8 63663 4
+20191127 18 42 812180 4
+20191128 3 3 10206 3
+20191129 4 14 284155 1
+20191130 2 5 47175 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+0s-30s 63
+30s-2mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 8
+/ 114 457961 59 52
+/vfm-admin/ajax/session.php 10 0 0 2
+/vfm-admin/fonts/vfm-font.woff 7 51408 0 1
+/vfm-admin/fonts/fontawesome-webfont.woff2 7 540120 1 4
+/vfm-admin/ajax/get-dirs.php 5 2237 0 0
+/vfm-admin/ajax/get-files.php 5 335 0 0
+/index.php 4 21580 4 4
+/vfm-admin/fonts/fontawesome-webfont.woff 1 98024 0 1
+END_SIDER

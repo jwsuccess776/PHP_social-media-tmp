@@ -1,0 +1,43 @@
+
+
+H1
+
+{
+font-size: 15px;
+color: #000;
+font-weight: 900;
+}
+
+
+
+H2, H3, H4, H5, H6
+{
+font-size: 13px;
+color: #000;
+font-weight: 900;
+}
+
+
+
+.sideNavBody a {
+font-size: 12px;
+font-weight: 600;
+padding-bottom: 3px;
+color: #ffffff;
+text-decoration: none;
+}
+
+.sideNavBody a:hover {
+font-size: 12px;
+font-weight: 600;
+padding-bottom: 3px;
+color: #ffffff;
+text-decoration: underline;
+}
+
+.menuhead {
+font-size: 13px;
+font-weight: 600;
+padding-bottom: 7px;
+}
+

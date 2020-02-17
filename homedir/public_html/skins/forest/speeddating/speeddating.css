@@ -1,0 +1,46 @@
+
+#sd_left {
+	float: left;
+	text-align:left;
+	width: 180px;
+}
+
+#sd_right {
+	float:right;
+	width: 680px;
+	text-align:left;
+}
+
+
+
+#home_slogan_sd {
+	width: 600px;
+	padding-top: 0px;
+	margin-left: 20px;
+	margin-top: 120px;
+	text-align:left;
+}
+
+#home_left_sd {
+	width: 660px;
+	border: 1px solid #c3df01;
+	background: url(../images/bg_search.jpg) no-repeat 0px 20px #FFFFFF;
+	float:left;
+	overflow:hidden;
+	text-align:left;
+}
+
+#home_right_sd {
+	width: 240px;
+	float:right;
+	overflow:hidden;
+	padding-top:20px;
+	text-align:left;
+}
+
+#home_search_sd {
+	padding-top: 100px;
+	padding-left: 70px;
+	text-align:left;
+}
+

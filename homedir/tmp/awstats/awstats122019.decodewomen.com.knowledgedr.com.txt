@@ -1,0 +1,469 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 201912 will be lost/reset.
+# Last config file used to build this data file was /home/knowled5/tmp/awstats/awstats.decodewomen.com.knowledgedr.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2028                
+POS_TIME 2711                
+POS_VISITOR 9313                
+POS_DAY 11386               
+POS_DOMAIN 3520                
+POS_LOGIN 3885                
+POS_ROBOT 4040                
+POS_WORMS 4495                
+POS_EMAILSENDER 4626                
+POS_EMAILRECEIVER 4769                
+POS_SESSION 12103               
+POS_SIDER 12312               
+POS_FILETYPES 4904                
+POS_DOWNLOADS 5234                
+POS_OS 5501                
+POS_BROWSER 5697                
+POS_SCREENSIZE 6222                
+POS_UNKNOWNREFERER 6296                
+POS_UNKNOWNREFERERBROWSER 6814                
+POS_ORIGIN 7242                
+POS_SEREFERRALS 7381                
+POS_PAGEREFS 7525                
+POS_SEARCHWORDS 7673                
+POS_KEYWORDS 7825                
+POS_MISC 2374                
+POS_ERRORS 7884                
+POS_CLUSTER 3741                
+POS_SIDER_404 8033                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20200101001121 252 80177 16292000475075
+FirstTime 20191201001200
+LastTime 20191231231907
+LastUpdate 20200101051513 252 0 251 0 0
+TotalVisits 180                 
+TotalUnique 48                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 53                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+AddToFavourites 0 58 0
+FlashSupport 0 0 0
+DirectorSupport 0 0 0
+PDFSupport 0 0 0
+TotalMisc 0 0 0
+JavaEnabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+QuickTimeSupport 0 0 0
+RealPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 238 254 11074 6 9 31410
+1 237 237 29661 3 6 33632
+2 244 244 48345 6 8 1822
+3 245 245 67437 9 12 210
+4 259 259 239766 14 18 7699
+5 248 248 67897 12 54 160853
+6 245 245 29151 15 108 644561
+7 242 242 10162 5 5 24023
+8 246 246 332488 4 6 8999
+9 246 246 33753 2 3 9568
+10 242 242 29350 3 4 22908
+11 244 244 29448 5 8 136674
+12 237 237 25217 1 2 1237
+13 240 240 10142 3 7 5319
+14 224 224 28173 12 78 297312
+15 254 261 1077356 21 59 331389
+16 379 639 4905058 21 91 175878
+17 194 194 11075 9 23 70574
+18 193 193 39792 15 59 308354
+19 407 919 27453003 33 79 190909
+20 709 1233 16714900 25 34 12078
+21 483 1024 14457593 28 37 29851
+22 248 248 56352 8 48 182824
+23 238 238 9868 11 26 137230
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 11
+us 6713 8471 63691441
+ie 9 106 1483068
+nl 4 4 322156
+gb 4 9 62251
+ru 3 3 22319
+in 2 2 38380
+ca 2 2 27273
+pt 2 2 31794
+tr 1 1 19191
+sc 1 1 19188
+vn 1 1 0
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 8
+Googlebot/ 377 1903651 20191231231907 33
+bingbot/ 22 29969 20191231214928 20
+msnbot/ 17 141708 20191231215023 7
+MJ12bot/ 12 5798 20191205154740 6
+Googlebot\-Image/ 5 117673 20191231135005 0
+bot[\s_+:,\.\;\/\\-] 4 19397 20191226154048 3
+(firefox/)([0-9]\.|[0-1][0]\.) 3 26076 20191214193856 0
+unknown 2 137 20191225091117 2
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 14
+Unknown 68 1040228 0 0
+ttf 7 56440 0 0
+js 1072 5747335 0 0
+png 232 4153105 0 0
+html 142 2630673 0 0
+woff 24 47176 0 0
+txt 16 1206 0 0
+woff2 103 1297052 0 0
+css 383 1552458 0 0
+php 6397 21193742 0 0
+xml 1 1045 0 0
+jpg 140 27960925 0 0
+gif 8 26206 0 0
+svg 9 9470 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 3
+/.well-known/pki-validation/044E787BEAAA789BD20741C6E35A43DA.txt 14 0 1078
+/.well-known/pki-validation/2F5AD6BE1341AC54096B2A60137A8A75.txt 1 0 64
+/.well-known/pki-validation/392A1BA3507CD5E423E9A5253FC88386.txt 1 0 64
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 10
+Unknown 2977 2961
+macosx8 1 1
+win7 137 21
+win10 128 31
+winxp 4 4
+macosx12 1 1
+macosx 5348 3717
+macosx10 1 1
+linux 3 3
+winlong 2 2
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 24
+chrome74.0.3729.131 1 1
+Unknown 2975 2959
+msie8.0 2 2
+chrome67.0.3396.87 1 1
+safari12.1 5348 3717
+firefox51.0 1 1
+chrome66.0.3359.181 15 15
+chrome60.0.3112.101 2 2
+chrome79.0.3945.79 237 24
+chrome76.0.3809.132 1 1
+opera46.0.2597.57 1 1
+chrome58.0.1145.75 2 2
+firefox54.0 2 2
+msie6.0 3 3
+mozilla 2 2
+firefox71.0 1 1
+chrome74.0.3729.169 1 1
+chrome56.0.2925.37 1 1
+msie7.0 1 1
+chrome26.0.1410.65 1 1
+firefox59.0 1 1
+chrome58.0.3029.110 1 1
+chrome41.0.2228.0 1 1
+opera12.14 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 8
+WordPress/5.3.1;_https://decodewomen.com 20191214175838
+COMODO_DCV 20191201001616
+WordPress/5.2.5;_https://decodewomen.com 20191214064112
+Go-http-client/1.1 20191223095740
+WordPress/5.2.4;_https://decodewomen.com 20191213023417
+WordPress/5.3.1;_http://www.decodewomen.com 20191218221511
+WordPress/5.3.2;_http://www.decodewomen.com 20191231231907
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20191231215411
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 7
+Go-http-client/1.1 20191223095740
+WordPress/5.2.5;_https://decodewomen.com 20191214064112
+COMODO_DCV 20191201001616
+WordPress/5.3.1;_https://decodewomen.com 20191214175838
+WordPress/5.3.2;_http://www.decodewomen.com 20191231231907
+WordPress/5.2.4;_https://decodewomen.com 20191213023417
+WordPress/5.3.1;_http://www.decodewomen.com 20191218221511
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 57 173
+From1 2 2
+From2 0 0
+From3 0 0
+From4 6683 8427
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 7
+404 61 482798
+400 2 42
+204 50 0
+301 137 0
+405 1 42
+403 1 22
+302 32 98001
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 19
+/wp-content/plugins/reflex-gallery/admin/scripts/FileUploader/php.php 2 http://www.google.com/
+/sitemap.xml 1 -
+/wp-content/uploads/2017/10/13-660x412.jpeg 1 -
+/apple-touch-icon-precomposed.png 1 -
+/wp-content/uploads/2018/06/featured4-660x412.png 1 -
+/installer-backup.php 5 -
+/ 1 -
+/wp-po.php 1 decodewomen.com
+/wp-content/plugins/website-contact-form-with-file-upload/readme.txt 1 -
+/apple-touch-icon.png 1 -
+/wp-content/plugins/mailcwp/mailcwp-upload.php 2 http://www.google.com/
+/wp-content/plugins/uploadify/readme.txt 2 http://www.google.com/
+/wp-content/plugins/Premium_Gallery_Manager/uploadify/uploadify.css 2 http://www.google.com/
+/test/wp-login.php 1 -
+/installer.php 3 -
+/wp-content/plugins/iconpress-lite/lib/integrations/common/css-source-maps/styles.css.map 1 http://www.decodewomen.com/
+/ads.txt 31 -
+/wp-content/plugins/uploadify/includes/check.php 2 http://www.google.com/
+/wp-admin/admin-ajax.php 2 http://www.decodewomen.com/wp-admin/customize.php
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 53
+97.101.16.201 3717 5348 59953380 20191218143611
+184.154.46.57 2957 2968 842 20191231231907
+97.101.89.185 15 131 3140503 20191215191420
+46.101.7.140 3 3 303091 20191224080701
+31.13.115.4 3 24 279962 20191218161517
+158.69.118.54 2 2 27273 20191229225554
+31.13.115.15 2 12 665769 20191218161517
+31.13.115.6 2 20 299297 20191218161517
+82.102.22.116 2 2 31794 20191231012820
+54.202.183.142 1 1 19189 20191219042045
+103.48.80.184 1 1 0 20191205143011
+198.12.82.219 1 1 19187 20191225145558
+61.3.20.36 1 1 19192 20191220044152
+178.171.67.192 1 1 19190 20191218221501
+34.215.156.91 1 1 19187 20191227050631
+124.253.111.246 1 1 19188 20191223043727
+165.231.90.243 1 1 19188 20191226115214
+34.217.56.2 1 1 19068 20191215043815
+54.92.207.155 1 1 19185 20191220060757
+176.58.97.137 1 1 4307 20191223095740
+54.191.191.186 1 1 19186 20191225045803
+109.228.255.202 1 1 19191 20191225032021
+198.199.100.240 1 1 0 20191206204818
+64.246.165.170 1 1 19186 20191225091120
+34.209.18.85 1 1 19193 20191222022336
+91.199.212.132 0 5 385 
+31.13.115.1 0 9 91609 
+185.220.221.75 1 1 2084 20191211170029
+31.13.115.5 0 8 25375 
+54.244.86.213 1 1 19187 20191224041658
+18.236.226.219 1 1 19189 20191226034722
+54.187.65.247 1 1 19188 20191231050725
+157.245.116.14 1 1 100992 20191231215411
+31.13.115.8 1 1 387 20191218161520
+51.15.91.99 1 1 19188 20191224040344
+54.190.231.151 1 1 19194 20191230044223
+157.245.222.29 1 1 100992 20191231165249
+54.184.249.212 1 1 19188 20191225100608
+167.99.93.221 1 1 15251 20191222124016
+38.240.11.16 1 1 15266 20191222162411
+34.212.66.252 1 1 19188 20191221043301
+31.13.115.10 1 1 16620 20191218161520
+51.158.121.89 1 1 19185 20191226080609
+52.13.82.21 1 1 19069 20191216015256
+31.13.115.7 0 1 5165 
+34.221.69.180 1 1 19189 20191218035605
+46.161.56.86 1 1 1045 20191218161847
+31.13.115.22 0 30 98884 
+34.217.82.70 1 1 19189 20191229052434
+54.149.117.51 1 1 19188 20191220045738
+51.159.18.103 1 1 19186 20191225021442
+213.152.161.25 1 1 19065 20191217044956
+54.201.203.168 1 1 19065 20191217044749
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20191201 7 23 1206 5
+20191202 3 3 0 2
+20191203 9 9 0 6
+20191204 6 6 0 5
+20191205 12 12 0 9
+20191206 9 9 0 7
+20191207 6 6 0 5
+20191208 5 5 0 5
+20191209 7 7 0 7
+20191210 5 5 0 4
+20191211 6 6 2084 6
+20191212 4 4 0 4
+20191213 1 1 0 1
+20191214 896 1865 47487522 6
+20191215 1426 1542 3228677 4
+20191216 1400 1400 83885 3
+20191217 1907 2569 12327105 4
+20191218 895 992 1565474 12
+20191219 3 3 19189 3
+20191220 8 8 57565 6
+20191221 5 5 19188 3
+20191222 17 17 80682 10
+20191223 9 9 23495 6
+20191224 10 10 341466 6
+20191225 20 20 115124 14
+20191226 13 13 57562 8
+20191227 3 3 19187 3
+20191228 8 8 0 5
+20191229 12 12 46462 6
+20191230 5 5 19194 4
+20191231 25 25 221994 11
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+15mn-30mn 8
+30s-2mn 5
+5mn-15mn 9
+2mn-5mn 2
+30mn-1h 15
+1h+ 12
+0s-30s 129
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 50
+/wp-admin/admin-ajax.php 3268 6058192 4 9
+/wp-cron.php 2936 0 127 124
+/ 94 1739126 36 33
+/wp-admin/post.php 43 7917962 0 0
+/wp-admin/load-scripts.php 43 2126090 0 0
+/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2 42 363580 0 1
+/wp-admin/themes.php 40 1502851 0 0
+/wp-json/wp/v2/taxonomies 27 75816 0 0
+/wp-json/wp/v2/users/ 27 15822 0 0
+/wp-json/wp/v2/users/me 27 15768 0 0
+/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.woff 23 28352 0 0
+/wp-admin/load-styles.php 19 1609217 0 0
+/wp-json/wp/v2/pages/254 14 948644 0 0
+/wp-content/plugins/pixelwars-core/themes/global/css/fonts/fontello/font/fontello.woff2 12 141552 1 0
+/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2 11 377200 0 1
+/wp-admin/ 11 584961 1 0
+/wp-content/themes/efor/css/fonts/now/Now-Light.woff2 10 66480 1 1
+/wp-content/themes/efor/css/fonts/now/Now-Regular.woff2 10 66192 0 1
+/wp-content/themes/efor/css/fonts/now/Now-Bold.woff2 10 67328 1 0
+/wp-admin/edit.php 9 477364 0 0
+/wp-admin/plugins.php 7 391289 0 0
+/wp-content/plugins/jet-elements/assets/css/lib/jetelements-font/fonts/jetelements.ttf 7 56440 0 0
+/wp-admin/admin.php 5 164080 0 0
+/wp-login.php 5 9303 0 0
+/wp-content/themes/efor/css/fonts/now/Now-Medium.woff2 4 33240 0 0
+/wp-admin/revision.php 1 52512 0 0
+/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff2 2 27160 0 0
+/checkout/ 1 12871 0 0
+/wp-includes/js/tinymce/skins/lightgray/fonts/tinymce.woff 1 18824 0 0
+/services/ 1 4479 0 0
+/wp-admin/customize.php 2 408668 0 0
+/wp-admin/async-upload.php 1 921 0 0
+/wp-admin/plugin-install.php 2 89334 0 0
+/wp-content/plugins/learnpress/assets/fonts/awesome/fontawesome-webfont.woff2 2 154320 0 0
+/wp-admin/options-general.php 3 136090 0 0
+/contact/ 3 47139 1 2
+/wp-admin/update.php 1 6182 0 0
+/wp-load.php 2 0 2 2
+/courses-2/ 1 7718 0 0
+/courses/persuasion-masterclass-how-to-powerfully-influence-anyone/ 1 14374 0 0
+/wp-admin/upgrade.php 1 21 1 0
+/index.php 2 19573 2 2
+/wp-admin/theme-editor.php 1 52157 0 0
+/xmlrpc.php 1 822 1 1
+/wp-admin/theme-install.php 1 12118 0 0
+//wp-includes/wlwmanifest.xml 1 1045 1 1
+/wp-admin/upload.php 1 43593 0 0
+// 2 202099 0 1
+/wp-admin/index.php 3 115403 0 0
+/feed/ 1 2084 1 1
+END_SIDER

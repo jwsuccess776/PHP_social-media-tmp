@@ -1,0 +1,78 @@
+<html>
+
+<head>
+
+<meta http-equiv='Content-Language' content='en'>
+
+<meta http-equiv='Content-Type' content='text/html; charset=windows-1252'>
+
+<meta name='ROBOTS' content='NOINDEX, NOFOLLOW'>
+
+<meta name='Author' content='Dylan Fox 2000 - 2007'>
+
+<title><?=$CONST_COMPANY?></title>
+
+<script language="JavaScript" src="<?=$CONST_LINK_ROOT?>/jscript_lib.js.php"></script>
+
+<LINK href="<?=$CONST_LINK_ROOT.$skin->Path?>/singles.css" type=text/css rel=StyleSheet>
+
+</head>
+
+<body>
+<table width="770" border="0" align="center" cellpadding="0" cellspacing="0" class="headertable">
+  <tr> 
+    <td width="350" background="<?=$CONST_IMAGE_ROOT?>/back.gif" class="logo"><a href="<?php echo $CONST_LINK_ROOT?>/index.php"><img src="<?=$CONST_IMAGE_ROOT?>/logo.gif" alt="" width="350" height="70" border="0"></a></td>
+    <td width="420" align="right" valign="bottom" background="<?=$CONST_IMAGE_ROOT?>/back.gif" class="topnav"> 
+      <a href="<?=$CONST_LINK_ROOT?>/index.php"  >
+      <?=$MENU_HOME?>
+      </a>| <a href="<?php echo $CONST_LINK_ROOT?>/login.php" ><?php echo $MENU_LOGIN ?></a> 
+      | <a href="<?php echo $CONST_LINK_ROOT?>/register.php"><?php echo $MENU_REGISTER?></a> 
+      | <a href="<?php echo $CONST_BLOG_LINK_ROOT?>/blogs.php"><?php echo $MENU_BLOGS?></a> 
+      | <a href="<?php echo $CONST_LINK_ROOT?>/forum/forums.php"><?php echo $MENU_BB?></a></td>
+  </tr>
+</table>
+<table width="770" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td class="nav">&nbsp;</td>
+  </tr>
+</table>
+<table width="770" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="170" valign="top" class="side"><a href="<?php echo $CONST_LINK_ROOT?>/register.php"><img src="<?=$CONST_IMAGE_ROOT?>/sideguest.gif" alt="" width="170" height="500" border="0"></a></td>
+    <td width="600" valign="top" class="main">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td class="content">HERE</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<table width="770" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td class="footer"><a href="<?php echo $CONST_LINK_ROOT?>/about.php"><?php echo $MENU_ABOUT ?></a> 
+      | <a href="<?=$CONST_LINK_ROOT?>/news_list.php"><?php echo $MENU_NEWS ?></a> 
+      | <a href="<?=$CONST_LINK_ROOT?>/stories_list.php"><?php echo $MENU_STORIES ?></a> 
+      | <a href="<?php echo $CONST_LINK_ROOT?>/disclaimer.php"><?php echo $MENU_DISCLAIMER ?></a> 
+      | <a href="<?php echo $CONST_LINK_ROOT?>/contact.php"><?php echo $MENU_CONTACT ?></a> 
+      | <a href="<?php echo $CONST_LINK_ROOT?>/scheme.php"><?php echo $MENU_AFFILIATES ?></a> 
+      | <a href="<?php echo $CONST_LINK_ROOT?>/privacy.php"><?php echo $MENU_PRIVACY ?></a><br>
+      Copyright &copy; 2006 <?php echo $CONST_COMPANY ?></td>
+    <td align="right" class="footer"><table border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td valign="middle" nowrap class="join"><?php echo HOME_JOIN ?></td>
+          <td align="right"><a href="<?php echo $CONST_LINK_ROOT?>/register.php"><img src="<?=$CONST_IMAGE_ROOT?>/join.gif" alt="" width="45" height="45" border="0"></a></td>
+        </tr>
+      </table></td>
+  </tr>
+</table>
+<table width="770" border="0" align="center" cellpadding="5" cellspacing="0">
+  <tr> 
+    <td align="center" > 
+      <?= $CONST_LINK_LANG_SWITCHER;?>
+    </td>
+  </tr>
+</table>
+</body>
+
+</html>

@@ -1,0 +1,79 @@
+Return-Path: <>
+Delivered-To: knowled5@pcluster18.stablehost.com
+Received: from pcluster18.stablehost.com
+	by pcluster18.stablehost.com with LMTP
+	id QLn+Am/aiFyR5jMASrJg7Q
+	(envelope-from <>)
+	for <knowled5@pcluster18.stablehost.com>; Wed, 13 Mar 2019 03:24:47 -0700
+Return-path: <>
+Envelope-to: knowled5@pcluster18.stablehost.com
+Delivery-date: Wed, 13 Mar 2019 03:24:47 -0700
+Received: from mailnull by pcluster18.stablehost.com with local (Exim 4.91)
+	id 1h4142-00EI5M-Sz
+	for knowled5@pcluster18.stablehost.com; Wed, 13 Mar 2019 03:24:46 -0700
+X-Failed-Recipients: admin@knowledgedr.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@pcluster18.stablehost.com>
+To: knowled5@pcluster18.stablehost.com
+Content-Type: multipart/report; report-type=delivery-status; boundary=1552472686-eximdsn-255599634
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1h4142-00EI5M-Sz@pcluster18.stablehost.com>
+Date: Wed, 13 Mar 2019 03:24:46 -0700
+
+--1552472686-eximdsn-255599634
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  admin@knowledgedr.com
+    No Such User Here
+
+--1552472686-eximdsn-255599634
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; pcluster18.stablehost.com
+
+Action: failed
+Final-Recipient: rfc822;admin@knowledgedr.com
+Status: 5.0.0
+
+--1552472686-eximdsn-255599634
+Content-type: message/rfc822
+
+Return-path: <knowled5@pcluster18.stablehost.com>
+Received: from knowled5 by pcluster18.stablehost.com with local (Exim 4.91)
+	(envelope-from <knowled5@pcluster18.stablehost.com>)
+	id 1h4142-00EI58-MO
+	for admin@knowledgedr.com; Wed, 13 Mar 2019 03:24:46 -0700
+To: admin@knowledgedr.com
+Subject: [KnowledgeDr] Your site has updated to WordPress 5.0.4
+X-PHP-Script: knowledgedr.com/wp-cron.php for 184.154.46.57
+X-PHP-Filename: /home/knowled5/public_html/wp-cron.php REMOTE_ADDR: 184.154.46.57
+Date: Wed, 13 Mar 2019 10:24:46 +0000
+From: WordPress <wordpress@knowledgedr.com>
+Message-ID: <51af73e2a59acb507ec8a9190ef13d54@knowledgedr.com>
+X-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+Howdy! Your site at http://knowledgedr.com has been updated automatically to WordPress 5.0.4.
+
+For more on version 5.0.4, see the About WordPress screen:
+http://knowledgedr.com/wp-admin/about.php
+
+WordPress 5.1.1 is also now available. Updating is easy and only takes a few moments:
+http://knowledgedr.com/wp-admin/update-core.php
+
+If you experience any issues or need support, the volunteers in the WordPress.org support forums may be able to help.
+https://wordpress.org/support/
+
+Keeping your site updated is important for security. It also makes the internet a safer place for you and your readers.
+
+The WordPress Team
+
+
+--1552472686-eximdsn-255599634--

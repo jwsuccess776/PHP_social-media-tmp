@@ -1,0 +1,470 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202001 will be lost/reset.
+# Last config file used to build this data file was /home/knowled5/tmp/awstats/awstats.knowledgedr.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2012                
+POS_TIME 2684                
+POS_VISITOR 10911               
+POS_DAY 12629               
+POS_DOMAIN 3370                
+POS_LOGIN 3734                
+POS_ROBOT 3889                
+POS_WORMS 4590                
+POS_EMAILSENDER 4721                
+POS_EMAILRECEIVER 4864                
+POS_SESSION 13105               
+POS_SIDER 13273               
+POS_FILETYPES 4999                
+POS_DOWNLOADS 5194                
+POS_OS 5242                
+POS_BROWSER 5469                
+POS_SCREENSIZE 6012                
+POS_UNKNOWNREFERER 6086                
+POS_UNKNOWNREFERERBROWSER 6494                
+POS_ORIGIN 6720                
+POS_SEREFERRALS 6854                
+POS_PAGEREFS 6998                
+POS_SEARCHWORDS 7253                
+POS_KEYWORDS 7405                
+POS_MISC 2348                
+POS_ERRORS 7464                
+POS_CLUSTER 3590                
+POS_SIDER_404 7576                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20200201035948 1 0 12956107583464
+FirstTime 20200101030717
+LastTime 20200130172423
+LastUpdate 20200201051541 1 0 0 0 0
+TotalVisits 44                  
+TotalUnique 44                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 44                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+RealPlayerSupport 0 0 0
+FlashSupport 0 0 0
+TotalMisc 0 0 0
+PDFSupport 0 0 0
+QuickTimeSupport 0 0 0
+AddToFavourites 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+JavaEnabled 0 0 0
+DirectorSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 20 20 38544 30 56 89721
+1 3 7 8299 24 35 105712
+2 0 0 0 43 59 114975
+3 7 7 1346 23 33 69067
+4 1 1 3305 23 36 65574
+5 2 2 6602 26 34 61828
+6 2 2 1439 36 43 39939
+7 0 0 0 15 18 13425
+8 0 0 0 22 27 23987
+9 0 0 0 27 34 30009
+10 10 10 7154 111 119 398080
+11 0 0 0 31 40 76725
+12 3 3 4753 30 46 108781
+13 4 4 8056 22 33 128734
+14 0 0 0 60 77 105008
+15 9 15 184544 26 40 48793
+16 0 0 0 27 36 66697
+17 24 24 37706 27 37 203452
+18 0 0 0 51 60 413630
+19 1 1 727 24 30 296210
+20 0 0 0 29 33 272741
+21 2 2 1444 20 27 25269
+22 5 5 6116 40 58 68832
+23 0 0 0 16 39 236769
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 12
+us 52 56 70904
+ca 19 19 35045
+ir 4 4 2898
+id 4 10 175772
+fr 3 3 7323
+ua 2 2 4027
+gb 2 2 4018
+de 2 2 1454
+cn 2 2 1266
+il 1 1 3301
+mu 1 1 3305
+sc 1 1 722
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 14
+bingbot/ 352 1332761 20200131005109 0
+AhrefsBot/ 141 455249 20200131040324 0
+MegaIndex\.ru/ 93 374464 20200109100607 0
+Googlebot/ 45 108926 20200130101834 0
+YandexBot/ 16 10121 20200129011206 0
+YandexImages/ 10 294627 20200113130743 0
+no_user_agent 5 4749 20200127022651 0
+Sogou[\x20]web[\x20]spider/ 4 2901 20200121091955 0
+curl 2 6606 20200111224237 0
+Googlebot\-Image/ 2 24069 20200104044805 0
+Xenu[\x20]Link[\x20]Sleuth 1 0 20200119130449 0
+msnbot/ 1 726 20200112154755 0
+Mail\.RU_Bot/ 1 723 20200129010142 0
+(firefox/)([0-9]\.|[0-1][0]\.) 1 3301 20200123050451 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+js 2 45512 0 0
+css 4 42314 0 0
+html 80 93354 0 0
+png 4 3552 0 0
+woff2 1 77160 0 0
+woff 1 7344 0 0
+html_ 2 32332 0 0
+php 9 8467 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 13
+win7 5 5
+linuxandroid 10 4
+macosx8 1 1
+macosx9 1 1
+macosx10 1 1
+linux 53 49
+Unknown 13 13
+ios_iphone 1 1
+winlong 2 2
+macosx 1 1
+macosx12 2 2
+win10 6 6
+winxp 7 7
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 25
+chrome78.0.3904.70 5 1
+mozilla 1 1
+chrome67.0.3396.87 1 1
+chrome54.0.2840.98 1 1
+chrome64.0.3282.186 2 2
+chrome66.0.3359.139 1 1
+firefox71.0 2 2
+opera12.01 3 3
+chrome46.0.2490.71 1 1
+chrome13.0.782.112 2 2
+chrome76.0.3809.132 1 1
+chrome74.0.3729.108 1 1
+chrome56.0.2925.37 1 1
+netscape5.0 2 2
+chrome71.0.3578.98 4 4
+Unknown 11 11
+chrome65.0.3325.181 45 45
+chrome79.0.3945.116 10 4
+firefox58.0 2 2
+firefox59.0 1 1
+chrome58.0.3029.110 1 1
+chrome26.0.1410.65 1 1
+msie8.0 2 2
+wap 1 1
+msie6.0 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 4
+Go-http-client/1.1 20200130172423
+Mozilla/5.0_(compatible;_Wappalyzer;__https://github.com/AliasIO/Wappalyzer) 20200101030717
+HubSpot_Connect_2.0_(http://dev.hubspot.com/)_-_BizOpsCompanies-Tq2-BizCoDomainValidationAudit 20200129035604
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20200130042752
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+Go-http-client/1.1 20200130172423
+HubSpot_Connect_2.0_(http://dev.hubspot.com/)_-_BizOpsCompanies-Tq2-BizCoDomainValidationAudit 20200129035604
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 39 39
+From1 0 0
+From2 0 0
+From3 2 2
+From4 52 62
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+http://www.ninacecillia.top/blog/14914322/profile/ 1 1
+http://www.nancyblog.top/home/14914322/profile/ 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+403 25 30675
+404 335 414060
+302 8 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 87
+/reseller-hosting.php 1 -
+/lifestyle/ 1 -
+/diet/nutrition/ 1 -
+/uploads/crossovers.php 1 -
+/new//wp-admin/install.php 1 -
+/system/crossovers.php 1 -
+/img/crossovers.php 1 -
+/bk//wp-admin/install.php 1 -
+//wp-admin/install.php 1 -
+/image/crossovers.php 1 -
+/category/lifestyle/life-skills/organization/ 1 -
+/pub/crossovers.php 1 -
+/2017/06/27/boho-peace-hippie-girl-enjoying-summer-with-flower-styling/ 1 -
+/adminer.php 1 -
+/wp-content/plugins/maintenance/load/css/style.css 1 http://knowledgedr.com/7-steps-to-beautiful-healthier-skin/
+/backup//wp-admin/install.php 1 -
+/dev//wp-admin/install.php 1 -
+/category/health/alternative-medicine/herbs/ 1 -
+/tag/tag-three/ 1 -
+/2018//wp-admin/install.php 1 -
+/web/crossovers.php 1 -
+/knowledgedr/crossovers.php 2 -
+/wp2//wp-admin/install.php 1 -
+/category/health/alternative-medicine/holistic-medicine/ 1 -
+/tmp/crossovers.php 1 -
+/main//wp-admin/install.php 1 -
+/assets//wp-admin/install.php 1 -
+/knowledgedr.com/crossovers.php 2 -
+/web//wp-admin/install.php 1 -
+/wp//wp-admin/install.php 1 -
+/wp-content/plugins/maintenance/load/js/jquery.frontend.js 1 http://knowledgedr.com/7-steps-to-beautiful-healthier-skin/
+/test/crossovers.php 1 -
+/test//wp-admin/install.php 1 -
+/wp/crossovers.php 1 -
+/upload/crossovers.php 1 -
+/diet/ 3 -
+/v2//wp-admin/install.php 1 -
+/temp//wp-admin/install.php 1 -
+/wordpress//wp-admin/install.php 1 -
+/vps-hosting.php 2 -
+/demo/crossovers.php 1 -
+/feed/ 22 -
+/public/crossovers.php 1 -
+/images/crossovers.php 1 -
+/cms//wp-admin/install.php 1 -
+/category/fitness/exercises/aerobics/ 1 -
+/wp-includes/js/jquery/jquery.js 1 http://knowledgedr.com/7-steps-to-beautiful-healthier-skin/
+/category/health/alternative-medicine/chinese-medicine/ 1 -
+/2017/06/27/coit-tower-alcatraz-and-part-of-san-francisco-bay-at-night/ 1 -
+/home/crossovers.php 1 -
+/author/zack/ 1 -
+/index.html 7 -
+/site/crossovers.php 1 -
+/www/crossovers.php 1 -
+/crossovers.php 3 -
+/category/fashion/ 1 -
+/category/health/alternative-medicine/alternative-remedies/ 1 -
+/category/social-media/ 1 -
+/tag/people/ 1 -
+/demo//wp-admin/install.php 1 -
+/home//wp-admin/install.php 1 -
+/wp-content/plugins/iwp-client/clipboard.min.js 1 -
+/2017/06/27/marketing-expert-writing-new-strategy-on-whiteboard/ 1 -
+/wordpress/crossovers.php 1 -
+/old//wp-admin/install.php 1 -
+/contact.php 1 -
+/tag/techniques/ 1 -
+/wp1//wp-admin/install.php 1 -
+/wp-content/plugins/iwp-client/readme.txt 1 -
+/web-hosting.php 3 -
+/v1//wp-admin/install.php 1 -
+/2019//wp-admin/install.php 1 -
+/ads.txt 26 -
+/about-us.php 1 -
+/portal//wp-admin/install.php 1 -
+/wp-includes/js/jquery/jquery-migrate.min.js 1 http://knowledgedr.com/7-steps-to-beautiful-healthier-skin/
+/blog/ 1 -
+/blog//wp-admin/install.php 1 -
+/disclaimer-2/ 1 -
+/~knowledgedr/crossovers.php 2 -
+/site//wp-admin/install.php 1 -
+/self/ 1 -
+/wp-includes/crossovers.php 1 -
+/wp-content/plugins/maintenance/load/css/fonts.css 1 http://knowledgedr.com/7-steps-to-beautiful-healthier-skin/
+/robots.txt 186 -
+/tmp//wp-admin/install.php 1 -
+/vfm-admin/login.php 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 44
+142.93.178.111 18 18 34319 20200108003914
+138.197.11.168 17 17 32644 20200127170329
+209.97.156.181 8 8 5800 20200130100848
+140.213.42.43 4 10 175772 20200121150623
+62.210.5.253 2 2 6606 20200112152444
+159.203.93.122 2 2 6602 20200127052653
+5.237.103.236 2 2 1454 20200126225255
+2.182.119.68 2 2 1444 20200115214208
+104.144.28.191 2 2 4225 20200108003654
+69.160.160.51 2 6 4998 20200106012708
+100.21.18.83 1 1 723 20200130172423
+54.174.54.62 1 1 0 20200122035610
+69.50.238.241 1 1 722 20200113100612
+2.57.23.244 1 1 3301 20200113225959
+52.28.232.51 1 1 717 20200101030717
+166.62.126.3 1 1 629 20200103035949
+52.35.76.7 1 1 722 20200120172300
+196.196.50.159 1 1 722 20200115154442
+163.172.14.179 1 1 3301 20200116123404
+35.163.47.97 1 1 722 20200112172407
+35.236.212.255 1 1 726 20200115172032
+216.145.14.142 1 1 727 20200120224643
+165.227.221.126 1 1 727 20200123192756
+138.197.110.109 1 1 3305 20200130042752
+198.46.174.117 1 1 3301 20200114135754
+51.159.18.103 1 1 717 20200101062650
+105.27.173.22 1 1 3305 20200121133155
+188.165.235.173 1 1 717 20200102153101
+176.9.210.82 1 1 727 20200126150024
+54.174.54.93 1 1 0 20200129035604
+54.174.55.103 1 1 0 20200101035617
+34.223.83.213 1 1 723 20200125132656
+54.174.53.145 1 1 0 20200115035617
+54.174.56.195 1 1 0 20200108035758
+178.136.123.116 1 1 3301 20200106015051
+95.216.159.208 1 1 726 20200116124050
+104.45.47.161 1 1 722 20200120063713
+58.22.65.46 1 1 632 20200106100513
+54.202.61.96 1 1 723 20200105172217
+175.42.86.169 1 1 634 20200127224727
+142.93.78.238 1 1 726 20200113120755
+34.223.108.174 1 1 723 20200128172324
+83.121.54.91 1 1 727 20200127132906
+18.237.182.23 1 1 723 20200106172300
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 21
+20200101 3 3 1434 3
+20200102 1 1 717 1
+20200103 1 1 629 1
+20200105 1 1 723 1
+20200106 5 9 9654 4
+20200108 21 21 38544 3
+20200112 3 3 7328 2
+20200113 3 3 4749 3
+20200114 1 1 3301 1
+20200115 5 5 2892 4
+20200116 2 2 4027 2
+20200120 3 3 2171 3
+20200121 5 11 179077 2
+20200122 1 1 0 1
+20200123 1 1 727 1
+20200125 1 1 723 1
+20200126 3 3 2181 2
+20200127 21 21 40607 4
+20200128 1 1 723 1
+20200129 1 1 0 1
+20200130 10 10 9828 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 3
+30s-2mn 3
+0s-30s 40
+5mn-15mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 15
+/ 63 67516 43 40
+/_vfm-admin/login.php 5 8467 1 1
+/blog-post.html 3 10506 0 1
+/fonts/ 2 1138 0 0
+/uploads/ 2 910 0 0
+/_vfm-thumb.php 2 0 0 0
+/css/ 2 1010 0 0
+/index.html_ 2 32332 0 2
+/img/ 2 1628 0 0
+/_index.php 2 0 0 0
+/contact.html 2 4186 0 0
+/js/ 2 1024 0 0
+/blog.html 2 5436 0 0
+/_vfm-admin/fonts/fontawesome-webfont.woff2 1 77160 0 0
+/_vfm-admin/fonts/vfm-font.woff 1 7344 0 0
+END_SIDER

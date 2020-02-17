@@ -1,0 +1,658 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 201912 will be lost/reset.
+# Last config file used to build this data file was /home/knowled5/tmp/awstats/awstats.knowledgedr.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2012                
+POS_TIME 2676                
+POS_VISITOR 14966               
+POS_DAY 17856               
+POS_DOMAIN 3456                
+POS_LOGIN 3878                
+POS_ROBOT 4033                
+POS_WORMS 4756                
+POS_EMAILSENDER 4887                
+POS_EMAILRECEIVER 5030                
+POS_SESSION 18426               
+POS_SIDER 18632               
+POS_FILETYPES 5165                
+POS_DOWNLOADS 5414                
+POS_OS 5608                
+POS_BROWSER 5906                
+POS_SCREENSIZE 7251                
+POS_UNKNOWNREFERER 7325                
+POS_UNKNOWNREFERERBROWSER 7817                
+POS_ORIGIN 8069                
+POS_SEREFERRALS 8207                
+POS_PAGEREFS 8351                
+POS_SEARCHWORDS 8499                
+POS_KEYWORDS 8651                
+POS_MISC 2340                
+POS_ERRORS 8710                
+POS_CLUSTER 3734                
+POS_SIDER_404 8823                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20200101001415 44 8959 9697279218618
+FirstTime 0
+LastTime 20191231235435
+LastUpdate 20200101051512 44 0 43 0 0
+TotalVisits 80                  
+TotalUnique 71                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 74                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+AddToFavourites 0 0 0
+FlashSupport 0 0 0
+DirectorSupport 0 0 0
+PDFSupport 0 0 0
+TotalMisc 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+RealPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 24 28 69230 54 71 423215
+1 3 3 18235 97 119 1193563
+2 3 3 23331 71 113 446929
+3 4 4 0 74 106 587186
+4 8 27 597365 41 61 274041
+5 44 102 1567021 61 99 471383
+6 42 43 126709 88 104 302245
+7 75 77 240943 122 141 450179
+8 18 18 49273 55 72 189678
+9 63 151 4535151 144 207 630892
+10 37 142 8950267 67 108 323531
+11 11 11 53908 51 86 2354430
+12 6 6 20064 66 99 897830
+13 63 68 302831 43 67 387516
+14 7 36 3168058 66 103 365161
+15 1 1 3301 34 62 200866
+16 2 6 4986 49 96 335858
+17 4 4 8473 28 45 1524224
+18 5 5 43147 59 74 189579
+19 1 5 4269 35 64 447281
+20 3 3 15651 74 88 351680
+21 6 6 23304 43 77 821571
+22 2 6 4994 53 80 323225
+23 2 2 1434 45 65 1123027
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 15
+us 302 526 13521827
+il 59 64 263046
+ca 42 99 2512890
+gb 6 6 69847
+fr 5 5 51394
+cn 4 16 186896
+ru 3 3 23424
+in 3 24 3151878
+ir 2 2 1434
+pa 2 6 4986
+nl 2 2 14959
+id 1 1 3449
+md 1 1 11143
+ua 1 1 3629
+de 1 1 11143
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 14
+AhrefsBot/ 780 5074145 20191231234030 0
+bingbot/ 301 620200 20191231235945 0
+Googlebot/ 173 1580325 20191229035736 0
+Googlebot\-Image/ 46 4953798 20191230033519 0
+YandexBot/ 19 39107 20191229020611 0
+Sogou[\x20]web[\x20]spider/ 18 38011 20191230091604 0
+bingpreview 14 897740 20191213125631 0
+no_user_agent 10 22668 20191223001627 0
+msnbot/ 8 401412 20191212031829 0
+bot[\s_+:,\.\;\/\\-] 4 18664 20191228234538 0
+Mail\.RU_Bot/ 2 4346 20191225214005 0
+Xenu[\x20]Link[\x20]Sleuth 1 0 20191205103807 0
+(firefox/)([0-9]\.|[0-1][0]\.) 1 721 20191214220155 0
+Discordbot/ 1 16166 20191207114548 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 10
+woff2 16 848760 0 0
+php 52 56506 0 0
+txt 4 308 0 0
+js 87 2355351 0 0
+jpg 73 10236824 0 0
+woff 14 465536 0 0
+html_ 1 16166 0 0
+css 87 915709 0 0
+png 72 3694020 0 0
+html 351 1242765 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 2
+/.well-known/pki-validation/A2E0B61281EB3C92F00E0CD191825A54.txt 2 0 154
+/.well-known/pki-validation/044E787BEAAA789BD20741C6E35A43DA.txt 2 0 154
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 18
+win8.1 12 12
+macosx6 1 1
+macosx 306 119
+winlong 20 4
+macosx12 2 2
+linux 44 33
+macosx11 1 1
+macosx7 4 4
+macosx8 7 7
+win10 114 47
+macosx10 3 3
+winxp 2 2
+linuxandroid 23 2
+win7 43 33
+ios_iphone 6 2
+macosx9 9 8
+win8 4 4
+Unknown 156 150
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 67
+firefox58.0 1 1
+firefox71.0 10 2
+chrome79.0.3945.79 5 1
+chrome56.0.2924.87 2 2
+chrome31.0.1650.63 11 10
+chrome41.0.2227.0 1 1
+msie10.0 4 4
+chrome65.0.3325.181 21 21
+msie7.0 12 0
+safari 6 2
+safari6.0.5 1 1
+chrome67.0.3396.87 2 2
+firefox33.0 2 2
+firefox64.0 3 3
+chrome24.0.1312.57 1 1
+opera62.0.3331.99 1 1
+firefox51.0 1 1
+safari6.1.1 2 2
+chrome13.0.782.112 6 2
+chrome78.0.3904.70 13 3
+chrome70.0.3538.102 46 9
+safari6.1 1 1
+chrome76.0.3809.132 1 1
+chrome12.0.742.91 2 2
+chrome40.0.2214.111 1 1
+netscape5.0 1 1
+firefox70.0 87 15
+Unknown 11 7
+chrome67.0.3396.79 1 1
+msie6.0 1 1
+chrome54.0.2840.98 1 1
+chrome66.0.3359.117 1 1
+msie11.0 3 3
+safari5.1.9 1 1
+chrome53.0.2785.104 1 1
+firefox25.0 2 2
+firefox59.0 2 2
+chrome36.0.1985.143 1 1
+chrome68.0.3440.106 6 1
+chrome41.0.2225.0 1 1
+firefox26.0 8 7
+chrome32.0.1700.72 3 3
+chrome32.0.1700.68 2 2
+chrome41.0.2226.0 1 1
+firefox68.0 1 1
+chrome74.0.3729.131 2 2
+firefox36.0 1 1
+chrome26.0.1410.65 1 1
+msie11 3 3
+firefox60.0 5 5
+chrome71.0.3578.98 1 1
+firefox29.0 2 2
+mozilla 146 144
+chrome63.0.3239.132 9 9
+firefox27.3 2 2
+chrome32.0.1700.41 1 1
+edge17 30 10
+chrome31.0.1650.57 2 1
+edge14 1 1
+chrome67.0.3396.99 3 3
+safari12.1 202 95
+firefox63.0 5 5
+chrome78.0.3904.108 13 3
+chrome78.0.3904.96 23 2
+chrome66.0.3359.139 6 6
+firefox24.0 2 2
+firefox27.0 6 6
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 7
+Go-http-client/1.1 20191219181636
+Mozilla/6.0_(compatible) 20191206132857
+COMODO_DCV 20191220001125
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20191203210023
+Mozilla/5.0_(compatible;_Google-Site-Verification/1.0) 20191207105219
+Mozilla/5.0_(compatible) 20191206132847
+HubSpot_Connect_2.0_(http://dev.hubspot.com/)_-_BizOpsCompanies-Tq2-BizCoDomainValidationAudit 20191225035643
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+Go-http-client/1.1 20191219181636
+COMODO_DCV 20191220001125
+HubSpot_Connect_2.0_(http://dev.hubspot.com/)_-_BizOpsCompanies-Tq2-BizCoDomainValidationAudit 20191225035643
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 262 288
+From1 0 0
+From2 0 0
+From3 0 0
+From4 172 469
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+404 742 917112
+403 25 30675
+302 19 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 169
+/img/home-background.jpg 1 http://www.knowledgedr.com/
+/img/course06.jpg 1 http://www.knowledgedr.com/
+/vfm-admin/js/jquery-3.3.1.min.js 2 http://www.knowledgedr.com/
+/test/ 1 -
+/sitemap.xml 2 -
+/news 1 -
+/the-amazing-health-benefits-of-grounding-earthing/ 1 -
+/category/health-living/ 1 -
+/wp-content/plugins/mailcwp/mailcwp-upload.php 2 http://www.google.com/
+/amazing-sun-through-snowy-forest/ 1 -
+/robots.txt 256 -
+/vfm-admin/js/videojs/video.min.js 1 http://www.knowledgedr.com/
+/css/font-awesome.min.css 1 http://www.knowledgedr.com/
+/tag/men/ 1 -
+/web-hosting.php 1 -
+/dev/ 1 -
+/img/course01.jpg 1 http://www.knowledgedr.com/
+/what-is-meditation-and-how-do-you-get-started/ 1 -
+/apple-touch-icon.png 2 -
+/wp/wp-includes/wlwmanifest.xml 1 -
+/category/lifestyle/life-skills/healthy-habits/ 1 -
+/new/ 1 -
+/2017/09/ 1 -
+/css/style.css 1 http://www.knowledgedr.com/
+/wp-content/plugins/uploadify/includes/check.php 2 http://www.google.com/
+/wp-hook-ajax.php 1 -
+/reseller-hosting.php 1 -
+/self/ 4 -
+/top-10-exercise-tips-for-rapid-weight-loss/ 1 -
+//cms/wp-login.php 1 -
+/main 1 -
+/contact.html/js/google-map.js 1 -
+/wp-admin 1 -
+/news/google-how-to-move-from-separate-mobile-urls-to-one-responsive-url/feed/ 1 -
+/license.php 1 -
+/vfm-admin/js/videojs/lang/en.js 1 http://www.knowledgedr.com/
+/vfm-admin/css/bootstrap.min.css 1 http://www.knowledgedr.com/
+/blog/ 1 -
+/vfm-admin/_content/skins/blank.css 1 http://www.knowledgedr.com/
+/website 1 -
+/press 1 -
+/img/cta2-background.jpg 1 http://www.knowledgedr.com/
+/null 1 -
+/img/logo.png 1 http://www.knowledgedr.com/
+/google85231da50b5c8b62.html 68 -
+/old/ 1 -
+/img/course05.jpg 1 http://www.knowledgedr.com/
+/cms 1 -
+/backup/ 1 -
+/privacy-policy/ 1 -
+/relationships/ 1 -
+/wp-json/wp/v2/users/ 8 -
+/tag/system/ 1 -
+/wp/ 1 -
+/social-media/social-media-marketing-for-link-building-top-tactics-strategies/ 1 -
+/category/health/alternative-medicine/chinese-medicine/ 1 -
+/www 1 -
+/category/health/alternative-medicine/acupressure/ 1 -
+/author/admin/page/3/ 1 -
+/2017/06/27/young-photographer-in-action-taking-a-photo/ 1 -
+/site/ 1 -
+/wp-content/plugins/rich-reviews/css/rich-reviews.css 1 -
+/wp-content/plugins/reflex-gallery/admin/scripts/FileUploader/php.php 2 http://www.google.com/
+/temp/ 1 -
+/ 10 -
+/feed/ 23 -
+/demo/ 1 -
+/wp-content/plugins/apikey/apikey.php 1 -
+/img/course03.jpg 1 http://www.knowledgedr.com/
+/cms/wp-includes/wlwmanifest.xml 1 -
+/contact.html/js/bootstrap.min.js 1 -
+/admin/login.php 3 -
+/administrator/components/com_rokdownloads/assets/uploadhandler.php 1 -
+/vfm-admin/js/videojs/lang/zh.js 3 http://knowledgedr.com/
+/disclaimer-2/ 1 -
+/category/social-media/ 1 -
+/tag/splash/ 1 -
+/img/course07.jpg 1 http://www.knowledgedr.com/
+/templates/system/css/system.css 1 -
+/wp-content/plugins/Premium_Gallery_Manager/uploadify/uploadify.css 2 http://www.google.com/
+/news/google-search-app-to-suggest-related-content/feed/ 1 -
+/vfm-admin/js/bootstrap.min.js 1 http://www.knowledgedr.com/
+/en 1 -
+/home 1 -
+/wp-ajax-hook.php 1 -
+/new 1 -
+/vfm-admin/js/videojs/video-js.min.css 1 http://www.knowledgedr.com/
+/wordpress 1 -
+/about-us.php 1 -
+/category/education/ 1 -
+/img/cta1-background.jpg 1 http://www.knowledgedr.com/
+/category/tools-tips/feed/ 1 -
+/components/com_facileforms/libraries/jquery/uploadify.php 1 -
+/wp-load.php 2 knowledgedr.com
+/wp-admin/wp-hook-ajax.php 1 -
+/wp-content/uploads/2019/04/kndr-12.png 4 -
+/site/wp-includes/wlwmanifest.xml 1 -
+/blog 1 -
+/wordpress/wp-includes/wlwmanifest.xml 1 -
+/category/business/ 1 -
+/index.html 11 -
+/contact.php 1 -
+/portal/ 1 -
+/lifestyle/ 4 -
+/css/bootstrap.min.css 1 http://www.knowledgedr.com/
+/main/ 1 -
+/tmp/ 1 -
+/img/course08.jpg 1 http://www.knowledgedr.com/
+/web/ 1 -
+/yslider/timthumb.php 1 -
+/index.php 1 -
+/test 1 -
+/comments/feed/ 2 -
+/wp-content/plugins/igniteup/includes/js/main.js 1 -
+/category/fashion/ 1 -
+/img/about-video.jpg 1 http://www.knowledgedr.com/
+/wordpress/ 1 -
+/wp-includes/wlwmanifest.xml 1 -
+/vfm-admin/vfm-style.css 1 http://www.knowledgedr.com/
+/tag/techniques/ 1 -
+/category/science/ 2 -
+/apple-touch-icon-precomposed.png 2 -
+/wp-login.php 4 -
+/google2c3b7f2ea31b18bf.html 62 -
+/diet/ 3 -
+/seo-hacks/3-reasons-seo-is-incredibly-valuable-to-your-company/ 2 -
+/contact.html/js/jquery.min.js 1 -
+/site 1 -
+/fight-depression-now-with-these-6-steps-to-raise-your-spirits/ 1 -
+////wp-login.php 3 -
+/wp 1 -
+/category/tools-tips/ 1 -
+/seo-hacks/export-google-search-consoles-index-coverage-report/ 1 -
+/ads.txt 30 -
+/demo 1 -
+/vfm-admin/js/app.min.js 1 http://www.knowledgedr.com/
+/tag/tag-one/feed/ 1 -
+/js/main.js 1 http://www.knowledgedr.com/
+/wp-content/plugins/uploadify/readme.txt 2 http://www.google.com/
+/wp-content/plugins/wp-mobile-detector/readme.txt 1 -
+/wp-admin/admin-ajax.php 1 -
+/home/ 1 -
+/seo-hacks/multiple-sites-does-it-hurt-or-help-seo/ 1 -
+/category/fitness/exercises/aerobics/ 1 -
+/tag/sexual-energy/ 1 -
+/js/jquery.min.js 1 http://www.knowledgedr.com/
+/img/about.png 1 http://www.knowledgedr.com/
+/js/bootstrap.min.js 1 http://www.knowledgedr.com/
+/seo-hacks/how-to-build-links-for-bing-vs-google/ 1 -
+/admin/images/cal_date_over.gif 5 -
+/installer-backup.php 5 -
+/vps-hosting.php 4 -
+/cms/ 1 -
+/installer.php 4 -
+/author/luca-nicole/ 1 -
+/img/logo-alt.png 1 http://www.knowledgedr.com/
+/combat-acidosis-with-these-10-alkaline-foods-added-in-your-diet/ 1 -
+/xmlrpc.php 17 -
+/tag/google/ 1 -
+/category/seo-hacks/feed/ 1 -
+/fckeditor/editor/filemanager/connectors/php/upload.php 1 -
+/administrator/components/com_extplorer/uploadhandler.php 1 -
+/auto-attachments/thumb.php 1 -
+/vfm-admin/css/font-awesome.min.css 1 http://www.knowledgedr.com/
+/administrator/index.php 50 -
+/css/bootstrap.min.css.map 2 http://www.knowledgedr.com/
+/img/course04.jpg 1 http://www.knowledgedr.com/
+/blog/wp-includes/wlwmanifest.xml 1 -
+/img/course02.jpg 1 http://www.knowledgedr.com/
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 74
+97.101.16.201 112 299 12064401 20191218220710
+82.80.249.212 57 62 255412 20191206132859
+66.102.8.214 56 56 160644 20191207105219
+66.102.8.216 46 46 131912 20191207103440
+66.102.8.212 38 38 108802 20191207105105
+167.114.124.133 23 80 2476899 20191230101428
+142.93.77.241 17 17 32614 20191229000509
+65.154.226.100 4 19 578218 20191206040820
+51.159.30.31 4 4 50279 20191211111928
+66.235.169.51 3 3 33915 20191207021701
+198.46.214.183 3 3 4903 20191222210456
+62.210.79.40 3 3 29108 20191211134853
+23.94.32.29 3 3 4903 20191231120954
+186.1.141.184 2 6 4986 20191228045827
+185.81.157.154 2 2 22286 20191207005120
+223.189.49.30 2 23 3148249 20191207144548
+167.99.93.221 2 2 7258 20191208215222
+84.47.246.211 2 2 1434 20191231235435
+69.61.169.175 2 6 4986 20191215163639
+188.166.176.184 2 2 14959 20191204183800
+54.174.53.30 1 1 0 20191218035602
+178.70.165.83 1 1 16166 20191207180039
+54.174.54.173 1 1 0 20191225035643
+107.6.171.130 1 1 3629 20191207173504
+204.44.86.194 1 1 3629 20191208055924
+159.89.146.103 1 1 3377 20191206142429
+64.246.165.160 1 1 3402 20191204000618
+34.253.232.186 1 1 717 20191225205601
+183.150.250.45 1 1 11305 20191206011737
+104.222.33.143 1 1 3301 20191218063908
+68.183.104.51 1 1 3301 20191222011121
+64.246.161.30 1 1 721 20191229084346
+209.97.152.245 1 1 721 20191225175439
+184.154.46.57 0 4 308 
+51.159.30.29 1 1 16166 20191208092254
+166.62.126.3 1 1 2856 20191205041901
+23.95.239.194 1 1 3301 20191223122202
+97.101.89.185 1 5 4269 20191215190952
+35.161.42.17 1 1 3402 20191206172852
+34.213.29.125 1 1 717 20191219181636
+125.105.82.201 1 1 11305 20191206023550
+106.120.173.145 0 12 141676 
+64.182.36.102 1 1 717 20191215004231
+159.203.32.136 1 1 0 20191229093232
+104.222.33.89 1 1 3301 20191217001555
+51.68.152.26 1 1 3402 20191205103514
+173.252.95.11 1 1 3490 20191206053840
+199.30.231.2 1 1 721 20191225050308
+178.175.132.77 1 1 11143 20191205075244
+5.189.207.212 1 1 3629 20191207141248
+142.93.157.50 1 1 0 20191229093233
+95.216.149.140 1 1 3629 20191212205005
+5.189.205.184 1 1 3629 20191212132821
+104.222.43.226 1 1 3301 20191219150227
+173.252.95.60 1 6 130159 20191206053840
+23.239.180.169 1 1 3301 20191218001137
+82.80.249.163 1 1 4257 20191206140502
+82.80.249.214 1 1 3377 20191206132822
+173.252.95.42 1 1 7344 20191206053841
+54.174.54.32 1 1 0 20191204035603
+123.148.217.97 1 1 11305 20191206200109
+138.197.111.113 1 1 721 20191221225849
+103.199.18.104 1 1 3629 20191210011804
+173.252.95.35 0 5 217236 
+165.227.210.120 1 1 721 20191225175515
+23.239.180.2 1 1 3301 20191220001211
+34.221.166.249 1 1 717 20191225120805
+54.174.54.245 1 1 0 20191211035809
+123.148.209.82 1 1 11305 20191207042428
+148.251.52.53 1 1 11143 20191204121603
+165.22.42.197 1 1 11143 20191203210023
+165.227.221.126 1 1 721 20191231022439
+34.241.70.175 1 1 717 20191223101109
+102.157.85.200 1 1 3449 20191207094913
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 24
+20191201 0 5 32784 0
+20191203 1 1 11143 1
+20191204 6 6 40809 5
+20191205 4 7 61336 4
+20191206 71 101 1240187 12
+20191207 259 455 15672958 17
+20191208 4 7 65261 3
+20191210 1 1 3629 1
+20191211 8 8 79387 3
+20191212 2 2 7258 2
+20191213 0 3 38208 0
+20191215 4 12 9972 3
+20191217 1 1 3301 1
+20191218 6 18 19421 5
+20191219 2 2 4018 2
+20191220 1 3 3455 1
+20191221 1 1 721 1
+20191222 4 4 8204 2
+20191223 2 2 4018 2
+20191225 6 6 3597 6
+20191228 2 6 4986 1
+20191229 20 20 33335 4
+20191230 23 80 2476899 1
+20191231 6 6 7058 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+2mn-5mn 1
+0s-30s 68
+1h+ 4
+15mn-30mn 1
+30mn-1h 2
+30s-2mn 2
+5mn-15mn 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 28
+/ 323 1121365 76 66
+/vfm-admin/ajax/session.php 18 0 0 0
+/vfm-admin/fonts/vfm-font.woff 9 66096 1 2
+/vfm-admin/ajax/get-dirs.php 9 3773 0 0
+/contact.html 9 31971 0 4
+/vfm-admin/ajax/get-files.php 9 603 0 0
+/fonts/fontawesome-webfont.woff2 9 308640 0 2
+/vfm-admin/fonts/fontawesome-webfont.woff2 7 540120 1 2
+/vfm-admin/ 4 59820 0 0
+/fonts/fontawesome-webfont.woff 3 294072 0 1
+/_index.php 3 0 0 0
+/vfm-admin/login.php 3 5022 0 0
+/_vfm-thumb.php 3 0 0 0
+/blog.html 3 16912 0 0
+/blog-post.html 2 7004 0 0
+/fonts/ 2 1135 0 0
+/js/ 2 1020 0 0
+/img/ 2 1624 0 0
+/vfm-admin/index.php 2 35832 0 0
+/css/ 2 1007 0 0
+/_vfm-admin/login.php 2 3350 0 0
+/uploads/ 2 907 0 0
+/vfm-admin/ajax/get-filetree.php 1 220 0 0
+/_vfm-admin/fonts/fontawesome-webfont.woff 1 98024 0 0
+/index.php 1 3449 1 1
+/vfm-admin/captcha/img.php 1 4257 1 1
+/_vfm-admin/fonts/vfm-font.woff 1 7344 0 0
+/index.html_ 1 16166 0 1
+END_SIDER

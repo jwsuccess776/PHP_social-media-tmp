@@ -1,0 +1,394 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 201910 will be lost/reset.
+# Last config file used to build this data file was /home/knowled5/tmp/awstats/ssl/awstats.knowledgedr.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2016                
+POS_TIME 2677                
+POS_VISITOR 9986                
+POS_DAY 11131               
+POS_DOMAIN 3321                
+POS_LOGIN 3596                
+POS_ROBOT 3751                
+POS_WORMS 3955                
+POS_EMAILSENDER 4086                
+POS_EMAILRECEIVER 4229                
+POS_SESSION 11473               
+POS_SIDER 11620               
+POS_FILETYPES 4364                
+POS_DOWNLOADS 4447                
+POS_OS 4495                
+POS_BROWSER 4635                
+POS_SCREENSIZE 4854                
+POS_UNKNOWNREFERER 4928                
+POS_UNKNOWNREFERERBROWSER 5206                
+POS_ORIGIN 5394                
+POS_SEREFERRALS 5526                
+POS_PAGEREFS 5670                
+POS_SEARCHWORDS 5818                
+POS_KEYWORDS 5970                
+POS_MISC 2341                
+POS_ERRORS 6029                
+POS_CLUSTER 3452                
+POS_SIDER_404 6130                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20191101011321 8 1092 8559410409398
+FirstTime 0
+LastTime 20191029105207
+LastUpdate 20191101051855 8 0 7 0 0
+TotalVisits 28                  
+TotalUnique 28                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 28                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+RealPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+FlashSupport 0 0 0
+TotalMisc 0 0 0
+AddToFavourites 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+PDFSupport 0 0 0
+DirectorSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 2 2 51040 12 17 38846
+1 1 1 11143 11 17 36691
+2 0 0 0 9 11 20864
+3 0 0 0 12 17 41984
+4 2 2 51052 14 22 47359
+5 0 0 0 11 15 29759
+6 0 0 0 7 7 20533
+7 0 0 0 11 13 27779
+8 1 1 3377 7 11 22812
+9 2 2 39897 13 19 44926
+10 5 5 34337 13 17 30805
+11 0 0 0 9 13 24360
+12 0 0 0 12 17 37356
+13 0 0 0 10 15 29333
+14 0 0 0 16 24 51463
+15 0 0 0 14 20 47547
+16 0 0 0 19 23 51656
+17 7 7 23814 7 10 15436
+18 6 6 72401 7 16 21084
+19 2 2 43299 14 21 48972
+20 0 0 0 7 10 26068
+21 0 0 0 7 8 21332
+22 0 0 0 4 8 16690
+23 0 0 0 12 19 40540
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 5
+us 22 22 289208
+cl 3 3 18866
+il 1 1 11143
+au 1 1 0
+ca 1 1 11143
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 2
+AhrefsBot/ 151 538563 20191031133205 0
+bingbot/ 1 3402 20191023150105 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 1
+html 28 330360 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 6
+win7 2 2
+linuxandroid 1 1
+ios_iphone 2 2
+linux 1 1
+Unknown 21 21
+win10 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 9
+safari10.0 1 1
+chrome61.0.3163.81 1 1
+Unknown 12 12
+chrome53.0.2785.116 1 1
+chrome53.0.2785.143 1 1
+safari 1 1
+chrome26.0.1410.63 1 1
+chrome40.0.2214.85 1 1
+mozilla 9 9
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 4
+Go-http-client/1.1 20191028172957
+python-requests/2.21.0 20191014080839
+Go-http-client/2.0 20191012172154
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20191027092257
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+Go-http-client/2.0 20191012172154
+Go-http-client/1.1 20191028172957
+python-requests/2.21.0 20191014080839
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 28 28
+From1 0 0
+From2 0 0
+From3 0 0
+From4 0 0
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+404 213 252004
+401 5 226
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 101
+/category/happiness/humor/ 1 -
+/category/health/alternative-medicine/homeopathy/ 1 -
+/recipes/ 1 -
+/category/fitness/general-fitness/ 1 -
+/web-hosting.php 1 -
+/reseller-hosting.php 1 -
+/category/relationships/family/ 1 -
+/the-super-power-of-garlic-as-a-natural-antibiotic/ 1 -
+/category/fitness/workouts/ 2 -
+/category/lifestyle/life-skills/ 1 -
+/category/beauty/personal-care/ 1 -
+/category/health/alternative-medicine/ayurveda/ 1 -
+/category/health/womens-health/ 1 -
+/tag/attraction/ 1 -
+/category/lifestyle/travel/ 1 -
+/contact/ 1 -
+/tag/depression/ 1 -
+/lifestyle/ 1 -
+/category/relationships/friendships/ 1 -
+/tag/diet/feed/ 1 -
+/category/health/alternative-medicine/acupressure/ 1 -
+/category/health/alternative-medicine/ 1 -
+/tag/diet/ 1 -
+/tag/hormones/ 1 -
+/contact.php 1 -
+/category/happiness/dreams-goals/ 1 -
+/privacy-policy/ 1 -
+/first-timers-guide-to-visiting-bordeaux/ 1 -
+/category/lifestyle/life-skills/organization/ 1 -
+/robots.txt 80 -
+/category/relationships/couples/ 1 -
+/category/lifestyle/life-skills/self-motivation/feed/ 1 -
+/category/health/alternative-medicine/naturopathy/ 1 -
+/fast-food-is-a-time-bomb/feed/ 1 -
+/author/admin/ 1 -
+/the-amazing-health-benefits-of-grounding-earthing/ 1 -
+/combat-acidosis-with-these-10-alkaline-foods-added-in-your-diet/feed/ 1 -
+/comments/feed/ 1 -
+/category/health/alternative-medicine/holistic-medicine/ 1 -
+/category/happiness/manifesting/ 1 -
+/disclaimer-2/ 1 -
+/category/health/alternative-medicine/alternative-remedies/ 1 -
+/category/happiness/success/ 1 -
+/category/lifestyle/non-toxic-living/ 1 -
+/category/fitness/exercises/aerobics/ 1 -
+/category/lifestyle/life-skills/other-life-skills/ 1 -
+/donate/ 1 -
+/category/health/alternative-medicine/reflexology/ 1 -
+/category/happiness/success/feed/ 1 -
+/category/relationships/singlehood/ 1 -
+/about-us.php 1 -
+/category/health/diseases-conditions/ 2 -
+/category/mindfulness/meditation/ 1 -
+/laptop-on-wooden-desk-in-office-open-space/feed/ 1 -
+/category/health/integrative-health/ 1 -
+/soul-mate-or-scam-bait/ 1 -
+/category/fitness/ 1 -
+/tag/woman/ 1 -
+/category/beauty/ 1 -
+/category/fitness/exercises/stretching/ 1 -
+/category/beauty/hair-care/ 1 -
+/vps-hosting.php 1 -
+/fight-depression-now-with-these-6-steps-to-raise-your-spirits/ 1 -
+/combat-acidosis-with-these-10-alkaline-foods-added-in-your-diet/ 1 -
+/category/health/mens-health/ 1 -
+/category/food/functional-foods/ 1 -
+/category/happiness/ 1 -
+/the-shocking-truth-about-whats-in-your-skin-care-products/feed/ 1 -
+/tag/men/ 1 -
+/category/fitness/fitness-tips/ 1 -
+/category/fitness/feed/ 1 -
+/category/health/alternative-medicine/chinese-medicine/ 1 -
+/author/luca-nicole/ 1 -
+/tag/young/feed/ 1 -
+/page/2/ 1 -
+/category/fitness/exercises/ 1 -
+/category/happiness/gratitude-appreciation/ 1 -
+/category/happiness/beliefs/ 1 -
+/category/mindfulness/spirituality/ 1 -
+/category/fitness/pilates/ 1 -
+/tag/sexual-energy/ 1 -
+/boost-the-immune-system-protect-your-body-with-vitamin-d3/ 1 -
+/write-for-us/ 1 -
+/category/relationships/ 1 -
+/category/food/diet-nutrition/ 1 -
+/tag/young/ 1 -
+/ads.txt 32 -
+/category/food/feed/ 1 -
+/category/lifestyle/life-skills/self-motivation/ 1 -
+/page/4/ 1 -
+/category/mindfulness/ 1 -
+/the-shocking-truth-about-whats-in-your-skin-care-products/ 1 -
+/category/food/ 1 -
+/category/relationships/feed/ 1 -
+/comment-policy/ 1 -
+/why-you-shouldnt-quit-or-give-up/feed/ 1 -
+/category/fitness/yoga/ 1 -
+/category/health/ 1 -
+/category/health/mental-health/ 1 -
+/category/beauty/skin-care/ 1 -
+/category/health/alternative-medicine/herbs/ 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 28
+45.40.126.83 1 1 3402 20191029104245
+157.245.220.192 1 1 11143 20191008015132
+52.38.214.61 1 1 3402 20191008172148
+45.55.34.118 1 1 39897 20191008190117
+34.222.164.3 1 1 3402 20191011172826
+157.245.5.133 1 1 39897 20191027092257
+157.245.208.218 1 1 11143 20191008003035
+54.70.118.2 1 1 3402 20191007172137
+181.214.188.3 1 1 3402 20191029105028
+54.186.104.95 1 1 3402 20191006172906
+34.217.75.13 1 1 3402 20191016183737
+209.97.146.211 1 1 39909 20191008185554
+38.145.84.74 1 1 12069 20191029105138
+2.59.134.47 1 1 11143 20191018044415
+34.222.237.112 1 1 3402 20191012172154
+34.222.105.252 1 1 3402 20191028172957
+157.245.114.19 1 1 39909 20191008040241
+181.215.77.240 1 1 12062 20191029104348
+142.93.72.174 1 1 11143 20191008184335
+129.78.110.131 1 1 0 20191007094437
+157.245.14.110 1 1 39897 20191008004211
+52.38.153.120 1 1 3377 20191014080839
+45.55.36.128 1 1 11143 20191008184056
+52.42.249.103 1 1 3402 20191018172756
+35.167.237.86 1 1 3402 20191019193238
+34.215.146.246 1 1 3402 20191015183819
+54.213.16.82 1 1 3402 20191023181918
+191.96.41.45 1 1 3402 20191029105207
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 14
+20191006 1 1 3402 1
+20191007 2 2 3402 2
+20191008 9 9 207586 9
+20191011 1 1 3402 1
+20191012 1 1 3402 1
+20191014 1 1 3377 1
+20191015 1 1 3402 1
+20191016 1 1 3402 1
+20191018 2 2 14545 2
+20191019 1 1 3402 1
+20191023 1 1 3402 1
+20191027 1 1 39897 1
+20191028 1 1 3402 1
+20191029 5 5 34337 5
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 1
+0s-30s 28
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 1
+/ 28 330360 28 28
+END_SIDER

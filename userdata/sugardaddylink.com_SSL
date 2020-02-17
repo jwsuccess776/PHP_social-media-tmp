@@ -1,0 +1,18 @@
+--- 
+documentroot: /home/knowled5/public_html
+group: knowled5
+hascgi: 1
+homedir: /home/knowled5
+ip: 184.154.46.57
+ipv6: ~
+owner: root
+phpopenbasedirprotect: ~
+port: 443
+secruleengineoff: ~
+serveradmin: webmaster@sugardaddylink.com
+serveralias: mail.sugardaddylink.com www.sugardaddylink.com
+servername: sugardaddylink.com
+ssl: 1
+usecanonicalname: 'Off'
+user: knowled5
+userdirprotect: ''

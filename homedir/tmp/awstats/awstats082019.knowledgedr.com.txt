@@ -1,0 +1,619 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 201908 will be lost/reset.
+# Last config file used to build this data file was /home/knowled5/tmp/awstats/awstats.knowledgedr.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2012                
+POS_TIME 2689                
+POS_VISITOR 21946               
+POS_DAY 23889               
+POS_DOMAIN 3382                
+POS_LOGIN 3733                
+POS_ROBOT 3888                
+POS_WORMS 4479                
+POS_EMAILSENDER 4610                
+POS_EMAILRECEIVER 4753                
+POS_SESSION 24316               
+POS_SIDER 24463               
+POS_FILETYPES 4888                
+POS_DOWNLOADS 4971                
+POS_OS 5019                
+POS_BROWSER 5215                
+POS_SCREENSIZE 5686                
+POS_UNKNOWNREFERER 5760                
+POS_UNKNOWNREFERERBROWSER 5956                
+POS_ORIGIN 6096                
+POS_SEREFERRALS 6228                
+POS_PAGEREFS 6372                
+POS_SEARCHWORDS 6520                
+POS_KEYWORDS 6672                
+POS_MISC 2353                
+POS_ERRORS 6731                
+POS_CLUSTER 3589                
+POS_SIDER_404 6822                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20190901003016 40 7000 8334509477296
+FirstTime 20190814051210
+LastTime 20190831235456
+LastUpdate 20190901051230 40 0 39 0 0
+TotalVisits 60                  
+TotalUnique 49                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 49                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+RealPlayerSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+QuickTimeSupport 0 0 0
+FlashSupport 0 0 0
+DirectorSupport 0 0 0
+TotalMisc 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 21 29 35802
+1 2 2 4806 21 38 48075
+2 4 4 21094 24 31 38098
+3 0 0 0 22 43 52088
+4 0 0 0 22 28 34654
+5 2 2 4806 28 35 37884
+6 2 2 4806 21 34 45566
+7 2 2 4806 16 26 32465
+8 3 3 18691 28 45 60704
+9 1 1 2403 41 62 91363
+10 2 2 10547 13 19 25577
+11 3 3 18691 32 47 65617
+12 2 2 10547 31 47 57935
+13 0 0 0 19 29 35909
+14 2 2 16288 18 24 26618
+15 2 2 16288 23 35 46455
+16 2 2 4237 17 38 47613
+17 1 1 2403 17 32 37529
+18 5 5 12015 17 28 33399
+19 8 8 24965 20 27 32251
+20 4 4 9612 24 37 44986
+21 4 4 26835 27 45 52453
+22 5 5 23497 27 36 43838
+23 4 4 21094 21 35 40180
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 11
+us 36 36 92249
+gb 11 11 89584
+fr 5 5 40720
+ru 1 1 8144
+in 1 1 1834
+sc 1 1 2403
+cn 1 1 8144
+zz 1 1 2403
+ca 1 1 2403
+de 1 1 8144
+ir 1 1 2403
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 11
+YandexBot/ 18 43254 20190831175435 0
+bot[\s_+:,\.\;\/\\-] 17 40851 20190830045325 0
+Sogou[\x20]web[\x20]spider/ 15 36045 20190831093623 0
+AhrefsBot/ 8 19224 20190831201521 0
+Googlebot/ 8 14672 20190831172446 0
+bingbot/ 7 12015 20190825073829 0
+(firefox/)([0-9]\.|[0-1][0]\.) 3 24432 20190826082507 0
+Baiduspider/ 3 7209 20190816122344 0
+no_user_agent 2 4806 20190827024630 0
+Xenu[\x20]Link[\x20]Sleuth 1 0 20190830112738 0
+MojeekBot/ 1 2403 20190829181516 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 1
+html 60 258431 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 11
+linux 3 3
+win8.1 1 1
+ios_iphone 1 1
+macosx 3 3
+win10 9 9
+macosx8 1 1
+macosx10 1 1
+winxp 17 17
+macosx12 2 2
+win7 6 6
+Unknown 16 16
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 22
+chrome75.0.3770.100 1 1
+msie11.0 1 1
+firefox64.0 1 1
+chrome76.0.3809.100 1 1
+chrome69.0.3497.100 1 1
+firefox59.0 4 4
+mozilla 2 2
+edge16 2 2
+chrome75.0.3770.142 1 1
+msie6.0 16 16
+chrome67.0.3396.79 2 2
+chrome74.0.3729.131 1 1
+chrome58.0.3029.110 2 2
+safari12.1.2 1 1
+chrome65.0.3325.181 1 1
+chrome74.0.3729.169 1 1
+chrome41.0.2228.0 1 1
+safari12.1 1 1
+firefox58.0 1 1
+Unknown 15 15
+firefox68.0 3 3
+chrome26.0.1410.65 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+Go-http-client/1.1 20190831182238
+PleskBot 20190827153038
+Mozilla/5.0_(compatible;_ips-agent) 20190814231348
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+Go-http-client/1.1 20190831182238
+PleskBot 20190827153038
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 58 58
+From1 0 0
+From2 0 0
+From3 0 0
+From4 2 2
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 1
+404 751 862148
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 271
+/category/fitness/exercises/stretching/ 1 -
+/wp-content/plugins/dzs-videogallery/admin/dzsuploader/upload.css 1 http://knowledgedr.com/wp-content/plugins/dzs-videogallery/admin/dzsuploader/upload.css
+/prague-astronomical-clock-in-the-old-town-square/feed/ 2 -
+/wp-content/plugins/wp-business-intelligence-lite/resources/open-flash-chart/php-ofc-library/ofc_upload_image.php 1 http://knowledgedr.com/wp-content/plugins/wp-business-intelligence-lite/resources/open-flash-chart/php-ofc-library/ofc_upload_image.php
+/category/fitness/pilates/feed/ 1 -
+/wordpress/wp-admin/ 1 -
+/category/beauty/ 1 -
+/category/health/ 1 -
+/wp-content/uploads/2019/06/caju-gomes-500579-unsplash-300x300.jpg 1 -
+/category/relationships/family/feed/ 1 -
+/category/health/mental-health/ 6 -
+/category/fitness/fitness-tips/feed/ 1 -
+/category/happiness/dreams-goals/ 1 -
+/7-steps-to-beautiful-healthier-skin/feed/ 1 -
+/tag/young/ 1 -
+/js/modernizr.custom.14914.js 15 -
+/golden-gate-bridge-from-battery-spencer-viewpoint/feed/ 1 -
+/prague-astronomical-clock-in-the-old-town-square/ 1 -
+/pure-nature-above-green-forest-on-the-hill/feed/ 2 -
+/pure-nature-above-green-forest-on-the-hill/ 2 -
+/page/2/ 6 -
+/category/health/alternative-medicine/ayurveda/feed/ 1 -
+/what-is-meditation-and-how-do-you-get-started/ 1 -
+/red-rose-with-drops-close-up/feed/ 1 -
+/category/lifestyle/travel/feed/ 1 -
+/category/fitness/pilates/ 1 -
+/wp-content/plugins/jquery-html5-file-upload/readme.txt 3 http://knowledgedr.com/wp-content/plugins/jquery-html5-file-upload/readme.txt
+/wp-content/plugins/whatsmyrank-dev/php-ofc-library/ofc_upload_image.php 1 http://knowledgedr.com/wp-content/plugins/whatsmyrank-dev/php-ofc-library/ofc_upload_image.php
+/news/google-how-to-move-from-separate-mobile-urls-to-one-responsive-url/ 1 -
+/tag/woman/ 1 -
+/how-sleep-loss-alters-our-emotional-perception-tips-to-better-sleep/feed/ 1 -
+/boost-the-immune-system-protect-your-body-with-vitamin-d3/feed/ 1 -
+/category/health/alternative-medicine/naturopathy/ 1 -
+/category/fitness/exercise-training/ 1 -
+/wp-content/uploads/2019/04/fitness-957115_1280.jpg 3 -
+/category/lifestyle/life-skills/ 1 -
+/speed-o-meter-in-a-car-through-window/feed/ 1 -
+/donate/ 3 -
+/acheive-success-with-your-personal-growth/feed/ 1 -
+/wp-content/uploads/2019/06/caju-gomes-500579-unsplash-796x445.jpg 2 -
+/man-talking-about-architecture-ideas/feed/ 1 -
+/category/happiness/success/feed/ 1 -
+/category/technology/feed/ 2 -
+/2017/06/27/fresh-strawberries-and-blackberries-in-little-bowl/ 1 -
+/wp-content/uploads/2019/05/tracks-in-the-sand-1444747_1280-796x445.jpg 2 -
+/category/fitness/yoga/ 1 -
+/category/happiness/beliefs/ 1 -
+/wp-content/plugins/maintenance/load/css/style.css 2 http://knowledgedr.com/category/fitness/exercises/aerobics/
+/page/4/ 2 -
+/first-timers-guide-to-visiting-bordeaux/ 1 -
+/wp-content/uploads/2019/04/Porte-dAquitaine-Bordeaux-France.jpg 3 -
+/category/relationships/feed/ 1 -
+/category/beauty/skin-care/ 1 -
+/category/food/diet-nutrition/feed/ 1 -
+/wp-content/plugins/unicode/info.php 3 http://site.ru
+/the-amazing-health-benefits-of-grounding-earthing/feed/ 1 -
+/author/zack/ 1 -
+/category/beauty/general-beauty/ 2 -
+/category/food/functional-foods/feed/ 1 -
+/category/lifestyle/life-skills/organization/ 1 -
+/contact.php 12 -
+/category/health/alternative-medicine/naturopathy/feed/ 1 -
+/category/happiness/feed/ 1 -
+/category/fitness/yoga/feed/ 1 -
+/category/happiness/gratitude-appreciation/feed/ 1 -
+/category/mindfulness/feed/ 1 -
+/category/health/alternative-medicine/reflexology/ 1 -
+/category/social-media/ 5 -
+/wp-includes/wlwmanifest.xml 5 -
+/wp-theme.php 3 http://site.ru
+/t-shirts-on-rack-with-room-for-text/ 1 -
+/washington-street-palms-in-san-francisco/feed/ 1 -
+/tag/techniques/ 1 -
+/wp-content/plugins/whatsmyrank-devenc/php-ofc-library/ofc_upload_image.php 1 http://knowledgedr.com/wp-content/plugins/whatsmyrank-devenc/php-ofc-library/ofc_upload_image.php
+/category/beauty/feed/ 4 -
+/category/fitness/exercises/aerobics/feed/ 1 -
+/category/health/feed/ 2 -
+/wp-content/plugins/wpwhatsmyrankvideoregular-unlimited/php-ofc-library/ofc_upload_image.php 1 http://knowledgedr.com/wp-content/plugins/wpwhatsmyrankvideoregular-unlimited/php-ofc-library/ofc_upload_image.php
+/wp-content/uploads/2019/07/wp-console.php 2 http://site.ru
+/wp-content/plugins/civicrm/civicrm/packages/OpenFlashChart/php-ofc-library/ofc_upload_image.php 1 http://knowledgedr.com/wp-content/plugins/civicrm/civicrm/packages/OpenFlashChart/php-ofc-library/ofc_upload_image.php
+/tag/woman/feed/ 7 -
+/category/health/physical-health/ 2 -
+/comments/feed/ 1 -
+/the-link-between-depression-and-diet/feed/ 1 -
+/category/lifestyle/life-skills/feed/ 1 -
+/taking-care-of-you-for-a-happy-mind-and-body/feed/ 1 -
+/category/social-media/feed/ 1 -
+/wp-content/uploads/2019/04/8-ways-to-plan-out-a.jpg 2 -
+/wp-content/plugins/invit0r/lib/php-ofc-library/ofc_upload_image.php 1 http://knowledgedr.com/wp-content/plugins/invit0r/lib/php-ofc-library/ofc_upload_image.php
+/wp-content/plugins/ip-logger/chart/ofc_upload_image.php 1 http://knowledgedr.com/wp-content/plugins/ip-logger/chart/ofc_upload_image.php
+/category/beauty/personal-care/ 2 -
+/stablehost.com/about-us.php 2 -
+/author/luca-nicole/feed/ 1 -
+/blue-endless-ocean-in-fog/feed/ 2 -
+/write-for-us/ 3 -
+/category/health/womens-health/feed/ 1 -
+/wp-content/plugins/mailcwp/mailcwp-upload.php 1 http://knowledgedr.com/wp-content/plugins/mailcwp/mailcwp-upload.php
+/fast-food-is-a-time-bomb/feed/ 5 -
+/wp-content/plugins/seo-watcher/ofc/php-ofc-library/ofc_upload_image.php 1 http://knowledgedr.com/wp-content/plugins/seo-watcher/ofc/php-ofc-library/ofc_upload_image.php
+/combat-acidosis-with-these-10-alkaline-foods-added-in-your-diet/ 7 -
+/category/health/alternative-medicine/chinese-medicine/feed/ 1 -
+/tag/young/feed/ 1 -
+/young-girl-with-pink-shoes-on-longboard/feed/ 2 -
+/robots.txt 172 -
+/funny-usa-america-flag-retro-sunglasses/feed/ 2 -
+/stablehost.com/contact.php 3 -
+/category/relationships/marriage/ 2 -
+/category/tools-tips/ 1 -
+/tag/depression/feed/ 2 -
+/author/luca-nicole/ 2 -
+/category/fitness/exercises/feed/ 1 -
+/js/jquery-1.11.0.min.js 16 http://knowledgedr.com/
+/why-you-shouldnt-quit-or-give-up/feed/ 1 -
+/reseller-hosting.php 6 -
+/young-woman-enjoying-ride-on-an-iconic-cable-car-in-san-francisco/feed/ 1 -
+/the-shocking-truth-about-whats-in-your-skin-care-products/ 1 -
+/lifestyle/ 5 -
+/wp-content/uploads/2019/02/tyler-nix-573044-unsplash-683x1024.jpg 1 -
+/t-shirts-on-rack-with-room-for-text/feed/ 1 -
+/fight-depression-now-with-these-6-steps-to-raise-your-spirits/ 3 -
+/top-5-tips-on-how-to-not-hurt-yourself-in-the-gym/ 1 -
+/happy-shoes-shoelace-heart/feed/ 2 -
+/wp-content/themes/responz/themify/js/utils.js 2 http://knowledgedr.com/wp-content/themes/responz/themify/js/utils.js
+/category/health/alternative-medicine/ayurveda/ 1 -
+/category/mindfulness/personal-growth/ 1 -
+/wp-content/uploads/2019/04/victoria-heath-597279-unsplash.jpg 3 -
+/why-you-shouldnt-quit-or-give-up/ 1 -
+/category/food/functional-foods/ 1 -
+/first-timers-guide-to-visiting-bordeaux/feed/ 1 -
+/wp-content/plugins/page-flip-image-gallery/upload.php 2 http://knowledgedr.com/wp-content/plugins/page-flip-image-gallery/upload.php
+/self/ 1 -
+/web-hosting.php 6 -
+/category/lifestyle/non-toxic-living/ 1 -
+/category/lifestyle/life-skills/self-motivation/feed/ 1 -
+/wp-content/plugins/maintenance/load/css/fonts.css 2 http://knowledgedr.com/category/fitness/exercises/aerobics/
+/wp-content/uploads/2019/08/ask.php.suspected 1 http://site.ru
+/wp-content/plugins/formidable/pro/js/ofc-library/ofc_upload_image.php 1 http://knowledgedr.com/wp-content/plugins/formidable/pro/js/ofc-library/ofc_upload_image.php
+/create-a-morning-routine-for-a-healthy-start/ 2 -
+/category/lifestyle/travel/ 1 -
+/disclaimer-2/ 1 -
+/category/happiness/ 1 -
+/category/lifestyle/mental-health/ 1 -
+/category/health/alternative-medicine/holistic-medicine/feed/ 1 -
+/category/beauty/hair-care/ 2 -
+/wp-content/plugins/contact-form-1.2/Alfa.php 1 http://site.ru
+/wp-content/plugins/fluid_forms/file-upload/server/php/index.php 1 http://knowledgedr.com/wp-content/plugins/fluid_forms/file-upload/server/php/index.php
+/seo-hacks/export-google-search-consoles-index-coverage-report/ 3 -
+/category/fitness/workouts/ 2 -
+/social-media/4-vital-tips-on-managing-your-social-media-during-a-rebranding/ 1 -
+/yorkshire-terrier-eating-treats-in-bed/feed/ 1 -
+/category/health/physical-health/feed/ 2 -
+/category/sports/ 1 -
+/xmlrpc.php 4 -
+/2017/10/ 1 -
+/category/food/feed/ 2 -
+/category/lifestyle/non-toxic-living/feed/ 1 -
+/feed 6 -
+/category/health-living/ 1 -
+/boost-the-immune-system-protect-your-body-with-vitamin-d3/ 2 -
+/wp-content/uploads/2019/08/blackhat.php 1 http://site.ru
+/woman-preparing-to-eat-big-bacon-burger/feed/ 1 -
+//license.php 1 -
+/wp-content/uploads/2019/08/wawa.php 1 http://site.ru
+/category/technology/ 1 -
+/tag/hormones/ 1 -
+/wp-content/uploads/2019/04/cosmetic_labeling-796x445.png 1 -
+/category/mindfulness/personal-growth/feed/ 1 -
+/2018/12/26/hello-world/ 1 -
+/category/food/diet-nutrition/ 1 -
+/category/fitness/general-fitness/ 2 -
+/grossglockner-road-in-austria/feed/ 2 -
+/category/relationships/family/ 3 -
+/category/fitness/ 1 -
+/guy-meets-girl-with-split-second-decision/feed/ 1 -
+/wp-content/plugins/wp-seo-spy-google/ofc/php-ofc-library/ofc_upload_image.php 1 http://knowledgedr.com/wp-content/plugins/wp-seo-spy-google/ofc/php-ofc-library/ofc_upload_image.php
+/wp-content/uploads/2019/04/kndr-12.png 2 -
+/category/lifestyle/life-skills/healthy-habits/feed/ 2 -
+/tag/hormones/feed/ 1 -
+/wp-content/uploads/2019/07/aul.php.suspected 1 http://site.ru
+/category/health/integrative-health/ 1 -
+/privacy-policy/feed/ 1 -
+/category/happiness/manifesting/feed/ 1 -
+/category/relationships/couples/ 1 -
+/diet/ 6 -
+/category/relationships/dating/ 2 -
+/vps-hosting.php 7 -
+/category/beauty/skin-care/feed/ 1 -
+/category/health/diseases-conditions/ 3 -
+/wp-content/plugins/seo-spy-google-wordpress-plugin/ofc/php-ofc-library/ofc_upload_image.php 1 http://knowledgedr.com/wp-content/plugins/seo-spy-google-wordpress-plugin/ofc/php-ofc-library/ofc_upload_image.php
+/acheive-success-with-your-personal-growth/ 2 -
+/wp-content/plugins/Premium_Gallery_Manager/uploadify/uploadify.css 1 http://knowledgedr.com/wp-content/plugins/Premium_Gallery_Manager/uploadify/uploadify.css
+/author/allen/feed/ 3 -
+//installer-backup.php 1 -
+/7-steps-to-beautiful-healthier-skin/ 1 -
+/amazing-sun-through-snowy-forest/feed/ 2 -
+/wp-content/uploads/2019/02/asdrubal-luna-485688-unsplash-300x200.jpg 3 -
+/category/happiness/humor/ 1 -
+/wonderful-christmas-portrait-of-cute-yorkshire-terrier/feed/ 1 -
+/category/health/alternative-medicine/ 1 -
+/category/relationships/relationships-problems/ 1 -
+/privacy-policy/ 1 -
+/category/health/alternative-medicine/acupressure/ 1 -
+/wp-login.php 31 -
+/author/zack/feed/ 1 -
+/pile-of-green-limes-on-market-pattern/feed/ 1 -
+/wp-includes/js/jquery/jquery-migrate.min.js 3 http://knowledgedr.com/category/fitness/exercises/aerobics/
+/the-truth-about-cardio-you-need-to-know/ 2 -
+/category/sports/feed/ 1 -
+/category/beauty/personal-care/feed/ 1 -
+/2017/05/05/gut-problems/ 1 -
+/tag/attraction/feed/ 2 -
+/author/admin/ 3 -
+/wp-content/uploads/2019/04/team-voyas-1112360-unsplash-796x445.jpg 2 -
+/category/relationships/friendships/ 1 -
+/about/ 1 -
+//wp-content/plugins/easy-wp-smtp/readme.txt 1 -
+/fast-food-is-a-time-bomb/ 2 -
+/man-talking-about-architecture-ideas/ 2 -
+/2017/06/page/2/ 1 -
+/wp-includes/js/jquery/jquery.js 2 http://knowledgedr.com/category/fitness/exercises/aerobics/
+/top-5-tips-on-how-to-not-hurt-yourself-in-the-gym/feed/ 1 -
+/category/mindfulness/meditation/ 1 -
+/wp-content/plugins/complete-gallery-manager/frames/upload-images.php 1 http://knowledgedr.com/wp-content/plugins/complete-gallery-manager/frames/upload-images.php
+/comments/feed 6 -
+/fight-depression-now-with-these-6-steps-to-raise-your-spirits/feed/ 2 -
+/wp-content/plugins/reflex-gallery/admin/scripts/FileUploader/php.php 1 http://knowledgedr.com/wp-content/plugins/reflex-gallery/admin/scripts/FileUploader/php.php
+/tag/diet/ 1 -
+/js/functions.js 17 http://knowledgedr.com/
+/category/health/alternative-medicine/holistic-medicine/ 1 -
+/wp-content/plugins/wp-slimstat-ex/lib/ofc/php-ofc-library/ofc_upload_image.php 1 http://knowledgedr.com/wp-content/plugins/wp-slimstat-ex/lib/ofc/php-ofc-library/ofc_upload_image.php
+/wp-content/uploads/2019/07/content-post.php 1 http://site.ru
+/soul-mate-or-scam-bait/feed/ 6 -
+/young-blonde-woman-looking-around-on-terrace/ 2 -
+/category/mindfulness/spirituality/ 3 -
+/young-blonde-woman-looking-around-on-terrace/feed/ 2 -
+/theme/assets/global/plugins/jquery-file-upload/server/php/ 1 http://knowledgedr.com/theme/assets/global/plugins/jquery-file-upload/server/php/
+/wp-content/plugins/woopra/inc/php-ofc-library/ofc_upload_image.php 1 http://knowledgedr.com/wp-content/plugins/woopra/inc/php-ofc-library/ofc_upload_image.php
+/category/health/alternative-medicine/homeopathy/feed/ 1 -
+/wp-content/plugins/maintenance/load/js/jquery.frontend.js 2 http://knowledgedr.com/category/fitness/exercises/aerobics/
+/page/3/ 1 -
+/category/relationships/marriage/feed/ 1 -
+/8-ways-to-plan-out-a-healthy-lifestyle/feed/ 2 -
+/category/relationships/singlehood/ 2 -
+/social-media/social-media-marketing-for-link-building-top-tactics-strategies/ 1 -
+/wp-content/uploads/2019/01/kdr_logo-e1548203043488.png 2 -
+/young-woman-enjoying-morning-breakfast-in-bed/feed/ 1 -
+/tag/diet/feed/ 3 -
+/tag/tag-four/ 1 -
+/recipes/ 1 -
+/wp-includes/js/wp-emoji-release.min.js 3 http://unit524.altapsychcompcoop.com/www.crazydomains.id/
+/about-us.php 12 -
+/category/fitness/exercises/stretching/feed/ 1 -
+/feed/ 21 -
+/ads.txt 14 -
+/category/uncategorized/feed/ 2 -
+/wp-content/plugins/spamtask/chart/php-ofc-library/ofc_upload_image.php 1 http://knowledgedr.com/wp-content/plugins/spamtask/chart/php-ofc-library/ofc_upload_image.php
+/category/health/alternative-medicine/chinese-medicine/ 1 -
+/category/fitness/exercises/aerobics/ 1 -
+/how-sleep-loss-alters-our-emotional-perception-tips-to-better-sleep/ 1 -
+/.wp-config.php.swo 1 -
+/wp-admin/ob.php 2 http://site.ru
+/young-girl-with-pink-shoes-on-longboard/ 1 -
+/wp-includes/js/mediaelement/.h..php 1 http://site.ru
+/author/admin/feed/ 6 -
+/laptop-on-wooden-desk-in-office-open-space/feed/ 1 -
+/wp-content/uploads/2019/04/8-ways-to-plan-out-a-300x200.jpg 1 -
+/category/relationships/dating/feed/ 1 -
+/blue-endless-ocean-in-fog/ 1 -
+/category/health/alternative-medicine/herbs/feed/ 1 -
+/wp-content/plugins/open-flash-chart-core-wordpress-plugin/open-flash-chart-2/php-ofc-library/ofc_upload_image.php 1 http://knowledgedr.com/wp-content/plugins/open-flash-chart-core-wordpress-plugin/open-flash-chart-2/php-ofc-library/ofc_upload_image.php
+/the-super-power-of-garlic-as-a-natural-antibiotic/ 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 49
+163.172.71.49 3 3 24432 20190819230208
+40.86.100.91 3 3 7209 20190826055455
+212.129.32.52 2 2 16288 20190820212829
+3.214.21.251 2 2 4806 20190821104521
+51.15.183.122 2 2 16288 20190821141351
+163.172.251.150 2 2 16288 20190820213256
+40.86.96.40 2 2 4806 20190820220103
+40.86.103.136 2 2 4806 20190824024430
+163.172.70.215 2 2 16288 20190830080821
+34.222.68.75 1 1 2403 20190827094420
+34.221.129.154 1 1 2403 20190827181747
+34.208.147.240 1 1 2403 20190823184857
+24.130.40.227 1 1 2403 20190819023803
+54.148.206.96 1 1 2403 20190817185245
+165.231.90.161 1 1 2403 20190815201344
+51.159.30.29 1 1 8144 20190814154759
+34.247.182.189 1 1 8144 20190827153038
+40.86.101.33 1 1 2403 20190826073506
+38.145.89.39 1 1 2403 20190814224937
+52.11.223.19 1 1 2403 20190818204246
+52.33.37.116 1 1 2403 20190819190456
+167.114.232.244 1 1 2403 20190814051210
+34.210.180.206 1 1 2403 20190829191740
+34.209.152.41 1 1 2403 20190815204616
+34.212.123.99 1 1 2403 20190831182238
+64.246.165.150 1 1 2403 20190819215950
+114.221.84.184 1 1 8144 20190827211555
+54.190.79.176 1 1 2403 20190820204340
+18.237.135.118 1 1 2403 20190822191720
+3.14.134.160 1 1 2403 20190825174324
+5.188.84.125 1 1 8144 20190826105015
+97.101.16.201 1 1 2403 20190822061550
+69.58.178.28 1 1 2403 20190814231348
+52.52.190.187 1 1 2403 20190816190429
+72.189.165.138 1 1 2403 20190823164628
+118.91.184.164 1 1 1834 20190829163343
+64.44.48.138 1 1 2403 20190817072601
+212.83.147.249 1 1 8144 20190819190317
+35.166.138.128 1 1 2403 20190821185112
+34.216.121.31 1 1 2403 20190830191757
+34.220.94.20 1 1 2403 20190826191713
+148.251.52.53 1 1 8144 20190831235456
+173.252.95.38 1 1 2403 20190824012405
+159.255.34.163 1 1 2403 20190821225359
+52.53.240.33 1 1 2403 20190827081246
+54.202.163.214 1 1 2403 20190824191922
+62.210.172.211 1 1 8144 20190828113039
+62.210.36.170 1 1 8144 20190815112342
+51.159.30.30 1 1 8144 20190816025551
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 18
+20190814 5 5 23497 5
+20190815 8 8 53670 8
+20190816 2 2 10547 2
+20190817 2 2 4806 2
+20190818 2 2 4806 2
+20190819 8 8 30706 8
+20190820 4 4 21094 4
+20190821 5 5 17756 5
+20190822 2 2 4806 2
+20190823 2 2 4806 2
+20190824 3 3 7209 3
+20190825 1 1 2403 1
+20190826 4 4 15353 4
+20190827 5 5 23497 5
+20190828 1 1 8144 1
+20190829 2 2 4237 2
+20190830 2 2 10547 2
+20190831 2 2 10547 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 1
+0s-30s 60
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 1
+/ 60 258431 60 60
+END_SIDER

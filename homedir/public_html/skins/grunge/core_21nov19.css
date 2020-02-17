@@ -1,0 +1,511 @@
+/* -------------------------------------
+	New Homepage Styles - Added 01/09/09 
+---------------------------------------*/
+
+.home_welcome {
+	text-align:left;
+	color:#000;
+	font-size:26px;
+	padding: 10px 0 0 0;
+}
+
+.home_status {
+	text-align:left;
+	color:#999;
+	font-size:14px;
+	padding: 0 0 10px 0;
+}
+
+.home_box {
+	border: 1px solid #ccc;
+	height:230px;
+	margin: 0 10px 10px 0; 
+	position:relative;
+}
+
+.home_box_request {
+	border: 1px solid #ccc;
+	margin: 0 10px 10px 0; 
+	position:relative;
+}
+
+.home_box_request H2 {
+	font-size:14px;
+	font-weight: 400;
+	background:#f0f0f0;
+	height:36px;
+	line-height:36px;
+	margin:0;
+	padding: 0 10px; 
+}
+.home_box H2 {
+	font-size:14px;
+	font-weight: 400;
+	background:#f0f0f0;
+	height:36px;
+	line-height:36px;
+	margin:0;
+	padding: 0 10px; 
+}
+
+.home_box_lower {
+	padding-top:20px;
+	text-align:center;
+}
+
+.home_link {
+	font-size:12px;
+	font-weight: 400;
+	height:36px;
+	line-height:36px;
+	float:right;
+	margin-right:10px;
+}
+
+a.home_more {
+	font-size:12px;
+	font-weight: 400;
+	height:20px;
+	line-height:20px;
+	position:absolute;
+	padding: 0 15px 0 30px;
+	color:#000000;
+	display:block;
+	bottom:0;
+	right:0;
+	background:url(images/home_more.gif) left top no-repeat;
+}
+
+
+.home_inner_profile {
+	width: 100%;
+}
+.home_inner_profile td {
+	width: 33%;
+	text-align:center;
+}
+.home_inner_profile div a {
+	font-size:10px;
+	line-height: 12px;
+	color: #666666;
+	text-decoration: none;
+}
+.home_inner_profile div a:hover {
+	color: #000000;
+}
+.home_inner_profile div a img {
+	padding: 5px 10px 10px 5px;
+	margin: 0 auto;
+	background:url(images/bg_profile.gif) no-repeat bottom right;
+	display:block;
+	width:55px;
+	height:70px;
+}
+
+.home_row {
+	padding: 7px 15px 7px 0;
+	border-bottom: 1px solid #eeeeee;
+	white-space:nowrap;
+}
+
+.home_row img{
+	padding-right: 5px;
+}
+
+.home_profile_img img{
+	padding: 5px 10px 10px 5px;
+	background:url(images/bg_profile.gif) no-repeat bottom right;
+	display:block;
+	width:70px;
+	height:90px;
+}
+
+.home_profile_desc {
+	font-size:11px;
+	padding:0 10px;
+	line-height:1.3;
+}
+
+/* -----------------------------------
+	  Program area styles  
+------------------------------------- */
+
+.gallery {
+	width: 120px;
+	height: 135px;
+	text-align:center;
+	overflow:hidden;
+	border:1px solid #eeeeee;
+	float:left;
+	margin-right: 10px;
+	margin-bottom:10px;
+	padding: 10px;
+	line-height:1.3;
+	font-size:11px;
+}
+#mailnav {
+	padding: 5px 3px 2px 3px;
+	margin-left: 0;
+	border-bottom: 1px solid #a48637;
+	font-weight: 700;
+	font-size: 13px;
+}
+#mailnav li {
+	list-style: none;
+	margin: 0;
+	display: inline;
+}
+#mailnav li a {
+	color: #000;
+	padding: 3px 0.5em;
+	margin-left: 3px;
+	border: 1px solid #a48637;
+	border-bottom: none;
+	background: #ae8f59;
+	text-decoration: none;
+	font-weight: 700;
+}
+#mailnav li a:hover {
+	color: #ffffff;
+	background: #dca545;
+	border-color: #dca545;
+	text-decoration: none;
+}
+#mailnav li a#current {
+	color: #000;
+	background: #ffffff;
+	border-bottom: 1px solid #ffffff;
+}
+.tdhead { /*   header row for subtables  */
+	color: #999999;
+	font-weight: 400;
+	font-size: 15px;
+	padding-bottom: 10px;
+	padding-left: 0px;
+	border-bottom : 2px solid #eeeeee;
+}
+.tdfoot  /*   footer row for subtables  */ {
+	border-top : 1px solid #eeeeee;
+}
+tr.tdtoprow td, .tdtoprow/*   top row for mail and hotlist tables */ {
+	background-color : #eeeeee;
+	color: #000000;
+	line-height: 25px;
+}
+tr.tdodd td, .tdodd/*  odd row for subtables   */ {
+	border-bottom : 1px solid #eeeeee;
+	background-color: #ffffff;
+}
+tr.tdeven td, .tdeven /*   even row for subtables  */ {
+	border-bottom : 1px solid #eeeeee;
+}
+.td1  /*   row 1 for search and profile pages */ {
+	background-color: #EFEFFD;
+}
+.td2 /*  row 2 for search and profile pages */ {
+	background-color: #eeeeee;
+}
+.td3  /*   row 3 for search and profile pages  */ {
+	background-color : #eeeeee;
+}
+.rettext  /*   information blocks for subtables  */ {
+	font-weight: 700;
+	color: #666666;
+	padding-right: 7px;
+}
+.retimage  /*   information blocks for subtables  */ {
+	border-bottom : 1px solid #eeeeee;
+	border-left : 1px solid #eeeeee;
+	border-right : 1px solid #eeeeee;
+}
+.tdcontent  /*   information blocks for subtables  */ {
+	padding: 20px 15px 15px 15px;
+	width: 420px;
+	border-bottom : 1px solid #eeeeee;
+	background:url(images/join_note_bg.png) no-repeat top left;
+	
+}
+.tdmail  /*   unread mail row colour  */ {
+	background-color: #eeeeee;
+}
+/*   search results  */
+.search_result {
+	width: 48%;
+	margin: 0 5px 10px 5px;
+	float:left;
+	height: 200px;
+	overflow:hidden;
+}
+.vid_search_result {
+	width: 48%;
+	margin: 0 5px 10px 5px;
+	float:left;
+	height: 200px;
+	overflow:hidden;
+}
+.resulthead {
+	font-size: 15px;
+	line-height: 24px;
+	height:24px;
+	overflow:hidden;
+	font-weight: 700;
+	color:#999999;
+	border-bottom: 1px solid #dddddd;
+}
+.resulthead a  /*   header row for search results  */ {
+	text-decoration: none;
+}
+.resultbody  /*   body row for search results  */ {
+	padding: 10px;
+	background-color: #ffffff;
+	border-right : 1px solid #dddddd;
+	border-left : 1px solid #dddddd;
+	border-bottom : 1px solid #dddddd;
+	height: 150px;
+}
+.vid_resultbody  /*   body row for search results  */ {
+	padding: 10px;
+	background-color: #ffffff;
+	border-right : 1px solid #dddddd;
+	border-left : 1px solid #dddddd;
+	border-bottom : 1px solid #dddddd;
+	height: 150px;
+	overflow:hidden;
+}
+.vidshow_resultbody  /*   body row for search results  */ {
+	padding: 10px;
+	background-color: #ffffff;
+	border-right : 1px solid #dddddd;
+	border-left : 1px solid #dddddd;
+	border-bottom : 1px solid #dddddd;
+	margin-bottom:15px;
+}
+.resultimage {
+	text-align:center;
+	width: 120px;
+}
+a.imageframe img   /* image frame for search results  */ {
+	padding: 5px 10px 10px 5px;
+	margin-left: 5px;
+	background:url(images/bg_profile.gif) no-repeat bottom right;
+}
+.resultaddress { /*  age and location search result */
+	font-weight: 400;
+	font-size: 11px;
+	font-style: italic;
+	color:#000000;
+}
+.resultcomment { /*  age and location search result */
+	font-weight: 400;
+	font-size: 11px;
+	line-height: 1.5;
+	padding-top:10px;
+}
+.resultbuttons { /*  age and location search result */
+	text-align:right;
+}
+.resulttitle {
+	color:#333333;
+	font-weight:700;
+}
+.online { /*  "online" text for search result */
+	font-weight: 700;
+	color: #00cc00;
+	font-size: 10px;
+	font-style: italic;
+	line-height:1.3;
+}
+.offline { /*  "offline" text for search result */
+	font-weight: 700;
+	color: #666666;
+	font-size: 10px;
+	font-style: italic;
+	line-height:1.3;
+}
+.premium { /*   member status  text for search result */
+	font-weight: 700;
+	color: #ff3300;
+	font-size: 10px;
+	font-style: italic;
+	line-height:1.3;
+}
+.standard { /*  member status text for search result */
+	font-weight: 700;
+	color: #666666;
+	font-size: 10px;
+	font-style: italic;
+	line-height:1.3;
+}
+a.switch  /*   search form + -   */ {
+	font-size: 14px;
+	text-decoration: none;
+}
+a:hover.switch /*   search form + -   */ {
+	font-size: 14px;
+	text-decoration: none;
+}
+tr.noborder td /*  pop checks removes border inherited from tdodd   */ {
+	border: none;
+}
+.poptable {  /*  background colour for tables in popups   */
+	background-color :  #ffffff;
+}
+.pageheader { /*  Page Titles */
+	font-size: 22px;
+	color: #000000;
+	font-weight: 400;
+	padding-bottom: 10px;
+}
+.blogdate { /*  date for blogs  */
+	font-weight: 700;
+	font-size: 10px;
+	font-style: italic;
+}
+.input { /* general input field secific formatting  */
+	width: 120px;
+}
+.inputs {  /*  small input field secific formatting  */
+	width: 95px;
+}
+.inputl { /*  large input field secific formatting  */
+	width: 250px;
+}
+.inputf { /*  free width input field secific formatting  */
+}
+.forumlinks { /*  forum links */
+}
+.forumlinkshd { /*  forum links */
+	font-weight: 700;
+}
+form {
+	padding: 0px;
+	margin: 0px;
+}
+/* GROUPS STYLES */
+div.group_post_subject {
+	margin: 0.5em 0;
+	font-weight: bold;
+}
+.group_post_images {
+	margin:1em 0 0.5em 0;
+}
+.group_post_image {
+	margin: 0.5em;
+	border: 1px dotted #000;
+	float: left;
+}
+.mygroups_approve {
+	background-color:#eeffee;
+}
+.mygroups_reject {
+	background-color:#ffeeee;
+}
+/* AVATARS STYLES */
+#avatar_list a {
+	display: block;
+	float: left;
+	padding: 4px;
+	margin: 10px;
+}
+#avatar_list a:hover {
+	display: block;
+	float: left;
+	padding: 2px;
+	border: 2px solid #ccc;
+	margin: 10px;
+}
+.progress {
+width: 220px;
+height:19px;
+background: url(images/progress.gif) top left no-repeat;
+}
+
+
+/* root element for accordion. decorated with rounded borders and gradient background image */
+#accordion {
+	background:#333 url(/img/global/gradient/h300.png) 0 0;
+	width: 300px;
+	border:1px solid #333;	
+	-background:#666;
+}
+
+/* accordion header */
+#accordion h2 {
+	background:#ccc url(/img/global/gradient/h30.png);
+	margin:0;
+	padding:5px 15px;
+	font-size:14px;
+	font-weight:normal;
+	border:1px solid #fff;
+	border-bottom:1px solid #ddd;
+	cursor:pointer;		
+}
+
+/* currently active header */
+#accordion h2.current {
+	cursor:default;
+	background-color:#fff;
+}
+
+/* accordion pane */
+#accordion .pane {
+	border:1px solid #fff;
+	border-width:0 2px;
+	display:none;
+	height:180px;
+	padding:15px;
+	color:#fff;
+	font-size:12px;
+}
+
+/* a title inside pane */
+#accordion .pane h3 {
+	font-weight:normal;
+	margin:0 0 -5px 0;
+	font-size:16px;
+	color:#999;
+}
+
+/**** month and year header at top of calendar ****/
+
+.date_header			{ font-size:12px;  font-weight:600; }
+
+/**** color and size of calendar cells.  ****/
+
+.day_cell				{ background-color:#FFFFFF; height:80; width: 90; }
+
+.empty_day_cell			{ background-color:#EEEEEE; height:80; width: 90; }
+
+.today_cell				{ background-color:#F5F4ED; height:80; width: 90; }
+
+/**** day number in upper left corner of each cell ****/
+
+.day_number				{ font-size:10px;  color:#000000 }
+
+/**** title_txt is the text for each post on main page ****/
+
+.title_txt				{ font-size:10px;  color:#000000 }
+
+.title_txt A:link		{ color:#000000; text-decoration:underline }
+
+.title_txt A:active		{ color:#000000; text-decoration:underline }
+
+.title_txt A:visited	{ color:#000000; text-decoration:underline }
+
+.title_txt A:hover		{ color:#000000; text-decoration:underline }
+
+/**** column headers or days of the week ****/
+
+/**** footprint text ****/
+
+.footprint				{ font-size:10px; color:#000000; font-weight:600; }
+
+.footprint A			{ font-size:10px; color:#00000F; font-weight:600; }
+
+.join_head {
+	color: #FFFFFF;
+	font-size: 16px;
+	height: 31px;
+	padding:  0 0 0 10px;
+	background:url(images/join_head.png) no-repeat bottom left;
+}

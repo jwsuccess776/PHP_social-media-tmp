@@ -1,0 +1,147 @@
+# Webalizer V2.23-08 Incremental Data - 02/14/2020 00:33:12
+2020 2 14 0 33 12
+8 5 3 3 3 3 6163 4 3 0
+2 2 6 13 14
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+6 3 5325 1 2 1
+2 2 838 2 2 2
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+2 2 838 2
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+6 3 5325 2
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0
+0
+0
+5
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/_autoindex/icons/blank.png
+0 1 14337344 171 0 0
+/
+0 3 0 1179 3 0
+/_autoindex/icons/folder.png
+0 1 14337568 1114 0 0
+# End Of Table - urls
+# -sites- (monthly)
+191.96.242.233
+0 1 1 419 1 1581640125
+/
+181.215.51.154
+0 1 1 419 1 1581640392
+/
+097-101-016-201.res.spectrum.com
+0 6 3 5325 1 1581599350
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+191.96.242.233
+0 1 1 419 1 1581640125
+/
+181.215.51.154
+0 1 1 419 1 1581640392
+/
+# End Of Table - sites (daily)
+# -referrers- 
+- (Direct Request)
+0 3
+https://sugardaddylink.com/
+0 4
+https://sugardaddylink.com/cgi-bin/
+0 1
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1 Safari/605.1.15
+0 6
+Mozilla/5.0 (iPad; CPU OS 10_3_3 like Mac OS X) AppleWebKit/603.3.8 (KHTML, like Gecko) Version/10.0 Mobile/14G60 Safari/602.
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+0 1
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

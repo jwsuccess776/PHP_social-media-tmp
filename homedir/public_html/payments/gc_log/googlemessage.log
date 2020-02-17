@@ -1,0 +1,1671 @@
+
+Mon Nov 19 5:27:28 PST 2007:- <?xml version="1.0" encoding="UTF-8"?>
+<new-order-notification xmlns="http://checkout.google.com/schema/2" serial-number="617052107071616-00001-7">
+  <timestamp>2007-11-19T13:27:19.000Z</timestamp>
+  <shopping-cart>
+    <items>
+      <item>
+        <digital-content>
+          <description>1 Month Membership is approved.</description>
+          <url>http://www.datingsoftware.biz/demos/platinum/payments/thankyou.php</url>
+        </digital-content>
+        <item-name>1 Month Membership</item-name>
+        <item-description></item-description>
+        <unit-price currency="USD">0.0</unit-price>
+        <quantity>1</quantity>
+      </item>
+    </items>
+    <merchant-private-data>592</merchant-private-data>
+  </shopping-cart>
+  <order-adjustment>
+    <merchant-codes />
+    <total-tax currency="USD">0.0</total-tax>
+    <adjustment-total currency="USD">0.0</adjustment-total>
+  </order-adjustment>
+  <buyer-id>212704317714540</buyer-id>
+  <google-order-number>617052107071616</google-order-number>
+  <buyer-shipping-address>
+    <contact-name>tester</contact-name>
+    <company-name></company-name>
+    <email>dsoftcustomer@gmail.com</email>
+    <phone>123 456-7890</phone>
+    <fax></fax>
+    <address1>Main str. 1</address1>
+    <address2></address2>
+    <structured-name>
+      <first-name></first-name>
+      <last-name>tester</last-name>
+    </structured-name>
+    <city>Los Angeles</city>
+    <country-code>US</country-code>
+    <region>CA</region>
+    <postal-code>90064</postal-code>
+  </buyer-shipping-address>
+  <buyer-billing-address>
+    <contact-name>tester</contact-name>
+    <company-name></company-name>
+    <email>dsoftcustomer@gmail.com</email>
+    <phone>123 456-7890</phone>
+    <fax></fax>
+    <address1>Main str. 1</address1>
+    <address2></address2>
+    <structured-name>
+      <first-name></first-name>
+      <last-name>tester</last-name>
+    </structured-name>
+    <city>Los Angeles</city>
+    <country-code>US</country-code>
+    <region>CA</region>
+    <postal-code>90064</postal-code>
+  </buyer-billing-address>
+  <buyer-marketing-preferences>
+    <email-allowed>false</email-allowed>
+  </buyer-marketing-preferences>
+  <order-total currency="USD">0.0</order-total>
+  <fulfillment-order-state>NEW</fulfillment-order-state>
+  <financial-order-state>REVIEWING</financial-order-state>
+</new-order-notification>
+
+
+
+Mon Nov 19 5:27:28 PST 2007:- <?xml version="1.0" encoding="UTF-8"?><notification-acknowledgment xmlns="http://checkout.google.com/schema/2"/>
+
+Mon Nov 19 5:27:30 PST 2007:- <?xml version="1.0" encoding="UTF-8"?>
+<order-state-change-notification xmlns="http://checkout.google.com/schema/2" serial-number="617052107071616-00005-1">
+  <timestamp>2007-11-19T13:27:21.000Z</timestamp>
+  <google-order-number>617052107071616</google-order-number>
+  <new-fulfillment-order-state>NEW</new-fulfillment-order-state>
+  <new-financial-order-state>CHARGEABLE</new-financial-order-state>
+  <previous-fulfillment-order-state>NEW</previous-fulfillment-order-state>
+  <previous-financial-order-state>REVIEWING</previous-financial-order-state>
+</order-state-change-notification>
+
+
+
+Mon Nov 19 5:27:30 PST 2007:- <?xml version="1.0" encoding="UTF-8"?><notification-acknowledgment xmlns="http://checkout.google.com/schema/2"/>
+
+Mon Nov 19 5:27:31 PST 2007:- <?xml version="1.0" encoding="UTF-8"?>
+<risk-information-notification xmlns="http://checkout.google.com/schema/2" serial-number="617052107071616-00005-5">
+  <timestamp>2007-11-19T13:27:21.000Z</timestamp>
+  <google-order-number>617052107071616</google-order-number>
+  <risk-information>
+    <billing-address>
+      <contact-name>tester</contact-name>
+      <company-name></company-name>
+      <email>dsoftcustomer@gmail.com</email>
+      <phone>123 456-7890</phone>
+      <fax></fax>
+      <address1>Main str. 1</address1>
+      <address2></address2>
+      <city>Los Angeles</city>
+      <country-code>US</country-code>
+      <region>CA</region>
+      <postal-code>90064</postal-code>
+    </billing-address>
+    <ip-address>80.249.236.114</ip-address>
+    <eligible-for-protection>true</eligible-for-protection>
+    <avs-response>A</avs-response>
+    <cvn-response>M</cvn-response>
+    <partial-cc-number>1111</partial-cc-number>
+    <buyer-account-age>3</buyer-account-age>
+  </risk-information>
+</risk-information-notification>
+
+
+
+Mon Nov 19 5:27:31 PST 2007:- <?xml version="1.0" encoding="UTF-8"?><notification-acknowledgment xmlns="http://checkout.google.com/schema/2"/>
+
+Mon Nov 19 5:27:32 PST 2007:- <?xml version="1.0" encoding="UTF-8"?>
+<order-state-change-notification xmlns="http://checkout.google.com/schema/2" serial-number="617052107071616-00006-1">
+  <timestamp>2007-11-19T13:27:21.000Z</timestamp>
+  <google-order-number>617052107071616</google-order-number>
+  <new-fulfillment-order-state>PROCESSING</new-fulfillment-order-state>
+  <new-financial-order-state>CHARGEABLE</new-financial-order-state>
+  <previous-fulfillment-order-state>NEW</previous-fulfillment-order-state>
+  <previous-financial-order-state>CHARGEABLE</previous-financial-order-state>
+</order-state-change-notification>
+
+
+
+Mon Nov 19 5:27:32 PST 2007:- <?xml version="1.0" encoding="UTF-8"?><notification-acknowledgment xmlns="http://checkout.google.com/schema/2"/>
+
+Mon Nov 19 5:27:33 PST 2007:- <?xml version="1.0" encoding="UTF-8"?>
+<order-state-change-notification xmlns="http://checkout.google.com/schema/2" serial-number="617052107071616-00008-1">
+  <timestamp>2007-11-19T13:27:21.000Z</timestamp>
+  <google-order-number>617052107071616</google-order-number>
+  <new-fulfillment-order-state>PROCESSING</new-fulfillment-order-state>
+  <new-financial-order-state>CHARGING</new-financial-order-state>
+  <previous-fulfillment-order-state>PROCESSING</previous-fulfillment-order-state>
+  <previous-financial-order-state>CHARGEABLE</previous-financial-order-state>
+</order-state-change-notification>
+
+
+
+Mon Nov 19 5:27:33 PST 2007:- <?xml version="1.0" encoding="UTF-8"?><notification-acknowledgment xmlns="http://checkout.google.com/schema/2"/>
+
+Mon Nov 19 5:27:34 PST 2007:- <?xml version="1.0" encoding="UTF-8"?>
+<order-state-change-notification xmlns="http://checkout.google.com/schema/2" serial-number="617052107071616-00010-1">
+  <timestamp>2007-11-19T13:27:21.000Z</timestamp>
+  <google-order-number>617052107071616</google-order-number>
+  <new-fulfillment-order-state>PROCESSING</new-fulfillment-order-state>
+  <new-financial-order-state>CHARGED</new-financial-order-state>
+  <previous-fulfillment-order-state>PROCESSING</previous-fulfillment-order-state>
+  <previous-financial-order-state>CHARGING</previous-financial-order-state>
+</order-state-change-notification>
+
+
+
+Mon Nov 19 5:27:34 PST 2007:- <?xml version="1.0" encoding="UTF-8"?><notification-acknowledgment xmlns="http://checkout.google.com/schema/2"/>
+
+Mon Nov 19 5:27:35 PST 2007:- <?xml version="1.0" encoding="UTF-8"?>
+<charge-amount-notification xmlns="http://checkout.google.com/schema/2" serial-number="617052107071616-00010-2">
+  <timestamp>2007-11-19T13:27:21.000Z</timestamp>
+  <google-order-number>617052107071616</google-order-number>
+  <latest-charge-amount currency="USD">0.0</latest-charge-amount>
+  <total-charge-amount currency="USD">0.0</total-charge-amount>
+</charge-amount-notification>
+
+
+
+Mon Nov 19 5:27:35 PST 2007:- <?xml version="1.0" encoding="UTF-8"?><notification-acknowledgment xmlns="http://checkout.google.com/schema/2"/>
+
+Mon Nov 19 5:27:36 PST 2007:- <?xml version="1.0" encoding="UTF-8"?>
+<order-state-change-notification xmlns="http://checkout.google.com/schema/2" serial-number="617052107071616-00011-1">
+  <timestamp>2007-11-19T13:27:21.000Z</timestamp>
+  <google-order-number>617052107071616</google-order-number>
+  <new-fulfillment-order-state>DELIVERED</new-fulfillment-order-state>
+  <new-financial-order-state>CHARGED</new-financial-order-state>
+  <previous-fulfillment-order-state>PROCESSING</previous-fulfillment-order-state>
+  <previous-financial-order-state>CHARGED</previous-financial-order-state>
+</order-state-change-notification>
+
+
+
+Mon Nov 19 5:27:36 PST 2007:- <?xml version="1.0" encoding="UTF-8"?><notification-acknowledgment xmlns="http://checkout.google.com/schema/2"/>
+
+Mon Nov 19 5:35:18 PST 2007:- <?xml version="1.0" encoding="UTF-8"?>
+<new-order-notification xmlns="http://checkout.google.com/schema/2" serial-number="355344925713486-00001-7">
+  <timestamp>2007-11-19T13:35:10.000Z</timestamp>
+  <shopping-cart>
+    <items>
+      <item>
+        <digital-content>
+          <description>1 Month Membership is approved.</description>
+          <url>http://www.datingsoftware.biz/demos/platinum/payments/thankyou.php</url>
+        </digital-content>
+        <item-name>1 Month Membership</item-name>
+        <item-description></item-description>
+        <unit-price currency="USD">0.0</unit-price>
+        <quantity>1</quantity>
+      </item>
+    </items>
+    <merchant-private-data>593</merchant-private-data>
+  </shopping-cart>
+  <order-adjustment>
+    <merchant-codes />
+    <total-tax currency="USD">0.0</total-tax>
+    <adjustment-total currency="USD">0.0</adjustment-total>
+  </order-adjustment>
+  <buyer-id>212704317714540</buyer-id>
+  <google-order-number>355344925713486</google-order-number>
+  <buyer-shipping-address>
+    <contact-name>tester</contact-name>
+    <company-name></company-name>
+    <email>dsoftcustomer@gmail.com</email>
+    <phone>123 456-7890</phone>
+    <fax></fax>
+    <address1>Main str. 1</address1>
+    <address2></address2>
+    <structured-name>
+      <first-name></first-name>
+      <last-name>tester</last-name>
+    </structured-name>
+    <city>Los Angeles</city>
+    <country-code>US</country-code>
+    <region>CA</region>
+    <postal-code>90064</postal-code>
+  </buyer-shipping-address>
+  <buyer-billing-address>
+    <contact-name>tester</contact-name>
+    <company-name></company-name>
+    <email>dsoftcustomer@gmail.com</email>
+    <phone>123 456-7890</phone>
+    <fax></fax>
+    <address1>Main str. 1</address1>
+    <address2></address2>
+    <structured-name>
+      <first-name></first-name>
+      <last-name>tester</last-name>
+    </structured-name>
+    <city>Los Angeles</city>
+    <country-code>US</country-code>
+    <region>CA</region>
+    <postal-code>90064</postal-code>
+  </buyer-billing-address>
+  <buyer-marketing-preferences>
+    <email-allowed>false</email-allowed>
+  </buyer-marketing-preferences>
+  <order-total currency="USD">0.0</order-total>
+  <fulfillment-order-state>NEW</fulfillment-order-state>
+  <financial-order-state>REVIEWING</financial-order-state>
+</new-order-notification>
+
+
+
+Mon Nov 19 5:35:18 PST 2007:- <?xml version="1.0" encoding="UTF-8"?><notification-acknowledgment xmlns="http://checkout.google.com/schema/2"/>
+
+Mon Nov 19 5:35:21 PST 2007:- <?xml version="1.0" encoding="UTF-8"?>
+<order-state-change-notification xmlns="http://checkout.google.com/schema/2" serial-number="355344925713486-00005-1">
+  <timestamp>2007-11-19T13:35:12.000Z</timestamp>
+  <google-order-number>355344925713486</google-order-number>
+  <new-fulfillment-order-state>NEW</new-fulfillment-order-state>
+  <new-financial-order-state>CHARGEABLE</new-financial-order-state>
+  <previous-fulfillment-order-state>NEW</previous-fulfillment-order-state>
+  <previous-financial-order-state>REVIEWING</previous-financial-order-state>
+</order-state-change-notification>
+
+
+
+Mon Nov 19 5:35:21 PST 2007:- <?xml version="1.0" encoding="UTF-8"?><notification-acknowledgment xmlns="http://checkout.google.com/schema/2"/>
+
+Mon Nov 19 5:35:22 PST 2007:- <?xml version="1.0" encoding="UTF-8"?>
+<risk-information-notification xmlns="http://checkout.google.com/schema/2" serial-number="355344925713486-00005-5">
+  <timestamp>2007-11-19T13:35:12.000Z</timestamp>
+  <google-order-number>355344925713486</google-order-number>
+  <risk-information>
+    <billing-address>
+      <contact-name>tester</contact-name>
+      <company-name></company-name>
+      <email>dsoftcustomer@gmail.com</email>
+      <phone>123 456-7890</phone>
+      <fax></fax>
+      <address1>Main str. 1</address1>
+      <address2></address2>
+      <city>Los Angeles</city>
+      <country-code>US</country-code>
+      <region>CA</region>
+      <postal-code>90064</postal-code>
+    </billing-address>
+    <ip-address>80.249.236.114</ip-address>
+    <eligible-for-protection>true</eligible-for-protection>
+    <avs-response>A</avs-response>
+    <cvn-response>M</cvn-response>
+    <partial-cc-number>1111</partial-cc-number>
+    <buyer-account-age>3</buyer-account-age>
+  </risk-information>
+</risk-information-notification>
+
+
+
+Mon Nov 19 5:35:23 PST 2007:- <?xml version="1.0" encoding="UTF-8"?><notification-acknowledgment xmlns="http://checkout.google.com/schema/2"/>
+
+Mon Nov 19 5:35:24 PST 2007:- <?xml version="1.0" encoding="UTF-8"?>
+<order-state-change-notification xmlns="http://checkout.google.com/schema/2" serial-number="355344925713486-00006-1">
+  <timestamp>2007-11-19T13:35:12.000Z</timestamp>
+  <google-order-number>355344925713486</google-order-number>
+  <new-fulfillment-order-state>PROCESSING</new-fulfillment-order-state>
+  <new-financial-order-state>CHARGEABLE</new-financial-order-state>
+  <previous-fulfillment-order-state>NEW</previous-fulfillment-order-state>
+  <previous-financial-order-state>CHARGEABLE</previous-financial-order-state>
+</order-state-change-notification>
+
+
+
+Mon Nov 19 5:35:24 PST 2007:- <?xml version="1.0" encoding="UTF-8"?><notification-acknowledgment xmlns="http://checkout.google.com/schema/2"/>
+
+Mon Nov 19 5:35:25 PST 2007:- <?xml version="1.0" encoding="UTF-8"?>
+<order-state-change-notification xmlns="http://checkout.google.com/schema/2" serial-number="355344925713486-00008-1">
+  <timestamp>2007-11-19T13:35:12.000Z</timestamp>
+  <google-order-number>355344925713486</google-order-number>
+  <new-fulfillment-order-state>PROCESSING</new-fulfillment-order-state>
+  <new-financial-order-state>CHARGING</new-financial-order-state>
+  <previous-fulfillment-order-state>PROCESSING</previous-fulfillment-order-state>
+  <previous-financial-order-state>CHARGEABLE</previous-financial-order-state>
+</order-state-change-notification>
+
+
+
+Mon Nov 19 5:35:25 PST 2007:- <?xml version="1.0" encoding="UTF-8"?><notification-acknowledgment xmlns="http://checkout.google.com/schema/2"/>
+
+Mon Nov 19 5:35:26 PST 2007:- <?xml version="1.0" encoding="UTF-8"?>
+<order-state-change-notification xmlns="http://checkout.google.com/schema/2" serial-number="355344925713486-00010-1">
+  <timestamp>2007-11-19T13:35:12.000Z</timestamp>
+  <google-order-number>355344925713486</google-order-number>
+  <new-fulfillment-order-state>PROCESSING</new-fulfillment-order-state>
+  <new-financial-order-state>CHARGED</new-financial-order-state>
+  <previous-fulfillment-order-state>PROCESSING</previous-fulfillment-order-state>
+  <previous-financial-order-state>CHARGING</previous-financial-order-state>
+</order-state-change-notification>
+
+
+
+Mon Nov 19 5:35:26 PST 2007:- <?xml version="1.0" encoding="UTF-8"?><notification-acknowledgment xmlns="http://checkout.google.com/schema/2"/>
+
+Mon Nov 19 5:35:27 PST 2007:- <?xml version="1.0" encoding="UTF-8"?>
+<charge-amount-notification xmlns="http://checkout.google.com/schema/2" serial-number="355344925713486-00010-2">
+  <timestamp>2007-11-19T13:35:12.000Z</timestamp>
+  <google-order-number>355344925713486</google-order-number>
+  <latest-charge-amount currency="USD">0.0</latest-charge-amount>
+  <total-charge-amount currency="USD">0.0</total-charge-amount>
+</charge-amount-notification>
+
+
+
+Mon Nov 19 5:35:27 PST 2007:- <?xml version="1.0" encoding="UTF-8"?><notification-acknowledgment xmlns="http://checkout.google.com/schema/2"/>
+
+Mon Nov 19 5:35:29 PST 2007:- <?xml version="1.0" encoding="UTF-8"?>
+<order-state-change-notification xmlns="http://checkout.google.com/schema/2" serial-number="355344925713486-00011-1">
+  <timestamp>2007-11-19T13:35:12.000Z</timestamp>
+  <google-order-number>355344925713486</google-order-number>
+  <new-fulfillment-order-state>DELIVERED</new-fulfillment-order-state>
+  <new-financial-order-state>CHARGED</new-financial-order-state>
+  <previous-fulfillment-order-state>PROCESSING</previous-fulfillment-order-state>
+  <previous-financial-order-state>CHARGED</previous-financial-order-state>
+</order-state-change-notification>
+
+
+
+Mon Nov 19 5:35:29 PST 2007:- <?xml version="1.0" encoding="UTF-8"?><notification-acknowledgment xmlns="http://checkout.google.com/schema/2"/>
+
+Mon Nov 19 5:42:57 PST 2007:- 
+<?xml version="1.0" encoding="UTF-8"?>
+<new-order-notification xmlns="http://checkout.google.com/schema/2" serial-number="877888636233498-00001-7">
+  <timestamp>2007-11-19T13:20:41.000Z</timestamp>
+  <shopping-cart>
+    <items>
+      <item>
+        <digital-content>
+          <description>1 Month Membership is approved.</description>
+          <url>http://www.datingsoftware.biz/demos/platinum/payments/thankyou.php</url>
+        </digital-content>
+        <item-name>1 Month Membership</item-name>
+        <item-description></item-description>
+        <unit-price currency="USD">0.0</unit-price>
+        <quantity>1</quantity>
+      </item>
+    </items>
+    <merchant-private-data>591</merchant-private-data>
+  </shopping-cart>
+  <order-adjustment>
+    <merchant-codes />
+    <total-tax currency="USD">0.0</total-tax>
+    <adjustment-total currency="USD">0.0</adjustment-total>
+  </order-adjustment>
+  <buyer-id>212704317714540</buyer-id>
+  <google-order-number>877888636233498</google-order-number>
+  <buyer-shipping-address>
+    <contact-name>tester</contact-name>
+    <company-name></company-name>
+    <email>dsoftcustomer@gmail.com</email>
+    <phone>123 456-7890</phone>
+    <fax></fax>
+    <address1>Main str. 1</address1>
+    <address2></address2>
+    <structured-name>
+      <first-name></first-name>
+      <last-name>tester</last-name>
+    </structured-name>
+    <city>Los Angeles</city>
+    <country-code>US</country-code>
+    <region>CA</region>
+    <postal-code>90064</postal-code>
+  </buyer-shipping-address>
+  <buyer-billing-address>
+    <contact-name>tester</contact-name>
+    <company-name></company-name>
+    <email>dsoftcustomer@gmail.com</email>
+    <phone>123 456-7890</phone>
+    <fax></fax>
+    <address1>Main str. 1</address1>
+    <address2></address2>
+    <structured-name>
+      <first-name></first-name>
+      <last-name>tester</last-name>
+    </structured-name>
+    <city>Los Angeles</city>
+    <country-code>US</country-code>
+    <region>CA</region>
+    <postal-code>90064</postal-code>
+  </buyer-billing-address>
+  <buyer-marketing-preferences>
+    <email-allowed>false</email-allowed>
+  </buyer-marketing-preferences>
+  <order-total currency="USD">0.0</order-total>
+  <fulfillment-order-state>NEW</fulfillment-order-state>
+  <financial-order-state>REVIEWING</financial-order-state>
+</new-order-notification>
+
+
+Mon Nov 19 5:43:39 PST 2007:- 
+<?xml version="1.0" encoding="UTF-8"?>
+<new-order-notification xmlns="http://checkout.google.com/schema/2" serial-number="877888636233498-00001-7">
+  <timestamp>2007-11-19T13:20:41.000Z</timestamp>
+  <shopping-cart>
+    <items>
+      <item>
+        <digital-content>
+          <description>1 Month Membership is approved.</description>
+          <url>http://www.datingsoftware.biz/demos/platinum/payments/thankyou.php</url>
+        </digital-content>
+        <item-name>1 Month Membership</item-name>
+        <item-description></item-description>
+        <unit-price currency="USD">0.0</unit-price>
+        <quantity>1</quantity>
+      </item>
+    </items>
+    <merchant-private-data>591</merchant-private-data>
+  </shopping-cart>
+  <order-adjustment>
+    <merchant-codes />
+    <total-tax currency="USD">0.0</total-tax>
+    <adjustment-total currency="USD">0.0</adjustment-total>
+  </order-adjustment>
+  <buyer-id>212704317714540</buyer-id>
+  <google-order-number>877888636233498</google-order-number>
+  <buyer-shipping-address>
+    <contact-name>tester</contact-name>
+    <company-name></company-name>
+    <email>dsoftcustomer@gmail.com</email>
+    <phone>123 456-7890</phone>
+    <fax></fax>
+    <address1>Main str. 1</address1>
+    <address2></address2>
+    <structured-name>
+      <first-name></first-name>
+      <last-name>tester</last-name>
+    </structured-name>
+    <city>Los Angeles</city>
+    <country-code>US</country-code>
+    <region>CA</region>
+    <postal-code>90064</postal-code>
+  </buyer-shipping-address>
+  <buyer-billing-address>
+    <contact-name>tester</contact-name>
+    <company-name></company-name>
+    <email>dsoftcustomer@gmail.com</email>
+    <phone>123 456-7890</phone>
+    <fax></fax>
+    <address1>Main str. 1</address1>
+    <address2></address2>
+    <structured-name>
+      <first-name></first-name>
+      <last-name>tester</last-name>
+    </structured-name>
+    <city>Los Angeles</city>
+    <country-code>US</country-code>
+    <region>CA</region>
+    <postal-code>90064</postal-code>
+  </buyer-billing-address>
+  <buyer-marketing-preferences>
+    <email-allowed>false</email-allowed>
+  </buyer-marketing-preferences>
+  <order-total currency="USD">0.0</order-total>
+  <fulfillment-order-state>NEW</fulfillment-order-state>
+  <financial-order-state>REVIEWING</financial-order-state>
+</new-order-notification>
+
+
+Mon Nov 19 5:45:32 PST 2007:- 
+<?xml version="1.0" encoding="UTF-8"?>
+<new-order-notification xmlns="http://checkout.google.com/schema/2" serial-number="877888636233498-00001-7">
+  <timestamp>2007-11-19T13:20:41.000Z</timestamp>
+  <shopping-cart>
+    <items>
+      <item>
+        <digital-content>
+          <description>1 Month Membership is approved.</description>
+          <url>http://www.datingsoftware.biz/demos/platinum/payments/thankyou.php</url>
+        </digital-content>
+        <item-name>1 Month Membership</item-name>
+        <item-description></item-description>
+        <unit-price currency="USD">0.0</unit-price>
+        <quantity>1</quantity>
+      </item>
+    </items>
+    <merchant-private-data>591</merchant-private-data>
+  </shopping-cart>
+  <order-adjustment>
+    <merchant-codes />
+    <total-tax currency="USD">0.0</total-tax>
+    <adjustment-total currency="USD">0.0</adjustment-total>
+  </order-adjustment>
+  <buyer-id>212704317714540</buyer-id>
+  <google-order-number>877888636233498</google-order-number>
+  <buyer-shipping-address>
+    <contact-name>tester</contact-name>
+    <company-name></company-name>
+    <email>dsoftcustomer@gmail.com</email>
+    <phone>123 456-7890</phone>
+    <fax></fax>
+    <address1>Main str. 1</address1>
+    <address2></address2>
+    <structured-name>
+      <first-name></first-name>
+      <last-name>tester</last-name>
+    </structured-name>
+    <city>Los Angeles</city>
+    <country-code>US</country-code>
+    <region>CA</region>
+    <postal-code>90064</postal-code>
+  </buyer-shipping-address>
+  <buyer-billing-address>
+    <contact-name>tester</contact-name>
+    <company-name></company-name>
+    <email>dsoftcustomer@gmail.com</email>
+    <phone>123 456-7890</phone>
+    <fax></fax>
+    <address1>Main str. 1</address1>
+    <address2></address2>
+    <structured-name>
+      <first-name></first-name>
+      <last-name>tester</last-name>
+    </structured-name>
+    <city>Los Angeles</city>
+    <country-code>US</country-code>
+    <region>CA</region>
+    <postal-code>90064</postal-code>
+  </buyer-billing-address>
+  <buyer-marketing-preferences>
+    <email-allowed>false</email-allowed>
+  </buyer-marketing-preferences>
+  <order-total currency="USD">0.0</order-total>
+  <fulfillment-order-state>NEW</fulfillment-order-state>
+  <financial-order-state>REVIEWING</financial-order-state>
+</new-order-notification>
+
+
+Mon Nov 19 5:47:59 PST 2007:- <?xml version="1.0" encoding="UTF-8"?>
+<new-order-notification xmlns="http://checkout.google.com/schema/2" serial-number="347767936403060-00001-7">
+  <timestamp>2007-11-19T13:47:51.000Z</timestamp>
+  <shopping-cart>
+    <items>
+      <item>
+        <digital-content>
+          <description>1 Month Membership is approved.</description>
+          <url>http://www.datingsoftware.biz/demos/platinum/payments/thankyou.php</url>
+        </digital-content>
+        <item-name>1 Month Membership</item-name>
+        <item-description></item-description>
+        <unit-price currency="USD">0.0</unit-price>
+        <quantity>1</quantity>
+      </item>
+    </items>
+    <merchant-private-data>594</merchant-private-data>
+  </shopping-cart>
+  <order-adjustment>
+    <merchant-codes />
+    <total-tax currency="USD">0.0</total-tax>
+    <adjustment-total currency="USD">0.0</adjustment-total>
+  </order-adjustment>
+  <buyer-id>212704317714540</buyer-id>
+  <google-order-number>347767936403060</google-order-number>
+  <buyer-shipping-address>
+    <contact-name>tester</contact-name>
+    <company-name></company-name>
+    <email>dsoftcustomer@gmail.com</email>
+    <phone>123 456-7890</phone>
+    <fax></fax>
+    <address1>Main str. 1</address1>
+    <address2></address2>
+    <structured-name>
+      <first-name></first-name>
+      <last-name>tester</last-name>
+    </structured-name>
+    <city>Los Angeles</city>
+    <country-code>US</country-code>
+    <region>CA</region>
+    <postal-code>90064</postal-code>
+  </buyer-shipping-address>
+  <buyer-billing-address>
+    <contact-name>tester</contact-name>
+    <company-name></company-name>
+    <email>dsoftcustomer@gmail.com</email>
+    <phone>123 456-7890</phone>
+    <fax></fax>
+    <address1>Main str. 1</address1>
+    <address2></address2>
+    <structured-name>
+      <first-name></first-name>
+      <last-name>tester</last-name>
+    </structured-name>
+    <city>Los Angeles</city>
+    <country-code>US</country-code>
+    <region>CA</region>
+    <postal-code>90064</postal-code>
+  </buyer-billing-address>
+  <buyer-marketing-preferences>
+    <email-allowed>false</email-allowed>
+  </buyer-marketing-preferences>
+  <order-total currency="USD">0.0</order-total>
+  <fulfillment-order-state>NEW</fulfillment-order-state>
+  <financial-order-state>REVIEWING</financial-order-state>
+</new-order-notification>
+
+
+
+Mon Nov 19 5:47:59 PST 2007:- <?xml version="1.0" encoding="UTF-8"?><notification-acknowledgment xmlns="http://checkout.google.com/schema/2"/>
+
+Mon Nov 19 5:48:00 PST 2007:- <?xml version="1.0" encoding="UTF-8"?>
+<order-state-change-notification xmlns="http://checkout.google.com/schema/2" serial-number="347767936403060-00005-1">
+  <timestamp>2007-11-19T13:47:52.000Z</timestamp>
+  <google-order-number>347767936403060</google-order-number>
+  <new-fulfillment-order-state>NEW</new-fulfillment-order-state>
+  <new-financial-order-state>CHARGEABLE</new-financial-order-state>
+  <previous-fulfillment-order-state>NEW</previous-fulfillment-order-state>
+  <previous-financial-order-state>REVIEWING</previous-financial-order-state>
+</order-state-change-notification>
+
+
+
+Mon Nov 19 5:48:00 PST 2007:- <?xml version="1.0" encoding="UTF-8"?><notification-acknowledgment xmlns="http://checkout.google.com/schema/2"/>
+
+Mon Nov 19 5:48:01 PST 2007:- <?xml version="1.0" encoding="UTF-8"?>
+<risk-information-notification xmlns="http://checkout.google.com/schema/2" serial-number="347767936403060-00005-5">
+  <timestamp>2007-11-19T13:47:52.000Z</timestamp>
+  <google-order-number>347767936403060</google-order-number>
+  <risk-information>
+    <billing-address>
+      <contact-name>tester</contact-name>
+      <company-name></company-name>
+      <email>dsoftcustomer@gmail.com</email>
+      <phone>123 456-7890</phone>
+      <fax></fax>
+      <address1>Main str. 1</address1>
+      <address2></address2>
+      <city>Los Angeles</city>
+      <country-code>US</country-code>
+      <region>CA</region>
+      <postal-code>90064</postal-code>
+    </billing-address>
+    <ip-address>80.249.236.114</ip-address>
+    <eligible-for-protection>true</eligible-for-protection>
+    <avs-response>A</avs-response>
+    <cvn-response>M</cvn-response>
+    <partial-cc-number>1111</partial-cc-number>
+    <buyer-account-age>3</buyer-account-age>
+  </risk-information>
+</risk-information-notification>
+
+
+
+Mon Nov 19 5:48:01 PST 2007:- <?xml version="1.0" encoding="UTF-8"?><notification-acknowledgment xmlns="http://checkout.google.com/schema/2"/>
+
+Mon Nov 19 5:48:02 PST 2007:- <?xml version="1.0" encoding="UTF-8"?>
+<order-state-change-notification xmlns="http://checkout.google.com/schema/2" serial-number="347767936403060-00006-1">
+  <timestamp>2007-11-19T13:47:52.000Z</timestamp>
+  <google-order-number>347767936403060</google-order-number>
+  <new-fulfillment-order-state>PROCESSING</new-fulfillment-order-state>
+  <new-financial-order-state>CHARGEABLE</new-financial-order-state>
+  <previous-fulfillment-order-state>NEW</previous-fulfillment-order-state>
+  <previous-financial-order-state>CHARGEABLE</previous-financial-order-state>
+</order-state-change-notification>
+
+
+
+Mon Nov 19 5:48:02 PST 2007:- <?xml version="1.0" encoding="UTF-8"?><notification-acknowledgment xmlns="http://checkout.google.com/schema/2"/>
+
+Mon Nov 19 5:48:04 PST 2007:- <?xml version="1.0" encoding="UTF-8"?>
+<order-state-change-notification xmlns="http://checkout.google.com/schema/2" serial-number="347767936403060-00008-1">
+  <timestamp>2007-11-19T13:47:52.000Z</timestamp>
+  <google-order-number>347767936403060</google-order-number>
+  <new-fulfillment-order-state>PROCESSING</new-fulfillment-order-state>
+  <new-financial-order-state>CHARGING</new-financial-order-state>
+  <previous-fulfillment-order-state>PROCESSING</previous-fulfillment-order-state>
+  <previous-financial-order-state>CHARGEABLE</previous-financial-order-state>
+</order-state-change-notification>
+
+
+
+Mon Nov 19 5:48:04 PST 2007:- <?xml version="1.0" encoding="UTF-8"?><notification-acknowledgment xmlns="http://checkout.google.com/schema/2"/>
+
+Mon Nov 19 5:48:05 PST 2007:- <?xml version="1.0" encoding="UTF-8"?>
+<order-state-change-notification xmlns="http://checkout.google.com/schema/2" serial-number="347767936403060-00010-1">
+  <timestamp>2007-11-19T13:47:52.000Z</timestamp>
+  <google-order-number>347767936403060</google-order-number>
+  <new-fulfillment-order-state>PROCESSING</new-fulfillment-order-state>
+  <new-financial-order-state>CHARGED</new-financial-order-state>
+  <previous-fulfillment-order-state>PROCESSING</previous-fulfillment-order-state>
+  <previous-financial-order-state>CHARGING</previous-financial-order-state>
+</order-state-change-notification>
+
+
+
+Mon Nov 19 5:48:05 PST 2007:- <?xml version="1.0" encoding="UTF-8"?><notification-acknowledgment xmlns="http://checkout.google.com/schema/2"/>
+
+Mon Nov 19 5:48:06 PST 2007:- <?xml version="1.0" encoding="UTF-8"?>
+<charge-amount-notification xmlns="http://checkout.google.com/schema/2" serial-number="347767936403060-00010-2">
+  <timestamp>2007-11-19T13:47:52.000Z</timestamp>
+  <google-order-number>347767936403060</google-order-number>
+  <latest-charge-amount currency="USD">0.0</latest-charge-amount>
+  <total-charge-amount currency="USD">0.0</total-charge-amount>
+</charge-amount-notification>
+
+
+
+Mon Nov 19 5:48:06 PST 2007:- <?xml version="1.0" encoding="UTF-8"?><notification-acknowledgment xmlns="http://checkout.google.com/schema/2"/>
+
+Mon Nov 19 5:48:07 PST 2007:- <?xml version="1.0" encoding="UTF-8"?>
+<order-state-change-notification xmlns="http://checkout.google.com/schema/2" serial-number="347767936403060-00011-1">
+  <timestamp>2007-11-19T13:47:53.000Z</timestamp>
+  <google-order-number>347767936403060</google-order-number>
+  <new-fulfillment-order-state>DELIVERED</new-fulfillment-order-state>
+  <new-financial-order-state>CHARGED</new-financial-order-state>
+  <previous-fulfillment-order-state>PROCESSING</previous-fulfillment-order-state>
+  <previous-financial-order-state>CHARGED</previous-financial-order-state>
+</order-state-change-notification>
+
+
+
+Mon Nov 19 5:48:07 PST 2007:- <?xml version="1.0" encoding="UTF-8"?><notification-acknowledgment xmlns="http://checkout.google.com/schema/2"/>
+
+Mon Nov 19 5:48:20 PST 2007:- 
+
+Mon Nov 19 5:55:37 PST 2007:- <?xml version="1.0" encoding="UTF-8"?>
+<new-order-notification xmlns="http://checkout.google.com/schema/2" serial-number="467993032352985-00001-7">
+  <timestamp>2007-11-19T13:55:29.000Z</timestamp>
+  <shopping-cart>
+    <items>
+      <item>
+        <digital-content>
+          <description>1 Month Membership is approved.</description>
+          <url>http://www.datingsoftware.biz/demos/platinum/payments/thankyou.php</url>
+        </digital-content>
+        <item-name>1 Month Membership</item-name>
+        <item-description></item-description>
+        <unit-price currency="USD">0.0</unit-price>
+        <quantity>1</quantity>
+      </item>
+    </items>
+    <merchant-private-data>595</merchant-private-data>
+  </shopping-cart>
+  <order-adjustment>
+    <merchant-codes />
+    <total-tax currency="USD">0.0</total-tax>
+    <adjustment-total currency="USD">0.0</adjustment-total>
+  </order-adjustment>
+  <buyer-id>212704317714540</buyer-id>
+  <google-order-number>467993032352985</google-order-number>
+  <buyer-shipping-address>
+    <contact-name>tester</contact-name>
+    <company-name></company-name>
+    <email>dsoftcustomer@gmail.com</email>
+    <phone>123 456-7890</phone>
+    <fax></fax>
+    <address1>Main str. 1</address1>
+    <address2></address2>
+    <structured-name>
+      <first-name></first-name>
+      <last-name>tester</last-name>
+    </structured-name>
+    <city>Los Angeles</city>
+    <country-code>US</country-code>
+    <region>CA</region>
+    <postal-code>90064</postal-code>
+  </buyer-shipping-address>
+  <buyer-billing-address>
+    <contact-name>tester</contact-name>
+    <company-name></company-name>
+    <email>dsoftcustomer@gmail.com</email>
+    <phone>123 456-7890</phone>
+    <fax></fax>
+    <address1>Main str. 1</address1>
+    <address2></address2>
+    <structured-name>
+      <first-name></first-name>
+      <last-name>tester</last-name>
+    </structured-name>
+    <city>Los Angeles</city>
+    <country-code>US</country-code>
+    <region>CA</region>
+    <postal-code>90064</postal-code>
+  </buyer-billing-address>
+  <buyer-marketing-preferences>
+    <email-allowed>false</email-allowed>
+  </buyer-marketing-preferences>
+  <order-total currency="USD">0.0</order-total>
+  <fulfillment-order-state>NEW</fulfillment-order-state>
+  <financial-order-state>REVIEWING</financial-order-state>
+</new-order-notification>
+
+
+
+Mon Nov 19 5:55:37 PST 2007:- <?xml version="1.0" encoding="UTF-8"?><notification-acknowledgment xmlns="http://checkout.google.com/schema/2"/>
+
+Mon Nov 19 5:55:38 PST 2007:- <?xml version="1.0" encoding="UTF-8"?>
+<order-state-change-notification xmlns="http://checkout.google.com/schema/2" serial-number="467993032352985-00005-1">
+  <timestamp>2007-11-19T13:55:30.000Z</timestamp>
+  <google-order-number>467993032352985</google-order-number>
+  <new-fulfillment-order-state>NEW</new-fulfillment-order-state>
+  <new-financial-order-state>CHARGEABLE</new-financial-order-state>
+  <previous-fulfillment-order-state>NEW</previous-fulfillment-order-state>
+  <previous-financial-order-state>REVIEWING</previous-financial-order-state>
+</order-state-change-notification>
+
+
+
+Mon Nov 19 5:55:38 PST 2007:- <?xml version="1.0" encoding="UTF-8"?><notification-acknowledgment xmlns="http://checkout.google.com/schema/2"/>
+
+Mon Nov 19 5:55:40 PST 2007:- <?xml version="1.0" encoding="UTF-8"?>
+<risk-information-notification xmlns="http://checkout.google.com/schema/2" serial-number="467993032352985-00005-5">
+  <timestamp>2007-11-19T13:55:30.000Z</timestamp>
+  <google-order-number>467993032352985</google-order-number>
+  <risk-information>
+    <billing-address>
+      <contact-name>tester</contact-name>
+      <company-name></company-name>
+      <email>dsoftcustomer@gmail.com</email>
+      <phone>123 456-7890</phone>
+      <fax></fax>
+      <address1>Main str. 1</address1>
+      <address2></address2>
+      <city>Los Angeles</city>
+      <country-code>US</country-code>
+      <region>CA</region>
+      <postal-code>90064</postal-code>
+    </billing-address>
+    <ip-address>80.249.236.114</ip-address>
+    <eligible-for-protection>true</eligible-for-protection>
+    <avs-response>A</avs-response>
+    <cvn-response>M</cvn-response>
+    <partial-cc-number>1111</partial-cc-number>
+    <buyer-account-age>4</buyer-account-age>
+  </risk-information>
+</risk-information-notification>
+
+
+
+Mon Nov 19 5:55:40 PST 2007:- <?xml version="1.0" encoding="UTF-8"?><notification-acknowledgment xmlns="http://checkout.google.com/schema/2"/>
+
+Mon Nov 19 5:55:41 PST 2007:- <?xml version="1.0" encoding="UTF-8"?>
+<order-state-change-notification xmlns="http://checkout.google.com/schema/2" serial-number="467993032352985-00006-1">
+  <timestamp>2007-11-19T13:55:30.000Z</timestamp>
+  <google-order-number>467993032352985</google-order-number>
+  <new-fulfillment-order-state>PROCESSING</new-fulfillment-order-state>
+  <new-financial-order-state>CHARGEABLE</new-financial-order-state>
+  <previous-fulfillment-order-state>NEW</previous-fulfillment-order-state>
+  <previous-financial-order-state>CHARGEABLE</previous-financial-order-state>
+</order-state-change-notification>
+
+
+
+Mon Nov 19 5:55:41 PST 2007:- <?xml version="1.0" encoding="UTF-8"?><notification-acknowledgment xmlns="http://checkout.google.com/schema/2"/>
+
+Mon Nov 19 5:55:42 PST 2007:- <?xml version="1.0" encoding="UTF-8"?>
+<order-state-change-notification xmlns="http://checkout.google.com/schema/2" serial-number="467993032352985-00008-1">
+  <timestamp>2007-11-19T13:55:30.000Z</timestamp>
+  <google-order-number>467993032352985</google-order-number>
+  <new-fulfillment-order-state>PROCESSING</new-fulfillment-order-state>
+  <new-financial-order-state>CHARGING</new-financial-order-state>
+  <previous-fulfillment-order-state>PROCESSING</previous-fulfillment-order-state>
+  <previous-financial-order-state>CHARGEABLE</previous-financial-order-state>
+</order-state-change-notification>
+
+
+
+Mon Nov 19 5:55:42 PST 2007:- <?xml version="1.0" encoding="UTF-8"?><notification-acknowledgment xmlns="http://checkout.google.com/schema/2"/>
+
+Mon Nov 19 5:55:43 PST 2007:- <?xml version="1.0" encoding="UTF-8"?>
+<order-state-change-notification xmlns="http://checkout.google.com/schema/2" serial-number="467993032352985-00010-1">
+  <timestamp>2007-11-19T13:55:30.000Z</timestamp>
+  <google-order-number>467993032352985</google-order-number>
+  <new-fulfillment-order-state>PROCESSING</new-fulfillment-order-state>
+  <new-financial-order-state>CHARGED</new-financial-order-state>
+  <previous-fulfillment-order-state>PROCESSING</previous-fulfillment-order-state>
+  <previous-financial-order-state>CHARGING</previous-financial-order-state>
+</order-state-change-notification>
+
+
+
+Mon Nov 19 5:55:43 PST 2007:- <?xml version="1.0" encoding="UTF-8"?><notification-acknowledgment xmlns="http://checkout.google.com/schema/2"/>
+
+Mon Nov 19 5:55:44 PST 2007:- <?xml version="1.0" encoding="UTF-8"?>
+<charge-amount-notification xmlns="http://checkout.google.com/schema/2" serial-number="467993032352985-00010-2">
+  <timestamp>2007-11-19T13:55:30.000Z</timestamp>
+  <google-order-number>467993032352985</google-order-number>
+  <latest-charge-amount currency="USD">0.0</latest-charge-amount>
+  <total-charge-amount currency="USD">0.0</total-charge-amount>
+</charge-amount-notification>
+
+
+
+Mon Nov 19 5:55:44 PST 2007:- <?xml version="1.0" encoding="UTF-8"?><notification-acknowledgment xmlns="http://checkout.google.com/schema/2"/>
+
+Mon Nov 19 5:55:45 PST 2007:- <?xml version="1.0" encoding="UTF-8"?>
+<order-state-change-notification xmlns="http://checkout.google.com/schema/2" serial-number="467993032352985-00011-1">
+  <timestamp>2007-11-19T13:55:30.000Z</timestamp>
+  <google-order-number>467993032352985</google-order-number>
+  <new-fulfillment-order-state>DELIVERED</new-fulfillment-order-state>
+  <new-financial-order-state>CHARGED</new-financial-order-state>
+  <previous-fulfillment-order-state>PROCESSING</previous-fulfillment-order-state>
+  <previous-financial-order-state>CHARGED</previous-financial-order-state>
+</order-state-change-notification>
+
+
+
+Mon Nov 19 5:55:45 PST 2007:- <?xml version="1.0" encoding="UTF-8"?><notification-acknowledgment xmlns="http://checkout.google.com/schema/2"/>
+
+Mon Nov 19 5:56:56 PST 2007:- <?xml version="1.0" encoding="UTF-8"?>
+<new-order-notification xmlns="http://checkout.google.com/schema/2" serial-number="957545750769421-00001-7">
+  <timestamp>2007-11-19T13:56:48.000Z</timestamp>
+  <shopping-cart>
+    <items>
+      <item>
+        <digital-content>
+          <description>3 Month Membership is approved.</description>
+          <url>http://www.datingsoftware.biz/demos/platinum/payments/thankyou.php</url>
+        </digital-content>
+        <item-name>3 Month Membership</item-name>
+        <item-description></item-description>
+        <unit-price currency="USD">0.0</unit-price>
+        <quantity>1</quantity>
+      </item>
+    </items>
+    <merchant-private-data>596</merchant-private-data>
+  </shopping-cart>
+  <order-adjustment>
+    <merchant-codes />
+    <total-tax currency="USD">0.0</total-tax>
+    <adjustment-total currency="USD">0.0</adjustment-total>
+  </order-adjustment>
+  <buyer-id>212704317714540</buyer-id>
+  <google-order-number>957545750769421</google-order-number>
+  <buyer-shipping-address>
+    <contact-name>tester</contact-name>
+    <company-name></company-name>
+    <email>dsoftcustomer@gmail.com</email>
+    <phone>123 456-7890</phone>
+    <fax></fax>
+    <address1>Main str. 1</address1>
+    <address2></address2>
+    <structured-name>
+      <first-name></first-name>
+      <last-name>tester</last-name>
+    </structured-name>
+    <city>Los Angeles</city>
+    <country-code>US</country-code>
+    <region>CA</region>
+    <postal-code>90064</postal-code>
+  </buyer-shipping-address>
+  <buyer-billing-address>
+    <contact-name>tester</contact-name>
+    <company-name></company-name>
+    <email>dsoftcustomer@gmail.com</email>
+    <phone>123 456-7890</phone>
+    <fax></fax>
+    <address1>Main str. 1</address1>
+    <address2></address2>
+    <structured-name>
+      <first-name></first-name>
+      <last-name>tester</last-name>
+    </structured-name>
+    <city>Los Angeles</city>
+    <country-code>US</country-code>
+    <region>CA</region>
+    <postal-code>90064</postal-code>
+  </buyer-billing-address>
+  <buyer-marketing-preferences>
+    <email-allowed>false</email-allowed>
+  </buyer-marketing-preferences>
+  <order-total currency="USD">0.0</order-total>
+  <fulfillment-order-state>NEW</fulfillment-order-state>
+  <financial-order-state>REVIEWING</financial-order-state>
+</new-order-notification>
+
+
+
+Mon Nov 19 5:56:56 PST 2007:- <?xml version="1.0" encoding="UTF-8"?><notification-acknowledgment xmlns="http://checkout.google.com/schema/2"/>
+
+Mon Nov 19 5:56:58 PST 2007:- <?xml version="1.0" encoding="UTF-8"?>
+<order-state-change-notification xmlns="http://checkout.google.com/schema/2" serial-number="957545750769421-00005-1">
+  <timestamp>2007-11-19T13:56:49.000Z</timestamp>
+  <google-order-number>957545750769421</google-order-number>
+  <new-fulfillment-order-state>NEW</new-fulfillment-order-state>
+  <new-financial-order-state>CHARGEABLE</new-financial-order-state>
+  <previous-fulfillment-order-state>NEW</previous-fulfillment-order-state>
+  <previous-financial-order-state>REVIEWING</previous-financial-order-state>
+</order-state-change-notification>
+
+
+
+Mon Nov 19 5:56:58 PST 2007:- <?xml version="1.0" encoding="UTF-8"?><notification-acknowledgment xmlns="http://checkout.google.com/schema/2"/>
+
+Mon Nov 19 5:56:59 PST 2007:- <?xml version="1.0" encoding="UTF-8"?>
+<risk-information-notification xmlns="http://checkout.google.com/schema/2" serial-number="957545750769421-00005-5">
+  <timestamp>2007-11-19T13:56:49.000Z</timestamp>
+  <google-order-number>957545750769421</google-order-number>
+  <risk-information>
+    <billing-address>
+      <contact-name>tester</contact-name>
+      <company-name></company-name>
+      <email>dsoftcustomer@gmail.com</email>
+      <phone>123 456-7890</phone>
+      <fax></fax>
+      <address1>Main str. 1</address1>
+      <address2></address2>
+      <city>Los Angeles</city>
+      <country-code>US</country-code>
+      <region>CA</region>
+      <postal-code>90064</postal-code>
+    </billing-address>
+    <ip-address>80.249.236.114</ip-address>
+    <eligible-for-protection>true</eligible-for-protection>
+    <avs-response>A</avs-response>
+    <cvn-response>M</cvn-response>
+    <partial-cc-number>1111</partial-cc-number>
+    <buyer-account-age>4</buyer-account-age>
+  </risk-information>
+</risk-information-notification>
+
+
+
+Mon Nov 19 5:56:59 PST 2007:- <?xml version="1.0" encoding="UTF-8"?><notification-acknowledgment xmlns="http://checkout.google.com/schema/2"/>
+
+Mon Nov 19 5:57:00 PST 2007:- <?xml version="1.0" encoding="UTF-8"?>
+<order-state-change-notification xmlns="http://checkout.google.com/schema/2" serial-number="957545750769421-00006-1">
+  <timestamp>2007-11-19T13:56:49.000Z</timestamp>
+  <google-order-number>957545750769421</google-order-number>
+  <new-fulfillment-order-state>PROCESSING</new-fulfillment-order-state>
+  <new-financial-order-state>CHARGEABLE</new-financial-order-state>
+  <previous-fulfillment-order-state>NEW</previous-fulfillment-order-state>
+  <previous-financial-order-state>CHARGEABLE</previous-financial-order-state>
+</order-state-change-notification>
+
+
+
+Mon Nov 19 5:57:00 PST 2007:- <?xml version="1.0" encoding="UTF-8"?><notification-acknowledgment xmlns="http://checkout.google.com/schema/2"/>
+
+Mon Nov 19 5:57:01 PST 2007:- <?xml version="1.0" encoding="UTF-8"?>
+<order-state-change-notification xmlns="http://checkout.google.com/schema/2" serial-number="957545750769421-00008-1">
+  <timestamp>2007-11-19T13:56:49.000Z</timestamp>
+  <google-order-number>957545750769421</google-order-number>
+  <new-fulfillment-order-state>PROCESSING</new-fulfillment-order-state>
+  <new-financial-order-state>CHARGING</new-financial-order-state>
+  <previous-fulfillment-order-state>PROCESSING</previous-fulfillment-order-state>
+  <previous-financial-order-state>CHARGEABLE</previous-financial-order-state>
+</order-state-change-notification>
+
+
+
+Mon Nov 19 5:57:01 PST 2007:- <?xml version="1.0" encoding="UTF-8"?><notification-acknowledgment xmlns="http://checkout.google.com/schema/2"/>
+
+Mon Nov 19 5:57:02 PST 2007:- <?xml version="1.0" encoding="UTF-8"?>
+<order-state-change-notification xmlns="http://checkout.google.com/schema/2" serial-number="957545750769421-00010-1">
+  <timestamp>2007-11-19T13:56:49.000Z</timestamp>
+  <google-order-number>957545750769421</google-order-number>
+  <new-fulfillment-order-state>PROCESSING</new-fulfillment-order-state>
+  <new-financial-order-state>CHARGED</new-financial-order-state>
+  <previous-fulfillment-order-state>PROCESSING</previous-fulfillment-order-state>
+  <previous-financial-order-state>CHARGING</previous-financial-order-state>
+</order-state-change-notification>
+
+
+
+Mon Nov 19 5:57:02 PST 2007:- <?xml version="1.0" encoding="UTF-8"?><notification-acknowledgment xmlns="http://checkout.google.com/schema/2"/>
+
+Mon Nov 19 5:57:03 PST 2007:- <?xml version="1.0" encoding="UTF-8"?>
+<charge-amount-notification xmlns="http://checkout.google.com/schema/2" serial-number="957545750769421-00010-2">
+  <timestamp>2007-11-19T13:56:49.000Z</timestamp>
+  <google-order-number>957545750769421</google-order-number>
+  <latest-charge-amount currency="USD">0.0</latest-charge-amount>
+  <total-charge-amount currency="USD">0.0</total-charge-amount>
+</charge-amount-notification>
+
+
+
+Mon Nov 19 5:57:03 PST 2007:- <?xml version="1.0" encoding="UTF-8"?><notification-acknowledgment xmlns="http://checkout.google.com/schema/2"/>
+
+Mon Nov 19 5:57:04 PST 2007:- <?xml version="1.0" encoding="UTF-8"?>
+<order-state-change-notification xmlns="http://checkout.google.com/schema/2" serial-number="957545750769421-00011-1">
+  <timestamp>2007-11-19T13:56:49.000Z</timestamp>
+  <google-order-number>957545750769421</google-order-number>
+  <new-fulfillment-order-state>DELIVERED</new-fulfillment-order-state>
+  <new-financial-order-state>CHARGED</new-financial-order-state>
+  <previous-fulfillment-order-state>PROCESSING</previous-fulfillment-order-state>
+  <previous-financial-order-state>CHARGED</previous-financial-order-state>
+</order-state-change-notification>
+
+
+
+Mon Nov 19 5:57:04 PST 2007:- <?xml version="1.0" encoding="UTF-8"?><notification-acknowledgment xmlns="http://checkout.google.com/schema/2"/>
+
+Mon Nov 19 6:04:22 PST 2007:- <?xml version="1.0" encoding="UTF-8"?>
+<new-order-notification xmlns="http://checkout.google.com/schema/2" serial-number="564323291872337-00001-7">
+  <timestamp>2007-11-19T14:04:13.000Z</timestamp>
+  <shopping-cart>
+    <items>
+      <item>
+        <digital-content>
+          <description>1 Month Membership is approved.</description>
+          <url>http://www.datingsoftware.biz/demos/platinum/payments/thankyou.php</url>
+        </digital-content>
+        <item-name>1 Month Membership</item-name>
+        <item-description></item-description>
+        <unit-price currency="USD">0.0</unit-price>
+        <quantity>1</quantity>
+      </item>
+    </items>
+    <merchant-private-data>597</merchant-private-data>
+  </shopping-cart>
+  <order-adjustment>
+    <merchant-codes />
+    <total-tax currency="USD">0.0</total-tax>
+    <adjustment-total currency="USD">0.0</adjustment-total>
+  </order-adjustment>
+  <buyer-id>212704317714540</buyer-id>
+  <google-order-number>564323291872337</google-order-number>
+  <buyer-shipping-address>
+    <contact-name>tester</contact-name>
+    <company-name></company-name>
+    <email>dsoftcustomer@gmail.com</email>
+    <phone>123 456-7890</phone>
+    <fax></fax>
+    <address1>Main str. 1</address1>
+    <address2></address2>
+    <structured-name>
+      <first-name></first-name>
+      <last-name>tester</last-name>
+    </structured-name>
+    <city>Los Angeles</city>
+    <country-code>US</country-code>
+    <region>CA</region>
+    <postal-code>90064</postal-code>
+  </buyer-shipping-address>
+  <buyer-billing-address>
+    <contact-name>tester</contact-name>
+    <company-name></company-name>
+    <email>dsoftcustomer@gmail.com</email>
+    <phone>123 456-7890</phone>
+    <fax></fax>
+    <address1>Main str. 1</address1>
+    <address2></address2>
+    <structured-name>
+      <first-name></first-name>
+      <last-name>tester</last-name>
+    </structured-name>
+    <city>Los Angeles</city>
+    <country-code>US</country-code>
+    <region>CA</region>
+    <postal-code>90064</postal-code>
+  </buyer-billing-address>
+  <buyer-marketing-preferences>
+    <email-allowed>false</email-allowed>
+  </buyer-marketing-preferences>
+  <order-total currency="USD">0.0</order-total>
+  <fulfillment-order-state>NEW</fulfillment-order-state>
+  <financial-order-state>REVIEWING</financial-order-state>
+</new-order-notification>
+
+
+
+Mon Nov 19 6:04:22 PST 2007:- <?xml version="1.0" encoding="UTF-8"?><notification-acknowledgment xmlns="http://checkout.google.com/schema/2"/>
+
+Mon Nov 19 6:04:24 PST 2007:- <?xml version="1.0" encoding="UTF-8"?>
+<order-state-change-notification xmlns="http://checkout.google.com/schema/2" serial-number="564323291872337-00005-1">
+  <timestamp>2007-11-19T14:04:15.000Z</timestamp>
+  <google-order-number>564323291872337</google-order-number>
+  <new-fulfillment-order-state>NEW</new-fulfillment-order-state>
+  <new-financial-order-state>CHARGEABLE</new-financial-order-state>
+  <previous-fulfillment-order-state>NEW</previous-fulfillment-order-state>
+  <previous-financial-order-state>REVIEWING</previous-financial-order-state>
+</order-state-change-notification>
+
+
+
+Mon Nov 19 6:04:25 PST 2007:- <?xml version="1.0" encoding="UTF-8"?>
+<risk-information-notification xmlns="http://checkout.google.com/schema/2" serial-number="564323291872337-00005-5">
+  <timestamp>2007-11-19T14:04:15.000Z</timestamp>
+  <google-order-number>564323291872337</google-order-number>
+  <risk-information>
+    <billing-address>
+      <contact-name>tester</contact-name>
+      <company-name></company-name>
+      <email>dsoftcustomer@gmail.com</email>
+      <phone>123 456-7890</phone>
+      <fax></fax>
+      <address1>Main str. 1</address1>
+      <address2></address2>
+      <city>Los Angeles</city>
+      <country-code>US</country-code>
+      <region>CA</region>
+      <postal-code>90064</postal-code>
+    </billing-address>
+    <ip-address>80.249.236.114</ip-address>
+    <eligible-for-protection>true</eligible-for-protection>
+    <avs-response>A</avs-response>
+    <cvn-response>M</cvn-response>
+    <partial-cc-number>1111</partial-cc-number>
+    <buyer-account-age>4</buyer-account-age>
+  </risk-information>
+</risk-information-notification>
+
+
+
+Mon Nov 19 6:04:25 PST 2007:- <?xml version="1.0" encoding="UTF-8"?><notification-acknowledgment xmlns="http://checkout.google.com/schema/2"/>
+
+Mon Nov 19 6:04:26 PST 2007:- <?xml version="1.0" encoding="UTF-8"?>
+<order-state-change-notification xmlns="http://checkout.google.com/schema/2" serial-number="564323291872337-00006-1">
+  <timestamp>2007-11-19T14:04:15.000Z</timestamp>
+  <google-order-number>564323291872337</google-order-number>
+  <new-fulfillment-order-state>PROCESSING</new-fulfillment-order-state>
+  <new-financial-order-state>CHARGEABLE</new-financial-order-state>
+  <previous-fulfillment-order-state>NEW</previous-fulfillment-order-state>
+  <previous-financial-order-state>CHARGEABLE</previous-financial-order-state>
+</order-state-change-notification>
+
+
+
+Mon Nov 19 6:04:27 PST 2007:- <?xml version="1.0" encoding="UTF-8"?>
+<order-state-change-notification xmlns="http://checkout.google.com/schema/2" serial-number="564323291872337-00008-1">
+  <timestamp>2007-11-19T14:04:15.000Z</timestamp>
+  <google-order-number>564323291872337</google-order-number>
+  <new-fulfillment-order-state>PROCESSING</new-fulfillment-order-state>
+  <new-financial-order-state>CHARGING</new-financial-order-state>
+  <previous-fulfillment-order-state>PROCESSING</previous-fulfillment-order-state>
+  <previous-financial-order-state>CHARGEABLE</previous-financial-order-state>
+</order-state-change-notification>
+
+
+
+Mon Nov 19 6:04:28 PST 2007:- <?xml version="1.0" encoding="UTF-8"?>
+<order-state-change-notification xmlns="http://checkout.google.com/schema/2" serial-number="564323291872337-00010-1">
+  <timestamp>2007-11-19T14:04:15.000Z</timestamp>
+  <google-order-number>564323291872337</google-order-number>
+  <new-fulfillment-order-state>PROCESSING</new-fulfillment-order-state>
+  <new-financial-order-state>CHARGED</new-financial-order-state>
+  <previous-fulfillment-order-state>PROCESSING</previous-fulfillment-order-state>
+  <previous-financial-order-state>CHARGING</previous-financial-order-state>
+</order-state-change-notification>
+
+
+
+Mon Nov 19 6:04:29 PST 2007:- <?xml version="1.0" encoding="UTF-8"?>
+<charge-amount-notification xmlns="http://checkout.google.com/schema/2" serial-number="564323291872337-00010-2">
+  <timestamp>2007-11-19T14:04:15.000Z</timestamp>
+  <google-order-number>564323291872337</google-order-number>
+  <latest-charge-amount currency="USD">0.0</latest-charge-amount>
+  <total-charge-amount currency="USD">0.0</total-charge-amount>
+</charge-amount-notification>
+
+
+
+Mon Nov 19 6:04:29 PST 2007:- <?xml version="1.0" encoding="UTF-8"?><notification-acknowledgment xmlns="http://checkout.google.com/schema/2"/>
+
+Mon Nov 19 6:04:30 PST 2007:- <?xml version="1.0" encoding="UTF-8"?>
+<order-state-change-notification xmlns="http://checkout.google.com/schema/2" serial-number="564323291872337-00011-1">
+  <timestamp>2007-11-19T14:04:15.000Z</timestamp>
+  <google-order-number>564323291872337</google-order-number>
+  <new-fulfillment-order-state>DELIVERED</new-fulfillment-order-state>
+  <new-financial-order-state>CHARGED</new-financial-order-state>
+  <previous-fulfillment-order-state>PROCESSING</previous-fulfillment-order-state>
+  <previous-financial-order-state>CHARGED</previous-financial-order-state>
+</order-state-change-notification>
+
+
+
+Mon Nov 19 6:10:40 PST 2007:- <?xml version="1.0" encoding="UTF-8"?>
+<new-order-notification xmlns="http://checkout.google.com/schema/2" serial-number="607003550512327-00001-7">
+  <timestamp>2007-11-19T14:10:32.000Z</timestamp>
+  <shopping-cart>
+    <items>
+      <item>
+        <digital-content>
+          <description>6 Month Membership is approved.</description>
+          <url>http://www.datingsoftware.biz/demos/platinum/payments/thankyou.php</url>
+        </digital-content>
+        <item-name>6 Month Membership</item-name>
+        <item-description></item-description>
+        <unit-price currency="USD">0.0</unit-price>
+        <quantity>1</quantity>
+      </item>
+    </items>
+    <merchant-private-data>598</merchant-private-data>
+  </shopping-cart>
+  <order-adjustment>
+    <merchant-codes />
+    <total-tax currency="USD">0.0</total-tax>
+    <adjustment-total currency="USD">0.0</adjustment-total>
+  </order-adjustment>
+  <buyer-id>212704317714540</buyer-id>
+  <google-order-number>607003550512327</google-order-number>
+  <buyer-shipping-address>
+    <contact-name>tester</contact-name>
+    <company-name></company-name>
+    <email>dsoftcustomer@gmail.com</email>
+    <phone>123 456-7890</phone>
+    <fax></fax>
+    <address1>Main str. 1</address1>
+    <address2></address2>
+    <structured-name>
+      <first-name></first-name>
+      <last-name>tester</last-name>
+    </structured-name>
+    <city>Los Angeles</city>
+    <country-code>US</country-code>
+    <region>CA</region>
+    <postal-code>90064</postal-code>
+  </buyer-shipping-address>
+  <buyer-billing-address>
+    <contact-name>tester</contact-name>
+    <company-name></company-name>
+    <email>dsoftcustomer@gmail.com</email>
+    <phone>123 456-7890</phone>
+    <fax></fax>
+    <address1>Main str. 1</address1>
+    <address2></address2>
+    <structured-name>
+      <first-name></first-name>
+      <last-name>tester</last-name>
+    </structured-name>
+    <city>Los Angeles</city>
+    <country-code>US</country-code>
+    <region>CA</region>
+    <postal-code>90064</postal-code>
+  </buyer-billing-address>
+  <buyer-marketing-preferences>
+    <email-allowed>false</email-allowed>
+  </buyer-marketing-preferences>
+  <order-total currency="USD">0.0</order-total>
+  <fulfillment-order-state>NEW</fulfillment-order-state>
+  <financial-order-state>REVIEWING</financial-order-state>
+</new-order-notification>
+
+
+
+Mon Nov 19 6:10:40 PST 2007:- <?xml version="1.0" encoding="UTF-8"?><notification-acknowledgment xmlns="http://checkout.google.com/schema/2"/>
+
+Mon Nov 19 6:10:41 PST 2007:- <?xml version="1.0" encoding="UTF-8"?>
+<order-state-change-notification xmlns="http://checkout.google.com/schema/2" serial-number="607003550512327-00005-1">
+  <timestamp>2007-11-19T14:10:33.000Z</timestamp>
+  <google-order-number>607003550512327</google-order-number>
+  <new-fulfillment-order-state>NEW</new-fulfillment-order-state>
+  <new-financial-order-state>CHARGEABLE</new-financial-order-state>
+  <previous-fulfillment-order-state>NEW</previous-fulfillment-order-state>
+  <previous-financial-order-state>REVIEWING</previous-financial-order-state>
+</order-state-change-notification>
+
+
+
+Mon Nov 19 6:10:41 PST 2007:- <?xml version="1.0" encoding="UTF-8"?><notification-acknowledgment xmlns="http://checkout.google.com/schema/2"/>
+
+Mon Nov 19 6:10:43 PST 2007:- <?xml version="1.0" encoding="UTF-8"?>
+<risk-information-notification xmlns="http://checkout.google.com/schema/2" serial-number="607003550512327-00005-5">
+  <timestamp>2007-11-19T14:10:33.000Z</timestamp>
+  <google-order-number>607003550512327</google-order-number>
+  <risk-information>
+    <billing-address>
+      <contact-name>tester</contact-name>
+      <company-name></company-name>
+      <email>dsoftcustomer@gmail.com</email>
+      <phone>123 456-7890</phone>
+      <fax></fax>
+      <address1>Main str. 1</address1>
+      <address2></address2>
+      <city>Los Angeles</city>
+      <country-code>US</country-code>
+      <region>CA</region>
+      <postal-code>90064</postal-code>
+    </billing-address>
+    <ip-address>80.249.236.114</ip-address>
+    <eligible-for-protection>true</eligible-for-protection>
+    <avs-response>A</avs-response>
+    <cvn-response>M</cvn-response>
+    <partial-cc-number>1111</partial-cc-number>
+    <buyer-account-age>4</buyer-account-age>
+  </risk-information>
+</risk-information-notification>
+
+
+
+Mon Nov 19 6:10:43 PST 2007:- <?xml version="1.0" encoding="UTF-8"?><notification-acknowledgment xmlns="http://checkout.google.com/schema/2"/>
+
+Mon Nov 19 6:10:44 PST 2007:- <?xml version="1.0" encoding="UTF-8"?>
+<order-state-change-notification xmlns="http://checkout.google.com/schema/2" serial-number="607003550512327-00006-1">
+  <timestamp>2007-11-19T14:10:34.000Z</timestamp>
+  <google-order-number>607003550512327</google-order-number>
+  <new-fulfillment-order-state>PROCESSING</new-fulfillment-order-state>
+  <new-financial-order-state>CHARGEABLE</new-financial-order-state>
+  <previous-fulfillment-order-state>NEW</previous-fulfillment-order-state>
+  <previous-financial-order-state>CHARGEABLE</previous-financial-order-state>
+</order-state-change-notification>
+
+
+
+Mon Nov 19 6:10:44 PST 2007:- <?xml version="1.0" encoding="UTF-8"?><notification-acknowledgment xmlns="http://checkout.google.com/schema/2"/>
+
+Mon Nov 19 6:10:45 PST 2007:- <?xml version="1.0" encoding="UTF-8"?>
+<order-state-change-notification xmlns="http://checkout.google.com/schema/2" serial-number="607003550512327-00008-1">
+  <timestamp>2007-11-19T14:10:34.000Z</timestamp>
+  <google-order-number>607003550512327</google-order-number>
+  <new-fulfillment-order-state>PROCESSING</new-fulfillment-order-state>
+  <new-financial-order-state>CHARGING</new-financial-order-state>
+  <previous-fulfillment-order-state>PROCESSING</previous-fulfillment-order-state>
+  <previous-financial-order-state>CHARGEABLE</previous-financial-order-state>
+</order-state-change-notification>
+
+
+
+Mon Nov 19 6:10:45 PST 2007:- <?xml version="1.0" encoding="UTF-8"?><notification-acknowledgment xmlns="http://checkout.google.com/schema/2"/>
+
+Mon Nov 19 6:10:47 PST 2007:- <?xml version="1.0" encoding="UTF-8"?>
+<order-state-change-notification xmlns="http://checkout.google.com/schema/2" serial-number="607003550512327-00010-1">
+  <timestamp>2007-11-19T14:10:34.000Z</timestamp>
+  <google-order-number>607003550512327</google-order-number>
+  <new-fulfillment-order-state>PROCESSING</new-fulfillment-order-state>
+  <new-financial-order-state>CHARGED</new-financial-order-state>
+  <previous-fulfillment-order-state>PROCESSING</previous-fulfillment-order-state>
+  <previous-financial-order-state>CHARGING</previous-financial-order-state>
+</order-state-change-notification>
+
+
+
+Mon Nov 19 6:10:47 PST 2007:- <?xml version="1.0" encoding="UTF-8"?><notification-acknowledgment xmlns="http://checkout.google.com/schema/2"/>
+
+Mon Nov 19 6:10:48 PST 2007:- <?xml version="1.0" encoding="UTF-8"?>
+<charge-amount-notification xmlns="http://checkout.google.com/schema/2" serial-number="607003550512327-00010-2">
+  <timestamp>2007-11-19T14:10:34.000Z</timestamp>
+  <google-order-number>607003550512327</google-order-number>
+  <latest-charge-amount currency="USD">0.0</latest-charge-amount>
+  <total-charge-amount currency="USD">0.0</total-charge-amount>
+</charge-amount-notification>
+
+
+
+Mon Nov 19 6:10:48 PST 2007:- <?xml version="1.0" encoding="UTF-8"?><notification-acknowledgment xmlns="http://checkout.google.com/schema/2"/>
+
+Mon Nov 19 6:10:49 PST 2007:- <?xml version="1.0" encoding="UTF-8"?>
+<order-state-change-notification xmlns="http://checkout.google.com/schema/2" serial-number="607003550512327-00011-1">
+  <timestamp>2007-11-19T14:10:34.000Z</timestamp>
+  <google-order-number>607003550512327</google-order-number>
+  <new-fulfillment-order-state>DELIVERED</new-fulfillment-order-state>
+  <new-financial-order-state>CHARGED</new-financial-order-state>
+  <previous-fulfillment-order-state>PROCESSING</previous-fulfillment-order-state>
+  <previous-financial-order-state>CHARGED</previous-financial-order-state>
+</order-state-change-notification>
+
+
+
+Mon Nov 19 6:10:49 PST 2007:- <?xml version="1.0" encoding="UTF-8"?><notification-acknowledgment xmlns="http://checkout.google.com/schema/2"/>
+
+Mon Nov 19 7:13:17 PST 2007:- <?xml version="1.0" encoding="UTF-8"?>
+<new-order-notification xmlns="http://checkout.google.com/schema/2" serial-number="269463997490916-00001-7">
+  <timestamp>2007-11-19T15:13:08.000Z</timestamp>
+  <shopping-cart>
+    <items>
+      <item>
+        <digital-content>
+          <description>1 Month Membership is approved.</description>
+          <url>http://www.datingsoftware.biz/demos/platinum_adult/payments/thankyou.php</url>
+        </digital-content>
+        <item-name>1 Month Membership</item-name>
+        <item-description></item-description>
+        <unit-price currency="USD">0.0</unit-price>
+        <quantity>1</quantity>
+      </item>
+    </items>
+    <merchant-private-data>343</merchant-private-data>
+  </shopping-cart>
+  <order-adjustment>
+    <merchant-codes />
+    <total-tax currency="USD">0.0</total-tax>
+    <adjustment-total currency="USD">0.0</adjustment-total>
+  </order-adjustment>
+  <buyer-id>212704317714540</buyer-id>
+  <google-order-number>269463997490916</google-order-number>
+  <buyer-shipping-address>
+    <contact-name>tester</contact-name>
+    <company-name></company-name>
+    <email>dsoftcustomer@gmail.com</email>
+    <phone>123 456-7890</phone>
+    <fax></fax>
+    <address1>Main str. 1</address1>
+    <address2></address2>
+    <structured-name>
+      <first-name></first-name>
+      <last-name>tester</last-name>
+    </structured-name>
+    <city>Los Angeles</city>
+    <country-code>US</country-code>
+    <region>CA</region>
+    <postal-code>90064</postal-code>
+  </buyer-shipping-address>
+  <buyer-billing-address>
+    <contact-name>tester</contact-name>
+    <company-name></company-name>
+    <email>dsoftcustomer@gmail.com</email>
+    <phone>123 456-7890</phone>
+    <fax></fax>
+    <address1>Main str. 1</address1>
+    <address2></address2>
+    <structured-name>
+      <first-name></first-name>
+      <last-name>tester</last-name>
+    </structured-name>
+    <city>Los Angeles</city>
+    <country-code>US</country-code>
+    <region>CA</region>
+    <postal-code>90064</postal-code>
+  </buyer-billing-address>
+  <buyer-marketing-preferences>
+    <email-allowed>false</email-allowed>
+  </buyer-marketing-preferences>
+  <order-total currency="USD">0.0</order-total>
+  <fulfillment-order-state>NEW</fulfillment-order-state>
+  <financial-order-state>REVIEWING</financial-order-state>
+</new-order-notification>
+
+
+
+Mon Nov 19 7:13:17 PST 2007:- <?xml version="1.0" encoding="UTF-8"?><notification-acknowledgment xmlns="http://checkout.google.com/schema/2"/>
+
+Mon Nov 19 7:13:17 PST 2007:- <?xml version="1.0" encoding="UTF-8"?>
+<order-state-change-notification xmlns="http://checkout.google.com/schema/2" serial-number="269463997490916-00005-1">
+  <timestamp>2007-11-19T15:13:09.000Z</timestamp>
+  <google-order-number>269463997490916</google-order-number>
+  <new-fulfillment-order-state>NEW</new-fulfillment-order-state>
+  <new-financial-order-state>CHARGEABLE</new-financial-order-state>
+  <previous-fulfillment-order-state>NEW</previous-fulfillment-order-state>
+  <previous-financial-order-state>REVIEWING</previous-financial-order-state>
+</order-state-change-notification>
+
+
+
+Mon Nov 19 7:13:17 PST 2007:- <?xml version="1.0" encoding="UTF-8"?><notification-acknowledgment xmlns="http://checkout.google.com/schema/2"/>
+
+Mon Nov 19 7:13:19 PST 2007:- <?xml version="1.0" encoding="UTF-8"?>
+<risk-information-notification xmlns="http://checkout.google.com/schema/2" serial-number="269463997490916-00005-5">
+  <timestamp>2007-11-19T15:13:09.000Z</timestamp>
+  <google-order-number>269463997490916</google-order-number>
+  <risk-information>
+    <billing-address>
+      <contact-name>tester</contact-name>
+      <company-name></company-name>
+      <email>dsoftcustomer@gmail.com</email>
+      <phone>123 456-7890</phone>
+      <fax></fax>
+      <address1>Main str. 1</address1>
+      <address2></address2>
+      <city>Los Angeles</city>
+      <country-code>US</country-code>
+      <region>CA</region>
+      <postal-code>90064</postal-code>
+    </billing-address>
+    <ip-address>80.249.236.114</ip-address>
+    <eligible-for-protection>true</eligible-for-protection>
+    <avs-response>A</avs-response>
+    <cvn-response>M</cvn-response>
+    <partial-cc-number>1111</partial-cc-number>
+    <buyer-account-age>4</buyer-account-age>
+  </risk-information>
+</risk-information-notification>
+
+
+
+Mon Nov 19 7:13:19 PST 2007:- <?xml version="1.0" encoding="UTF-8"?><notification-acknowledgment xmlns="http://checkout.google.com/schema/2"/>
+
+Mon Nov 19 7:13:20 PST 2007:- <?xml version="1.0" encoding="UTF-8"?>
+<order-state-change-notification xmlns="http://checkout.google.com/schema/2" serial-number="269463997490916-00006-1">
+  <timestamp>2007-11-19T15:13:09.000Z</timestamp>
+  <google-order-number>269463997490916</google-order-number>
+  <new-fulfillment-order-state>PROCESSING</new-fulfillment-order-state>
+  <new-financial-order-state>CHARGEABLE</new-financial-order-state>
+  <previous-fulfillment-order-state>NEW</previous-fulfillment-order-state>
+  <previous-financial-order-state>CHARGEABLE</previous-financial-order-state>
+</order-state-change-notification>
+
+
+
+Mon Nov 19 7:13:20 PST 2007:- <?xml version="1.0" encoding="UTF-8"?><notification-acknowledgment xmlns="http://checkout.google.com/schema/2"/>
+
+Mon Nov 19 7:13:21 PST 2007:- <?xml version="1.0" encoding="UTF-8"?>
+<order-state-change-notification xmlns="http://checkout.google.com/schema/2" serial-number="269463997490916-00008-1">
+  <timestamp>2007-11-19T15:13:09.000Z</timestamp>
+  <google-order-number>269463997490916</google-order-number>
+  <new-fulfillment-order-state>PROCESSING</new-fulfillment-order-state>
+  <new-financial-order-state>CHARGING</new-financial-order-state>
+  <previous-fulfillment-order-state>PROCESSING</previous-fulfillment-order-state>
+  <previous-financial-order-state>CHARGEABLE</previous-financial-order-state>
+</order-state-change-notification>
+
+
+
+Mon Nov 19 7:13:21 PST 2007:- <?xml version="1.0" encoding="UTF-8"?><notification-acknowledgment xmlns="http://checkout.google.com/schema/2"/>
+
+Mon Nov 19 7:13:22 PST 2007:- <?xml version="1.0" encoding="UTF-8"?>
+<order-state-change-notification xmlns="http://checkout.google.com/schema/2" serial-number="269463997490916-00010-1">
+  <timestamp>2007-11-19T15:13:09.000Z</timestamp>
+  <google-order-number>269463997490916</google-order-number>
+  <new-fulfillment-order-state>PROCESSING</new-fulfillment-order-state>
+  <new-financial-order-state>CHARGED</new-financial-order-state>
+  <previous-fulfillment-order-state>PROCESSING</previous-fulfillment-order-state>
+  <previous-financial-order-state>CHARGING</previous-financial-order-state>
+</order-state-change-notification>
+
+
+
+Mon Nov 19 7:13:22 PST 2007:- <?xml version="1.0" encoding="UTF-8"?><notification-acknowledgment xmlns="http://checkout.google.com/schema/2"/>
+
+Mon Nov 19 7:13:23 PST 2007:- <?xml version="1.0" encoding="UTF-8"?>
+<charge-amount-notification xmlns="http://checkout.google.com/schema/2" serial-number="269463997490916-00010-2">
+  <timestamp>2007-11-19T15:13:09.000Z</timestamp>
+  <google-order-number>269463997490916</google-order-number>
+  <latest-charge-amount currency="USD">0.0</latest-charge-amount>
+  <total-charge-amount currency="USD">0.0</total-charge-amount>
+</charge-amount-notification>
+
+
+
+Mon Nov 19 7:13:23 PST 2007:- <?xml version="1.0" encoding="UTF-8"?><notification-acknowledgment xmlns="http://checkout.google.com/schema/2"/>
+
+Mon Nov 19 7:13:24 PST 2007:- <?xml version="1.0" encoding="UTF-8"?>
+<order-state-change-notification xmlns="http://checkout.google.com/schema/2" serial-number="269463997490916-00011-1">
+  <timestamp>2007-11-19T15:13:09.000Z</timestamp>
+  <google-order-number>269463997490916</google-order-number>
+  <new-fulfillment-order-state>DELIVERED</new-fulfillment-order-state>
+  <new-financial-order-state>CHARGED</new-financial-order-state>
+  <previous-fulfillment-order-state>PROCESSING</previous-fulfillment-order-state>
+  <previous-financial-order-state>CHARGED</previous-financial-order-state>
+</order-state-change-notification>
+
+
+
+Mon Nov 19 7:13:24 PST 2007:- <?xml version="1.0" encoding="UTF-8"?><notification-acknowledgment xmlns="http://checkout.google.com/schema/2"/>

@@ -1,0 +1,709 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 201909 will be lost/reset.
+# Last config file used to build this data file was /home/knowled5/tmp/awstats/awstats.bettermancoach.com.knowledgedr.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2031                
+POS_TIME 2714                
+POS_VISITOR 11835               
+POS_DAY 14940               
+POS_DOMAIN 3500                
+POS_LOGIN 3936                
+POS_ROBOT 4091                
+POS_WORMS 4689                
+POS_EMAILSENDER 4820                
+POS_EMAILRECEIVER 4963                
+POS_SESSION 15707               
+POS_SIDER 15907               
+POS_FILETYPES 5098                
+POS_DOWNLOADS 5441                
+POS_OS 5708                
+POS_BROWSER 5934                
+POS_SCREENSIZE 6606                
+POS_UNKNOWNREFERER 6680                
+POS_UNKNOWNREFERERBROWSER 7094                
+POS_ORIGIN 7360                
+POS_SEREFERRALS 7499                
+POS_PAGEREFS 7654                
+POS_SEARCHWORDS 7832                
+POS_KEYWORDS 8005                
+POS_MISC 2377                
+POS_ERRORS 8085                
+POS_CLUSTER 3792                
+POS_SIDER_404 8208                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20191001011109 773 168043 9720891936247
+FirstTime 20190901014117
+LastTime 20190930173233
+LastUpdate 20191001051638 773 0 772 0 0
+TotalVisits 338                 
+TotalUnique 77                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 79                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavaEnabled 0 0 0
+PDFSupport 0 0 0
+DirectorSupport 0 0 0
+TotalMisc 0 0 0
+QuickTimeSupport 0 0 0
+AddToFavourites 0 32 0
+RealPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 21 60 442945 20 46 413099
+1 22 43 306767 30 36 205889
+2 17 17 0 21 40 184838
+3 8 8 7073 17 34 236344
+4 15 15 0 18 35 432506
+5 10 10 0 18 21 84558
+6 13 13 0 15 25 96918
+7 15 36 276678 23 46 282361
+8 24 24 90240 25 35 407861
+9 38 58 513305 17 30 119324
+10 24 24 103433 17 37 293675
+11 15 15 55418 11 15 39771
+12 20 41 279640 18 41 228465
+13 18 28 154630 21 77 441324
+14 9 9 7073 14 21 68499
+15 23 44 286713 26 46 187736
+16 22 22 74730 24 34 671349
+17 399 531 41494343 261 292 300482
+18 28 28 64686 29 45 187928
+19 188 365 3633203 35 63 122779
+20 189 350 5078974 31 82 1008056
+21 16 16 22072 18 26 106227
+22 13 13 14146 14 23 74334
+23 29 29 82413 28 39 131703
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 16
+us 725 1189 10281479
+ru 374 485 41267027
+id 25 45 513305
+ca 12 12 276580
+it 8 8 96360
+kz 7 7 67657
+mx 7 7 67657
+ph 7 7 67657
+gb 4 30 300006
+de 2 2 22368
+in 1 1 1353
+hn 1 1 7073
+hu 1 1 7073
+es 1 1 589
+th 1 1 7145
+cn 0 2 5153
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 12
+bingbot/ 145 1500741 20190930124046 24
+SemrushBot/ 132 678183 20190930180738 67
+Googlebot/ 124 810635 20190930145653 22
+YandexBot/ 123 669924 20190930023657 47
+spider 20 237378 20190922005343 1
+PhantomJS 16 180689 20190930173238 0
+bingpreview 13 710202 20190912205738 0
+Googlebot\-Image/ 11 624449 20190916094012 0
+unknown 7 478 20190930172725 7
+MojeekBot/ 4 13930 20190908011320 2
+bot[\s_+:,\.\;\/\\-] 2 7143 20190917073253 1
+no_user_agent 1 1231 20190909142240 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 15
+ttf 6 383612 0 0
+Unknown 120 307345 0 0
+xml 2 1521 0 0
+png 28 3101339 0 0
+jpg 281 32875605 0 0
+gif 3 20267 0 0
+html 377 7863194 0 0
+js 204 3122926 0 0
+woff2 31 462452 0 0
+css 85 1040068 0 0
+txt 16 1206 0 0
+eot 4 276796 0 0
+svg 6 996049 0 0
+php 628 2319554 0 0
+woff 8 216548 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 3
+/.well-known/pki-validation/99EF9FDB352752D8FA4704ADA781DA4D.txt 14 0 1078
+/.well-known/pki-validation/73D213DB75F8F6EAD3381AC51F49B7B4.txt 1 0 64
+/.well-known/pki-validation/07B2CEFAF6CEAEE17CBE5576A5CFF128.txt 1 0 64
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 12
+macosx 582 326
+Unknown 526 365
+winxp 4 4
+linuxandroid 3 1
+win7 70 50
+ios_iphone 1 1
+linux 36 5
+win10 86 44
+win8.1 8 8
+macosx8 2 2
+macosx11 478 367
+macosx10 3 3
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 31
+firefox45.0 478 367
+Unknown 490 350
+chrome75.0.3770.142 3 1
+safari12.1 532 318
+firefox62.0 1 1
+firefox60.0 21 21
+chrome74.0.3729.131 3 3
+chrome68.0.3440.84 8 8
+chrome68.0.3440.106 24 3
+chrome71.0.3578.80 2 2
+firefox65.0 1 1
+mozilla 37 16
+firefox38.0 45 25
+opera54.0.2952.64 1 1
+chrome35.0.1916.153 1 1
+chrome69.0.3494.0 11 1
+chrome60.0.3112.113 2 2
+chrome67.0.3396.99 2 2
+safari12.1.2 1 1
+firefox59.0 2 2
+firefox69.0 48 6
+chrome76.0.3809.100 2 2
+firefox61.0 1 1
+firefox57.0 28 7
+safari12.0.3 1 1
+chrome76.0.3809.132 1 1
+msie6.0 3 3
+chrome66.0.3359.181 22 22
+firefox67.0 25 4
+chrome45.0.2454.94 1 1
+chrome26.0.1410.65 2 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 6
+COMODO_DCV 20190923001647
+Mozilla/5.0_(compatible;_Dataprovider.com) 20190914170237
+Go-http-client/1.1 20190922173451
+WordPress/5.2.2;_http://www.bettermancoach.com 20190904234038
+WordPress/5.2.3;_http://www.bettermancoach.com 20190930172722
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20190906114212
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 4
+WordPress/5.2.2;_http://www.bettermancoach.com 20190904234038
+Go-http-client/1.1 20190922173451
+WordPress/5.2.3;_http://www.bettermancoach.com 20190930172722
+COMODO_DCV 20190923001647
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 462 612
+From1 0 0
+From2 1 1
+From3 1 1
+From4 712 1185
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+aolcom 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+https://brandnewblogs.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+bettermancoach.com 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 1
+bettermancoach.com 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+301 344 617
+302 19 0
+500 5 6575
+404 191 883851
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 63
+/2017/11/01/why-you-need-a-seo-agency-now/ 1 -
+/category/dating_tips/ 5 -
+/coupon/godaddy-coupon/ 5 -
+/wp-content/themes/makemoney-pro/assets/js/jquery.custom.js 1 http://www.bettermancoach.com/2017/03/page/2/
+/author/adminzz/ 1 -
+/category/advice-men/ 5 -
+/coupon/sendgrid-coupon/ 7 -
+/testimonials-2/ 11 -
+/how-to-build-your-first-online-store-comprehensive-guide/ 1 -
+/site/wp-login.php 1 http://bettermancoach.com/site/wp-login.php
+/offerings/ 3 -
+/news/wp-login.php 1 http://bettermancoach.com/news/wp-login.php
+/ads.txt 32 -
+/wp-content/uploads/2018/06/who-we-are-intro.jpg 1 -
+/tag/tips/ 1 -
+/wp-content/themes/vw-fitness/css/images/mobile_nav_right.png 1 -
+/2019/04/ 6 -
+/wp-content/uploads/2018/06/what-we-do-service-5.jpg 1 -
+/life-coaching/ 3 -
+/who-we-are/ 3 -
+/wp-content/themes/vw-fitnessinc/logo/js/customize-controls.js 3 http://www.bettermancoach.com/wp-admin/customize.php
+/wp-content/uploads/2019/04/land.jpg 1 -
+/2017/11/01/how-grammar-impact-your-seo/ 2 -
+/ 3 http://bettermancoach.com/
+/wp-content/plugins/wp-automatic/inc/csv.php 2 -
+/terms-of-use/ 5 -
+/wp-content/themes/makemoney-pro/responsive.css 1 http://www.bettermancoach.com/2017/03/page/2/
+/2017/10/24/seo-tips-to-boost-your-sales/ 1 -
+/10-guest-blogging-mistakes-you-need-to-stop-making/ 2 -
+/2017/11/01/seo-for-small-business/ 1 -
+/category/seo-tips/ 3 -
+/wp-content/themes/vw-fitnessinc/logo/js/customize-preview.js 12 http://www.bettermancoach.com/
+/careers/ 4 -
+/wp-content/plugins/easy-affiliate-links/assets/js/public.js 1 http://www.bettermancoach.com/2017/03/page/2/
+/wp-content/themes/makemoney-pro/assets/js/jquery.slicknav.min.js 1 http://www.bettermancoach.com/2017/03/page/2/
+/wp-content/themes/makemoney-pro/genericons/genericons.css 1 http://www.bettermancoach.com/2017/03/page/2/
+/about-craig/ 9 -
+/wp-content/themes/makemoney-pro/style.css 1 http://www.bettermancoach.com/2017/03/page/2/
+/2019/08/05/hello-world/ 1 -
+/wp-content/themes/makemoney-pro/assets/js/html5.js 1 http://www.bettermancoach.com/2017/03/page/2/
+/sitemap.xml 2 -
+/wp-content/uploads/fusion-styles/fdca2ebbebab11596b91a854a7f91b00.min.css 1 http://www.bettermancoach.com/life-coaching/
+/author/allen/ 3 -
+/page/3/ 1 -
+/on-page-seo-techniques-to-rank-on-the-first-page/ 1 -
+/wp-content/themes/makemoney-pro/assets/js/jquery.modal.min.js 2 http://www.bettermancoach.com/2017/03/page/2/
+/how-to-become-a-virtual-assistant-va-start-making-money/ 2 -
+/about-craig/what-we-do-inner-page/ 9 -
+/category/blogging/ 1 -
+/craigs-blog-2/ 4 -
+/wp/wp-admin/ 1 -
+/how-to-start-making-money-from-social-media-with-famebit/ 1 -
+/wp-content/uploads/2018/06/what-we-do-service-4.jpg 1 -
+/wp-content/themes/makemoney-pro/assets/css/jquery.modal.css 1 http://www.bettermancoach.com/2017/03/page/2/
+/category/make-money-online/ 3 -
+/wp-content/themes/makemoney-pro/assets/css/superfish.css 1 http://www.bettermancoach.com/2017/03/page/2/
+/wp-content/themes/makemoney-pro/assets/js/superfish.js 1 http://www.bettermancoach.com/2017/03/page/2/
+/2017/11/01/seo-tips-for-your-startup/ 1 -
+/wp-admin/admin-ajax.php 2 http://www.bettermancoach.com/wp-admin/customize.php
+/wp-content/themes/makemoney-pro/assets/js/modernizr.min.js 1 http://www.bettermancoach.com/2017/03/page/2/
+/coupon/ 2 -
+/how-i-get-clients-for-my-freelance-writing-business-using-twitter/ 2 -
+/news/ 3 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 79
+89.223.24.173 367 478 41179338 20190930173233
+184.154.46.57 338 473 40153 20190930172722
+97.101.16.201 324 580 8789092 20190926072246
+182.253.11.11 24 44 506232 20190923090057
+158.69.117.141 12 12 276580 20190913194913
+84.17.62.153 8 8 96360 20190926101606
+201.160.205.120 7 7 67657 20190926161807
+180.190.39.85 7 7 67657 20190929230728
+138.68.254.101 7 28 436586 20190923001828
+178.90.252.42 7 7 67657 20190930085514
+89.223.30.116 3 3 21219 20190930172722
+34.217.98.212 3 24 265494 20190905154804
+51.77.246.199 3 24 265494 20190914170237
+109.126.253.113 2 2 52324 20190918192152
+31.184.215.241 2 2 14146 20190914115008
+34.212.181.113 1 1 4051 20190903192051
+54.189.9.232 1 1 7073 20190907195249
+34.222.59.52 1 1 7073 20190921235706
+18.237.240.156 1 1 7073 20190913195453
+34.219.32.231 1 1 7073 20190914190012
+52.53.250.113 1 1 7073 20190916030153
+145.239.209.12 1 1 34127 20190907012716
+167.71.242.236 1 1 34127 20190906114212
+34.212.132.4 1 1 7073 20190916180852
+18.237.155.124 1 1 7073 20190918010920
+101.4.60.64 0 2 5153 
+3.214.21.251 1 1 7073 20190908143733
+54.190.126.104 1 1 7073 20190912212605
+18.237.13.25 1 1 7073 20190911194402
+72.189.165.138 1 1 4051 20190902180026
+173.252.127.31 1 9 120105 20190927012151
+164.160.130.18 1 1 403 20190911212036
+54.186.2.115 1 1 7073 20190909171602
+183.82.17.59 1 1 1353 20190903084753
+34.221.128.44 1 1 7073 20190909173635
+54.201.75.203 1 1 7073 20190922173451
+103.10.59.73 1 1 7073 20190923085856
+64.246.165.170 1 1 7073 20190904153311
+34.220.5.189 1 1 7073 20190929113535
+18.237.12.211 1 1 7073 20190918180747
+34.222.69.239 1 1 4051 20190901184741
+92.249.191.225 1 1 7073 20190905122853
+34.216.145.72 1 1 0 20190911175539
+107.178.231.235 1 11 143446 20190913135843
+91.199.212.132 0 5 385 
+69.61.28.146 1 1 403 20190911214216
+52.32.39.44 1 1 7073 20190925122152
+34.228.245.241 1 1 7073 20190905211812
+34.215.22.71 1 1 7073 20190921182528
+173.252.127.12 1 6 36721 20190927012150
+173.193.191.200 1 1 7073 20190930152357
+34.211.152.154 1 1 7073 20190916203213
+54.218.99.207 1 1 7073 20190920175653
+52.43.20.80 1 1 7073 20190926085524
+54.167.105.45 1 1 7084 20190916085614
+52.12.93.74 1 1 7073 20190915203335
+148.251.151.40 1 1 11184 20190902072050
+34.218.250.32 1 1 7073 20190910195032
+18.237.204.62 1 1 7073 20190906192756
+108.177.213.58 1 1 7073 20190928103111
+18.237.216.60 1 1 7073 20190910182957
+54.186.8.149 1 1 7073 20190915175936
+54.187.87.28 1 1 7073 20190905154801
+34.218.238.240 1 1 7073 20190923220334
+34.221.71.107 1 1 7073 20190920190312
+34.212.176.161 1 1 7073 20190912180230
+216.151.20.198 1 1 7073 20190905093316
+1.2.200.165 1 1 7145 20190918114522
+52.33.224.178 1 1 7073 20190907183313
+54.202.121.97 1 1 7073 20190908194253
+173.252.127.1 1 9 108741 20190927012151
+193.7.200.60 1 1 11184 20190902131559
+54.186.0.140 1 1 7073 20190914172053
+178.156.31.233 1 1 589 20190917233737
+52.35.184.239 1 1 4051 20190902203114
+54.189.66.210 1 1 7073 20190919221356
+190.185.109.119 1 1 7073 20190921161251
+64.246.161.42 1 1 7073 20190926182916
+34.222.118.175 1 1 7073 20190918235037
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20190901 9 9 4051 7
+20190902 23 41 123055 13
+20190903 327 647 8210234 9
+20190904 12 12 7094 11
+20190905 19 40 293786 15
+20190906 11 11 41200 10
+20190907 11 11 48273 11
+20190908 14 14 14146 11
+20190909 16 37 279640 9
+20190910 14 14 14146 11
+20190911 14 14 7879 12
+20190912 15 17 26372 11
+20190913 27 37 427099 11
+20190914 17 38 286713 12
+20190915 17 17 14146 13
+20190916 16 16 28303 13
+20190917 15 15 589 12
+20190918 22 22 80688 15
+20190919 13 13 7073 13
+20190920 15 15 14146 11
+20190921 13 13 21219 11
+20190922 9 9 7073 8
+20190923 45 102 958170 15
+20190924 9 9 0 5
+20190925 13 13 7073 9
+20190926 32 53 443657 16
+20190927 11 32 265567 11
+20190928 9 9 7073 8
+20190929 21 21 88876 11
+20190930 387 498 41261141 14
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+5mn-15mn 4
+15mn-30mn 15
+30s-2mn 1
+30mn-1h 34
+0s-30s 273
+1h+ 11
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 207
+/wp-cron.php 332 0 255 255
+/wp-admin/admin-ajax.php 169 63759 0 1
+/wp-json/oembed/1.0/embed 117 301803 0 0
+/ 99 1062601 71 61
+/wp-login.php 35 75530 1 5
+/wp-content/themes/vw-fitness/webfonts/fa-solid-900.woff2 15 310272 1 2
+/wp-content/themes/vw-fitness/webfonts/fa-regular-400.woff2 15 97760 1 4
+/wp-admin/load-scripts.php 14 670097 0 0
+/wp-admin/themes.php 12 152580 0 0
+/wp-admin/admin.php 12 77906 0 0
+/feed/ 10 188462 0 0
+/wp-admin/tools.php 9 66082 0 0
+/wp-admin/plugins.php 8 106326 0 0
+/wp-admin/ 7 128107 0 0
+/contacts/ 7 97132 0 1
+/wp-admin/load-styles.php 6 610415 0 0
+/author/Zachary/ 5 145117 1 1
+/2019/08/22/hello-world/ 5 97297 0 0
+/wp-admin/import.php 5 47395 0 0
+/2017/03/16/hello-world-2/ 4 105147 0 0
+/2017/03/20/many-wealthy-people-are-little-more-than-janitors-of-their-possessions/ 4 109424 0 0
+/xmlrpc.php 4 2486 3 2
+/2017/03/20/i-think-hail-to-the-chief-has-a-nice-ring-to-it/ 4 114733 0 0
+/comments/feed/ 3 11457 0 0
+/2017/03/20/good-people-do-not-need-laws-to-tell-them-to-act-responsibly-while-bad-people-will-find-a-way-around-the-laws/ 3 95442 0 0
+/2017/03/20/human-history-becomes-more-and-more-a-race-between-education-and-catastrophe/feed/ 1 1027 0 0
+/sample-page-2/feed/ 1 798 0 0
+/testimonials/ 2 27862 0 0
+/category/uncategorized/feed/ 1 1799 0 0
+/tag/love/feed/ 1 99809 0 0
+/2017/03/20/the-only-difference-between-me-and-a-madman-is-that-im-not-mad/ 2 62778 0 0
+/2017/03/20/we-are-all-atheists-about-most-of-the-gods-humanity-has-ever-believed-in-some-of-us-just-go-one-god-further/ 2 63304 0 0
+/category/success-stories/ 2 29026 0 0
+/2019/08/22/hello-world/feed/ 1 1745 0 0
+/2017/03/20/in-theory-there-is-no-difference-between-theory-and-practice-but-in-practice-there-is/ 2 63276 0 0
+/2017/03/20/dont-be-so-humble-you-are-not-that-great/ 2 62478 0 0
+/sample-page/ 2 28320 0 0
+/2017/03/20/a-lie-gets-halfway-around-the-world-before-the-truth-has-a-chance-to-get-its-pants-on/ 2 63086 0 0
+/tag/coaching/page/4/ 1 19641 0 0
+/tag/life-coach-news/feed/ 1 99831 0 0
+/post-8/ 2 42738 0 0
+/tag/love/page/2/ 1 35291 0 0
+/2017/03/20/you-may-not-be-interested-in-war-but-war-is-interested-in-you/feed/ 1 983 0 0
+/2017/03/20/not-everything-that-can-be-counted-counts-and-not-everything-that-counts-can-be-counted/ 2 63592 0 0
+/page/4/ 1 21155 0 0
+/tag/love/page/4/ 1 19609 0 0
+/tag/friends/page/2/ 1 35321 0 0
+/2017/03/page/2/ 1 35135 0 0
+/wp-content/themes/vw-fitness/webfonts/fa-regular-400.woff 2 29424 0 0
+/tag/friends/page/3/ 1 35600 0 0
+/2017/03/20/victory-goes-to-the-player-who-makes-the-next-to-last-mistake/ 2 63608 0 0
+/podcast-12/ 2 42850 0 0
+/2017/03/20/good-people-do-not-need-laws-to-tell-them-to-act-responsibly-while-bad-people-will-find-a-way-around-the-laws/feed/ 1 1127 0 0
+/tag/gallery/page/2/ 1 35321 0 0
+/2017/03/20/i-have-never-killed-anyone-but-i-have-read-some-obituary-notices-with-great-satisfaction/ 2 63784 0 0
+/author/Zachary/page/4/ 1 21536 0 0
+/tag/news/ 1 35065 0 0
+/category/happyness/ 2 30518 0 0
+/privacy/ 3 49485 0 0
+/2017/03/20/life-isnt-about-waiting-for-the-storm-to-pass-its-about-learning-to-dance-in-the-rain/ 3 72405 0 0
+/shorcode-demos/ 2 66296 0 0
+/category/interviews/feed/ 1 30201 0 0
+/2017/03/20/not-everything-that-can-be-counted-counts-and-not-everything-that-counts-can-be-counted/feed/ 1 1061 0 0
+/tag/gallery/page/3/ 1 35600 0 0
+/2017/03/20/if-you-cant-get-rid-of-the-skeleton-in-your-closet-youd-best-teach-it-to-dance/feed/ 1 1048 0 0
+/wp-json/wp/v2/taxonomies 1 2820 0 0
+/life-coach-wordpress-theme-events/ 2 45566 0 0
+/post-24/ 2 42766 0 0
+/post-23/ 2 42766 0 0
+/category/success-stories/feed/ 1 31034 0 0
+/tag/blog/page/3/ 1 35569 0 0
+/tag/life-coach-news/page/3/ 1 35680 0 0
+/tag/friends/feed/ 1 99815 0 0
+/2017/03/20/i-dont-know-why-we-are-here-but-im-pretty-sure-that-it-is-not-in-order-to-enjoy-ourselves/feed/ 1 1081 0 0
+/post-7/ 2 42738 0 0
+/tag/love/ 1 35065 0 0
+/blog-with-sidebar/ 2 39452 0 0
+/wp-json/wp/v2/users/ 1 589 0 0
+/2017/03/20/dont-be-so-humble-you-are-not-that-great/feed/ 1 934 0 0
+/wp-content/themes/vw-fitness/webfonts/fa-regular-400.eot 1 31156 0 0
+/2017/03/20/in-the-end-we-will-remember-not-the-words-of-our-enemies-but-the-silence-of-our-friends/ 2 64184 0 0
+/2017/03/20/in-theory-there-is-no-difference-between-theory-and-practice-but-in-practice-there-is/feed/ 1 1057 0 0
+/tag/news/page/4/ 1 19609 0 0
+/wp-admin/index.php 2 37150 0 0
+/2017/03/20/the-artist-is-nothing-without-the-gift-but-the-gift-is-nothing-without-work/feed/ 1 1025 0 0
+/author/Zachary/page/2/ 1 35400 0 0
+/2017/03/16/hello-world-2/feed/ 2 3670 0 0
+/wp-content/themes/vw-fitness/webfonts/fa-brands-400.eot 1 98620 0 0
+/tag/gallery/feed/ 1 99815 0 0
+/tag/news/page/2/ 1 35291 0 0
+/category/changing-habits/ 2 36066 0 0
+/2017/03/20/i-have-never-killed-anyone-but-i-have-read-some-obituary-notices-with-great-satisfaction/feed/ 1 1064 0 0
+/2017/03/20/only-two-things-are-infinite-the-universe-and-human-stupidity-and-im-not-sure-about-the-former/feed/ 1 1090 0 0
+/wp-content/themes/lifecoach/fonts/dripicons/fonts/dripicons-v2.woff 3 26004 0 0
+/wp-json/wp/v2/types/post 1 2133 0 0
+/tag/business/page/2/ 1 35331 0 0
+/tag/coaching/ 1 35097 0 0
+/2017/03/page/4/ 1 19455 0 0
+/tag/coaching/feed/ 1 99817 0 0
+/category/news/ 3 57629 0 0
+/wp-json/ 2 151622 0 0
+/2017/03/page/3/ 1 35414 0 0
+/2017/03/20/problems-worthy-of-attack-prove-their-worth-by-fighting-back/feed/ 1 979 0 0
+/2017/03/20/i-dont-know-why-we-are-here-but-im-pretty-sure-that-it-is-not-in-order-to-enjoy-ourselves/ 2 63456 0 0
+/page/3/ 1 35046 0 0
+/2017/03/20/i-can-write-better-than-anybody-who-can-write-faster-and-i-can-write-faster-than-anybody-who-can-write-better/feed/ 1 1127 0 0
+/category/business-tips/ 2 34316 0 0
+/wp-content/themes/vw-fitness/webfonts/fa-solid-900.eot 1 102152 0 0
+/tag/news/feed/ 1 99809 0 0
+/2017/03/20/people-demand-freedom-of-speech-to-make-up-for-the-freedom-of-thought-which-they-avoid/feed/ 1 1057 0 0
+/2017/03/20/i-can-write-better-than-anybody-who-can-write-faster-and-i-can-write-faster-than-anybody-who-can-write-better/ 2 64866 0 0
+/page-full-post-carousel/ 2 34382 0 0
+/tag/business/page/3/ 1 35610 0 0
+/2017/03/20/nothing-in-the-world-is-more-dangerous-than-sincere-ignorance-and-conscientious-stupidity/feed/ 1 1066 0 0
+/tag/life-coach-news/page/4/ 1 19697 0 0
+/2017/03/20/i-think-hail-to-the-chief-has-a-nice-ring-to-it/feed/ 1 1944 0 0
+/wp-admin/customize.php 3 234481 0 0
+/tag/business/feed/ 1 99817 0 0
+/wp-content/themes/vw-fitness/webfonts/fa-brands-400.woff 1 63712 0 0
+/tag/life-coach-news/page/2/ 1 35401 0 0
+/2017/03/20/if-you-cant-get-rid-of-the-skeleton-in-your-closet-youd-best-teach-it-to-dance/ 2 63948 0 0
+/wp-includes/wlwmanifest.xml 2 1521 0 0
+/category/interviews/ 2 28986 0 0
+/wp-content/themes/vw-fitness/webfonts/fa-brands-400.woff2 1 54420 0 0
+/wp-content/themes/vw-fitness/webfonts/fa-solid-900.ttf 2 178676 0 1
+/team-members/ 3 41715 0 0
+/tag/business/ 1 35097 0 0
+/wp-admin/theme-install.php 2 24246 0 0
+/tag/coaching/page/2/ 1 35331 0 0
+/2017/03/20/human-history-becomes-more-and-more-a-race-between-education-and-catastrophe/ 3 71462 0 0
+/podcast-archive/ 2 28680 0 0
+/page/2/ 2 42325 0 1
+/category/life-coaching/feed/ 1 40688 0 0
+/2017/03/20/try-to-learn-something-about-everything-and-everything-about-something/feed/ 1 1009 0 0
+/2017/03/20/life-isnt-about-waiting-for-the-storm-to-pass-its-about-learning-to-dance-in-the-rain/feed/ 1 1069 0 0
+/wp-login.php/wp-login.php 3 8862 3 0
+/tag/coaching/page/3/ 1 35610 0 0
+/2017/03/20/you-can-avoid-reality-but-you-cannot-avoid-the-consequences-of-avoiding-reality/feed/ 1 1037 0 0
+/2017/03/20/victory-goes-to-the-player-who-makes-the-next-to-last-mistake/feed/ 1 982 0 0
+/post-30/ 2 42766 0 0
+/sample-page/feed/ 1 796 0 0
+/tag/blog/feed/ 1 99809 0 0
+/wp-admin/post-new.php 1 42308 0 0
+/category/life-coaching/ 2 31064 0 0
+/author/Zachary/page/3/ 1 35457 0 0
+/category/news/feed/ 1 49940 0 0
+/2017/03/20/people-demand-freedom-of-speech-to-make-up-for-the-freedom-of-thought-which-they-avoid/ 2 63752 0 0
+/author/Zachary/feed/ 1 91034 0 0
+/category/business-tips/feed/ 1 60795 0 0
+/tag/news/page/3/ 1 35570 0 1
+/2017/03/20/only-two-things-are-infinite-the-universe-and-human-stupidity-and-im-not-sure-about-the-former/ 2 64052 0 0
+/2017/03/20/the-greater-danger-for-most-of-us-lies-not-in-setting-our-aim-too-high-and-falling-short-but-in-setting-our-aim-too-low-and-achieving-our-mark/feed/ 1 1227 0 0
+/2017/03/20/im-living-so-far-beyond-my-income-that-we-may-almost-be-said-to-be-living-apart/feed/ 1 1043 0 0
+/wp-admin/update.php 3 18853 0 0
+/2017/03/20/the-greater-danger-for-most-of-us-lies-not-in-setting-our-aim-too-high-and-falling-short-but-in-setting-our-aim-too-low-and-achieving-our-mark/ 2 64028 0 0
+/2017/03/20/problems-worthy-of-attack-prove-their-worth-by-fighting-back/ 2 62780 0 0
+/2017/03/20/each-problem-that-i-solved-became-a-rule-which-served-afterwards-to-solve-other-problems/ 2 64026 0 0
+/wp-content/themes/vw-fitness/webfonts/fa-brands-400.ttf 1 98384 0 0
+/2017/03/20/try-to-learn-something-about-everything-and-everything-about-something/ 2 62848 0 0
+/2017/03/20/the-power-of-accurate-observation-is-frequently-called-cynicism-by-those-who-dont-have-it/ 2 63384 0 0
+/2017/03/20/nothing-in-the-world-is-more-dangerous-than-sincere-ignorance-and-conscientious-stupidity/ 2 63188 0 0
+/team-5/ 2 42738 0 0
+/2017/03/20/we-are-all-atheists-about-most-of-the-gods-humanity-has-ever-believed-in-some-of-us-just-go-one-god-further/feed/ 1 1121 0 0
+/page-full-width-boxed/ 2 32550 0 0
+/category/changing-habits/feed/ 1 70121 0 0
+/2017/03/20/the-whole-problem-with-the-world-is-that-fools-and-fanatics-are-always-so-certain-of-themselves-and-wiser-people-so-full-of-doubts/ 2 64016 0 0
+/2017/03/20/a-lie-gets-halfway-around-the-world-before-the-truth-has-a-chance-to-get-its-pants-on/feed/ 1 1054 0 0
+/category/uncategorized/ 2 24174 0 0
+/tag/life-coach-news/ 1 35153 0 0
+/wp-admin/site-health.php 3 10395 0 0
+/video-carousel/ 3 40770 0 0
+/wp-admin/plugin-install.php 2 31927 0 0
+/tag/blog/page/4/ 1 19608 0 0
+/wp-content/themes/vw-fitness/webfonts/fa-solid-900.woff 2 97408 0 0
+/tag/blog/page/2/ 1 35290 0 0
+/events/ 2 27092 0 0
+/category/happyness/feed/ 1 40108 0 0
+/2019/08/ 3 42092 0 1
+/2017/03/20/im-living-so-far-beyond-my-income-that-we-may-almost-be-said-to-be-living-apart/ 2 64190 0 0
+/tag/gallery/page/4/ 1 19633 0 0
+/wp-includes/fonts/dashicons.eot 1 44868 0 0
+/tag/friends/ 1 35089 0 0
+/wp-json/wp/v2/users 1 589 1 1
+/2017/03/20/many-wealthy-people-are-little-more-than-janitors-of-their-possessions/feed/ 1 1009 0 0
+/tag/blog/ 1 35064 0 0
+/tag/friends/page/4/ 1 19633 0 0
+/wp-includes/fonts/dashicons.ttf 1 44696 0 0
+/tag/love/page/3/ 1 35570 0 0
+/2017/03/20/the-power-of-accurate-observation-is-frequently-called-cynicism-by-those-who-dont-have-it/feed/ 1 1073 0 0
+/homepage/ 2 38496 0 0
+/blog-cards/ 2 28278 0 0
+/2017/03/20/each-problem-that-i-solved-became-a-rule-which-served-afterwards-to-solve-other-problems/feed/ 1 1063 0 0
+/2017/03/20/the-whole-problem-with-the-world-is-that-fools-and-fanatics-are-always-so-certain-of-themselves-and-wiser-people-so-full-of-doubts/feed/ 1 1190 0 0
+/blog-no-sidebar/ 2 27884 0 0
+/tag/gallery/ 1 35089 0 0
+/post-14/ 2 42766 0 0
+/2017/03/ 2 42009 0 0
+/wp-admin/upgrade.php 1 21 1 1
+/2017/03/20/the-artist-is-nothing-without-the-gift-but-the-gift-is-nothing-without-work/ 2 63312 0 0
+/2017/03/20/you-may-not-be-interested-in-war-but-war-is-interested-in-you/ 2 63890 0 0
+/2017/03/20/in-the-end-we-will-remember-not-the-words-of-our-enemies-but-the-silence-of-our-friends/feed/ 1 1062 0 0
+/wp-content/themes/vw-fitness/webfonts/fa-regular-400.ttf 2 61856 0 0
+/sample-page-2/ 2 28244 0 0
+/tag/business/page/4/ 1 19641 0 0
+/wp-admin/edit.php 2 38735 0 0
+/2017/03/20/the-only-difference-between-me-and-a-madman-is-that-im-not-mad/feed/ 1 992 0 0
+/2017/03/20/you-can-avoid-reality-but-you-cannot-avoid-the-consequences-of-avoiding-reality/ 2 63340 0 0
+END_SIDER

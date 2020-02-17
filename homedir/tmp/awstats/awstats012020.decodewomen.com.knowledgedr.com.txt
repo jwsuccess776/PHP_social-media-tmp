@@ -1,0 +1,477 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202001 will be lost/reset.
+# Last config file used to build this data file was /home/knowled5/tmp/awstats/awstats.decodewomen.com.knowledgedr.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2028                
+POS_TIME 2700                
+POS_VISITOR 8112                
+POS_DAY 11027               
+POS_DOMAIN 3411                
+POS_LOGIN 3761                
+POS_ROBOT 3916                
+POS_WORMS 4451                
+POS_EMAILSENDER 4582                
+POS_EMAILRECEIVER 4725                
+POS_SESSION 11759               
+POS_SIDER 11967               
+POS_FILETYPES 4860                
+POS_DOWNLOADS 5085                
+POS_OS 5133                
+POS_BROWSER 5332                
+POS_SCREENSIZE 6009                
+POS_UNKNOWNREFERER 6083                
+POS_UNKNOWNREFERERBROWSER 6358                
+POS_ORIGIN 6602                
+POS_SEREFERRALS 6739                
+POS_PAGEREFS 6902                
+POS_SEARCHWORDS 7050                
+POS_KEYWORDS 7202                
+POS_MISC 2364                
+POS_ERRORS 7261                
+POS_CLUSTER 3617                
+POS_SIDER_404 7391                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20200201041554 1 0 16266281334994
+FirstTime 20200101001121
+LastTime 20200131021246
+LastUpdate 20200201051541 1 0 0 0 0
+TotalVisits 187                 
+TotalUnique 58                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 81                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+AddToFavourites 0 1 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+RealPlayerSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+TotalMisc 0 0 0
+PDFSupport 0 0 0
+FlashSupport 0 0 0
+DirectorSupport 0 0 0
+QuickTimeSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 26 76 421888 10 57 171560
+1 13 13 57931 11 14 46005
+2 11 11 148355 7 13 190357
+3 27 27 342229 21 45 610787
+4 24 24 500088 17 20 86677
+5 26 26 173171 16 59 169655
+6 9 9 38413 10 19 90689
+7 11 11 139401 9 30 209399
+8 22 22 190078 10 10 65589
+9 6 6 19198 7 202 4252562
+10 24 141 3086668 11 13 40000
+11 1 1 0 0 1 70
+12 6 6 0 8 10 53593
+13 14 14 179038 14 23 462090
+14 3 3 0 2 5 7690
+15 4 4 0 2 81 1760965
+16 10 10 57580 12 15 62369
+17 3 3 0 4 7 24021
+18 8 8 403 6 11 38001
+19 6 6 0 5 21 90311
+20 7 7 19199 3 4 20311
+21 13 13 0 14 34 189101
+22 2 2 0 5 9 11627
+23 17 17 19206 3 40 109214
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 10
+us 256 423 4614785
+ca 17 17 190078
+tr 6 6 3050
+cn 3 3 303091
+se 3 3 1209
+ma 3 3 12544
+ru 2 2 147305
+pk 1 1 19206
+de 1 1 100992
+np 1 1 586
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 10
+Googlebot/ 229 1899924 20200130231822 38
+bingpreview 177 5330631 20200130090947 0
+bingbot/ 123 766097 20200130090919 19
+msnbot/ 13 4134 20200121001626 11
+MJ12bot/ 8 3940 20200105215015 4
+Googlebot\-Image/ 8 185400 20200115145130 0
+unknown 3 201 20200126031934 3
+bot[\s_+:,\.\;\/\\-] 2 140 20200123121927 2
+no_user_agent 1 19204 20200131011238 0
+(firefox/)([0-9]\.|[0-1][0]\.) 1 100992 20200106215044 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 9
+xml 1 1045 0 0
+Unknown 1 586 0 0
+php 210 4994 0 0
+css 44 228353 0 0
+png 12 12766 0 0
+html 74 1958486 0 0
+js 101 770977 0 0
+woff2 7 247124 0 0
+jpg 10 2168515 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 11
+win7 13 2
+winxp 15 5
+win8.1 17 0
+macosx 128 11
+win10 39 39
+Unknown 213 213
+macosx9 4 0
+linux 21 21
+macosx8 1 1
+macosx10 1 1
+win8 8 0
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 33
+chrome71.0.3578.98 1 1
+opera54.0.2952.54 2 2
+chrome51.0.2704.103 17 17
+chrome38.0.2096.0 1 1
+chrome37.0.2049.0 7 0
+chrome78.0.3904.108 1 1
+chrome74.0.3729.169 6 6
+msie10.0 5 0
+chrome23.0.1271.95 1 0
+firefox46.0 1 1
+safari12.1 126 9
+chrome60.0.3100.2 1 1
+firefox50.0 3 0
+opera12.15 2 2
+firefox59.0 1 1
+chrome26.0.1410.65 1 1
+chrome41.0.2228.0 3 0
+firefox36.0 4 0
+msie11 6 0
+chrome79.0.3945.88 1 1
+chrome74.0.3729.131 1 1
+wap 1 1
+chrome67.0.3396.79 1 1
+chrome65.0.3325.181 1 1
+firefox62.0 3 3
+Unknown 212 212
+msie8.0 2 2
+msie6.0 2 2
+opera12.16 8 0
+chrome66.0.3359.181 25 25
+chrome76.0.3809.132 1 1
+safari7.0.3 4 0
+opera12.0 9 0
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 5
+Wappalyzer 20200109021548
+python-requests/2.22.0 20200104033155
+Go-http-client/1.1 20200103012257
+WordPress/5.3.2;_http://www.decodewomen.com 20200131021246
+Dispatch/0.11.3 20200126033512
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 4
+WordPress/5.3.2;_http://www.decodewomen.com 20200131021246
+Dispatch/0.11.3 20200126033512
+python-requests/2.22.0 20200104033155
+Go-http-client/1.1 20200103012257
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 73 123
+From1 0 0
+From2 1 1
+From3 0 0
+From4 219 336
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+403 1 1227
+301 113 0
+204 14 0
+404 48 450072
+302 1 681
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 19
+/2018/09/12/ 2 -
+/installer.php 1 -
+/big-content/ 1 -
+/adminer.php 1 -
+/ 1 http://decodewomen.com///
+/2018/09/12 1 -
+/wp-content/plugins/zanuda/b374k.php 1 -
+/2018/09/10/ 1 -
+/2018/07/08 1 -
+/2018/05/08 1 -
+/pma/ 1 http://decodewomen.com/pma/
+/wp-content/plugins/iwp-client/readme.txt 2 -
+/wp-po.php 1 -
+/ads.txt 26 -
+/2018/07/08/ 1 -
+/2018/05/08/ 2 -
+/installer-backup.php 2 -
+/2018/09/03/ 1 -
+/2018/09/10 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 81
+184.154.46.57 201 201 0 20200131021246
+167.114.100.160 17 17 190078 20200108083208
+97.101.16.201 9 126 3064413 20200120101647
+31.206.126.110 6 6 3050 20200116100937
+105.159.133.131 3 3 12544 20200122134028
+47.94.102.174 3 3 303091 20200122042811
+34.90.212.105 2 2 27277 20200104033155
+213.242.21.160 2 2 147305 20200120134514
+64.246.165.160 1 1 19199 20200116204540
+38.96.28.196 1 1 29874 20200126031937
+52.38.160.16 1 1 15252 20200103012257
+34.210.193.101 1 1 19199 20200121052044
+38.77.197.59 1 1 100992 20200126032215
+34.220.210.115 1 1 19188 20200106015642
+23.90.42.138 1 1 100993 20200112072215
+34.223.102.35 1 1 19205 20200125103900
+34.219.112.6 1 1 19198 20200114044614
+46.246.65.201 1 1 403 20200114020207
+34.222.242.199 1 1 19200 20200113054406
+54.213.219.249 1 1 19206 20200119064635
+34.218.255.77 1 1 4302 20200102013238
+34.221.211.207 1 1 19199 20200107043350
+54.188.30.201 1 1 19189 20200101014952
+62.108.35.14 1 1 100992 20200122045018
+113.199.141.85 1 1 586 20200129005901
+34.217.41.168 0 1 2675 
+34.215.43.174 0 1 1084 
+54.212.11.22 0 1 12393 
+54.201.127.196 0 2 8771 
+34.216.199.235 0 3 12453 
+54.184.110.187 0 1 1250 
+34.220.186.250 0 2 31433 
+34.219.32.177 0 1 753 
+18.236.174.145 0 3 18489 
+18.236.145.153 0 1 2798 
+54.245.168.188 1 1 19196 20200120005645
+34.214.2.187 1 1 19204 20200126034200
+54.188.239.132 1 1 19204 20200125075900
+54.184.91.67 0 2 6641 
+38.128.159.229 1 1 100993 20200126025605
+18.237.113.173 0 1 38045 
+54.68.39.196 0 1 9735 
+54.69.196.48 0 4 61395 
+52.12.33.96 1 1 19204 20200118051120
+107.178.206.201 1 1 19199 20200109021549
+54.202.209.233 1 1 19204 20200129072507
+18.237.79.15 0 1 1819 
+34.217.104.133 1 1 19186 20200105053135
+52.43.75.134 1 1 19198 20200122055601
+46.246.65.136 1 1 403 20200109181041
+34.216.194.134 0 1 4572 
+54.202.205.149 1 1 19200 20200109022940
+107.178.207.94 1 1 8560 20200109021548
+54.245.148.164 0 2 3462 
+54.191.48.171 1 1 19203 20200108055513
+34.218.245.7 0 3 24026 
+46.246.65.151 1 1 403 20200111055430
+69.50.239.78 1 1 19193 20200101161947
+104.239.0.22 1 1 36443 20200126033512
+52.42.155.236 0 4 37192 
+34.240.222.124 1 1 19189 20200104164726
+34.245.96.42 1 1 19189 20200102132219
+34.216.82.18 0 5 41800 
+54.184.104.217 1 1 19198 20200120034824
+216.173.66.187 1 1 36386 20200126033117
+18.236.153.42 0 3 43053 
+35.165.196.94 1 1 19198 20200112044007
+54.190.190.25 1 1 19197 20200123055716
+35.162.201.113 1 1 19206 20200127040855
+52.39.35.82 1 1 19200 20200117005116
+34.223.249.236 1 1 19207 20200130060614
+34.216.198.4 1 1 19192 20200104054008
+34.209.8.235 1 1 19198 20200116090821
+149.100.190.24 1 1 36338 20200126032144
+34.220.104.17 1 1 19204 20200124043559
+34.213.183.92 1 1 19189 20200102055134
+39.59.86.218 1 1 19206 20200106233915
+35.166.157.165 0 4 17189 
+54.200.114.165 0 3 1878 
+23.252.240.163 1 1 36517 20200126033029
+107.173.192.79 1 1 19198 20200115160543
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20200101 15 15 38382 10
+20200102 20 20 42680 12
+20200103 4 4 15252 3
+20200104 13 13 65658 7
+20200105 16 16 19186 7
+20200106 10 10 38394 8
+20200107 3 3 19199 3
+20200108 29 29 209281 8
+20200109 11 11 47362 10
+20200110 1 1 0 1
+20200111 10 10 403 7
+20200112 9 9 120191 6
+20200113 4 4 19200 4
+20200114 11 11 19601 7
+20200115 6 6 19198 5
+20200116 16 16 41447 8
+20200117 4 4 19200 2
+20200118 3 3 19204 3
+20200119 5 5 19206 5
+20200120 21 188 3633018 11
+20200121 6 6 19199 6
+20200122 15 15 435825 8
+20200123 7 7 19197 7
+20200124 2 2 19204 2
+20200125 7 7 38409 6
+20200126 20 20 396747 11
+20200127 4 4 19206 3
+20200128 5 5 0 4
+20200129 9 9 19790 8
+20200130 4 4 19207 4
+20200131 3 3 0 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+15mn-30mn 7
+5mn-15mn 6
+30mn-1h 12
+1h+ 4
+2mn-5mn 1
+0s-30s 155
+30s-2mn 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 34
+/wp-cron.php 192 0 126 124
+/ 48 1363992 46 42
+/wp-admin/admin-ajax.php 9 0 4 6
+//xmlrpc.php 5 2005 0 1
+/xmlrpc.php 3 1209 3 3
+/courses/mindset-mastery-how-to-upgrade-your-beliefs-life/ 2 46541 1 1
+/blog/ 2 56462 0 1
+/courses/getting-results-become-your-own-life-coach-in-21-days/ 2 46402 1 1
+/contact/ 2 16172 0 1
+/courses-2/ 2 37591 1 1
+// 2 202098 0 1
+/courses/discover-yourself-values-strengths-vision-eq-and-more/ 2 46471 1 1
+/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2 1 72716 0 0
+/2018/10/14/ 1 8712 0 0
+//wp-json/wp/v2/users/ 1 586 0 1
+/courses/life-mastery-be-happy-healthy-and-successful/ 1 36517 1 1
+/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff2 1 13580 0 0
+/author/Silverman/ 1 10178 0 0
+/wp-content/themes/efor/css/fonts/now/Now-Light.woff2 1 16620 0 0
+/courses/productivity-masterclass/ 1 10066 0 0
+/wp-login.php 1 1780 1 0
+/services/ 1 14352 0 0
+/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2 1 75440 0 0
+/2018/10/14/stop-ignoring-these-7-inspiring-truths-and-become-your-best-self-today/ 1 11680 0 0
+/wp-content/themes/efor/css/fonts/now/Now-Bold.woff2 1 16832 0 0
+/2018/09/08/ 1 8956 0 0
+/courses/persuasion-masterclass-how-to-powerfully-influence-anyone/ 1 10144 0 0
+//wp-includes/wlwmanifest.xml 1 1045 1 0
+/wp-json/wp/v2/users 1 586 1 1
+/wp-content/themes/efor/css/fonts/now/Now-Regular.woff2 1 16548 0 0
+/2019/12/15/hello-world/ 1 11379 0 1
+/2019/12/15/ 1 8018 0 0
+/wp-content/plugins/pixelwars-core/themes/global/css/fonts/fontello/font/fontello.woff2 1 35388 0 0
+/2018/10/14/how-to-be-1-better-every-day/ 1 12169 0 0
+END_SIDER

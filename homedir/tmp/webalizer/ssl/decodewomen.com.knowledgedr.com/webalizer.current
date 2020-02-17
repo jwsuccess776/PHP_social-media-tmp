@@ -1,0 +1,741 @@
+# Webalizer V2.23-08 Incremental Data - 02/13/2020 04:01:30
+2020 2 13 4 1 30
+797 753 112 119 10 15 6082415 101 83 0
+1 1 80 1 13
+16 13 39085 9 4 4
+10 7 35931 6 4 4
+110 101 576136 20 14 13
+118 111 588943 14 16 9
+59 57 320663 7 4 4
+66 64 429217 13 11 9
+42 41 1166462 31 3 3
+41 39 164322 9 9 7
+52 48 255171 7 7 6
+65 63 311268 10 9 7
+94 89 525977 12 9 8
+123 120 1669240 38 10 8
+1 0 0 1 1 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+6 5 7712 1
+39 38 1154224 2
+47 44 274933 6
+19 13 78621 12
+123 119 685586 8
+9 8 50114 5
+6 5 10214 2
+135 131 809697 8
+27 25 125448 7
+36 32 168329 8
+5 5 10218 1
+2 2 10153 1
+2 1 22444 2
+6 6 12210 1
+11 10 47379 4
+44 44 1208569 2
+77 77 430122 1
+6 6 29680 3
+39 35 181242 1
+43 42 229342 8
+9 9 24589 2
+26 25 91944 4
+52 49 346620 3
+28 22 73025 9
+0
+0
+0
+753
+0
+0
+0
+5
+0
+0
+0
+28
+0
+0
+0
+0
+0
+0
+1
+0
+0
+10
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/wp-content/uploads/elementor/css/post-254.css
+0 2 8443801200744607283 9848 0 0
+/wp-content/themes/efor/js/jquery-validation/jquery.validate.js
+0 8 3615884944489840640 64653 0 0
+/wp-content/themes/efor/js/jquery.sticky-sidebar.min.js
+0 8 3760003419037827072 30208 0 0
+/wp-content/plugins/learnpress/assets/css/bundle.min.css
+0 7 404667292929 92460 0 0
+/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css
+0 4 470020206190 4768 0 0
+/courses-2/
+0 1 7814716426037852777 7729 1 0
+/wp-content/themes/efor/js/jquery.fittext.js
+0 9 103153185653042 5360 0 0
+/wp-content/themes/efor/css/bootstrap.css
+0 6 0 34074 0 0
+/wp-content/themes/efor/css/learnpress.css
+0 6 0 33644 0 0
+/wp-content/plugins/i-recommend-this/js/dot_irecommendthis.js
+0 7 0 2044 0 0
+/wp-content/plugins/learnpress/assets/js/frontend/become-teacher.js
+0 10 0 9734 0 0
+/wp-content/themes/efor/js/owl-carousel/owl.carousel.min.js
+0 9 0 211253 0 0
+/wp-content/plugins/learnpress/assets/js/vendor/plugins.all.min.js
+0 12 0 841010 0 0
+/blog/
+0 3 0 28259 3 0
+/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css
+0 1 0 11476 0 0
+/wp-content/plugins/jet-elements/assets/css/jet-elements-skin.css
+0 6 0 47754 0 0
+/wp-content/plugins/learnpress/assets/js/frontend/learnpress.min.js
+0 6 0 3031 0 0
+/wp-content/plugins/iconpress-lite/lib/integrations/gutenberg/dist/blocks.style.build.css
+0 5 0 1125 0 0
+/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css
+0 1 0 285 0 0
+/wp-content/plugins/selection-sharer/css/selection-sharer.css
+0 6 0 24488 0 0
+/courses/productivity-masterclass/
+0 3 0 30232 3 3
+/wp-content/plugins/jet-elements/assets/css/jet-elements.css
+0 6 0 559190 0 0
+/wp-content/plugins/top-10/includes/js/top-10-tracker.min.js
+0 6 0 989 0 0
+/wp-content/plugins/learnpress/assets/js/global.min.js
+0 6 0 2730 0 0
+/wp-content/plugins/jet-elements/assets/js/jet-elements.js
+0 1 0 17306 0 0
+/courses/mindset-mastery-how-to-upgrade-your-beliefs-life/
+0 2 0 20212 2 2
+/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js
+0 1 0 2867 0 0
+/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js
+0 9 0 6592 0 0
+/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css
+0 1 7310237426212746033 2882 0 0
+/courses/life-mastery-be-happy-healthy-and-successful/
+0 4 8241980338435601457 40494 4 0
+/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js
+0 9 7292864009566380846 9450 0 0
+/wp-content/plugins/i-recommend-this/css/dot-irecommendthis.css
+0 5 8026098927956656128 1321 0 0
+/wp-content/plugins/elementor/assets/lib/animations/animations.min.css
+0 1 7018142236558242093 2442 0 0
+/wp-includes/js/underscore.min.js
+0 9 3978139917148447342 65777 0 0
+/courses/getting-results-become-your-own-life-coach-in-21-days/
+0 2 0 20148 2 0
+/wp-content/themes/efor/js/isotope.pkgd.min.js
+0 7 0 80283 0 0
+/wp-content/plugins/x-instafeed/assets/js/owl.carousel.min.js
+0 2 0 26828 0 0
+/wp-content/plugins/woocommerce/assets/css/woocommerce.css
+0 7 0 176819 0 0
+/wp-content/themes/efor/js/fluidbox/fluidbox.css
+0 8 0 9963 0 0
+/2018/09/08/how-to-supercharge-your-learning-and-self-improvement-the-golden-ratio-of-communication/
+0 1 0 12070 1 0
+/wp-content/plugins/iconpress-lite/lib/integrations/common/scripts.js
+0 5 0 11510 0 0
+/contact/
+0 5 0 40458 5 3
+/wp-content/themes/efor/css/fonts/now/stylesheet.css
+0 8 0 4024 0 0
+/wp-content/plugins/pixelwars-core/themes/global/js/shortcodes.js
+0 9 0 13698 0 0
+/wp-content/plugins/learnpress/assets/js/frontend/course.js
+0 10 0 44762 0 0
+/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js
+0 1 0 31247 0 0
+/wp-content/plugins/iconpress-lite/assets/js/iconpress.min.js
+0 11 0 19768 0 0
+/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css
+0 8 0 47400 0 0
+/wp-includes/js/imagesloaded.min.js
+0 8 0 22384 0 0
+/wp-content/plugins/x-instafeed/assets/css/font-awesome.min.css
+0 7 0 87241 0 0
+/wp-content/themes/efor/style.css
+0 5 0 1800 0 0
+/wp-content/themes/efor/js/jquery.magnific-popup/magnific-popup.css
+0 7 0 24793 0 0
+/wp-content/plugins/wpfront-scroll-top/js/wpfront-scroll-top.min.js
+0 8 0 6136 0 0
+/wp-content/plugins/jet-popup/assets/js/jet-popup-frontend.min.js
+0 1 0 3379 0 0
+/wp-content/plugins/learnpress/assets/js/frontend/checkout.js
+0 6 0 24108 0 0
+/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js
+0 10 8319606709843473713 12550 0 0
+/2018/10/14/how-to-be-1-better-every-day/
+0 3 1225323487127549235 35216 3 3
+/wp-content/themes/efor/css/992.css
+0 5 3472839362167701504 54827 0 0
+/wp-content/plugins/elementor/assets/js/frontend-modules.min.js
+0 1 3976175114461131826 16543 0 0
+/wp-content/uploads/elementor/css/post-1243.css
+0 1 17825811585993423155 1385 0 0
+/wp-content/plugins/x-instafeed/assets/css/hover.css
+0 6 103538249957683 278462 0 0
+/wp-includes/js/comment-reply.min.js
+0 3 22636848 3329 0 0
+/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css
+0 1 0 281 0 0
+/wp-includes/js/jquery/jquery-migrate.min.js
+0 7 0 29329 0 0
+/services/
+0 1 0 14354 1 0
+/wp-content/plugins/iconpress-lite/lib/integrations/common/styles.css
+0 1 0 3005 0 0
+/wp-content/plugins/iconpress-lite/assets/css/panel.css
+0 6 0 5484 0 0
+/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css
+0 1 0 277 0 0
+/wp-content/plugins/x-instafeed/assets/js/instafeed.min.js
+0 7 0 17019 0 0
+/wp-content/plugins/jet-popup/assets/css/jet-popup-frontend.css
+0 8 0 49948 0 0
+/wp-content/themes/efor/js/jarallax-video.min.js
+0 8 0 36576 0 0
+/wp-content/plugins/x-instafeed/assets/css/x-instafeed.css
+0 7 0 8072 0 0
+/wp-content/plugins/learnpress/assets/css/learnpress.css
+0 7 0 189357 0 0
+/2018/09/08/self-love-is-the-basis-for-self-improvement/
+0 3 0 35576 3 1
+/wp-content/themes/efor/js/jarallax.min.js
+0 8 0 33216 0 0
+/wp-includes/js/jquery/jquery.js
+0 8 0 422016 0 0
+/wp-content/plugins/elementor/assets/css/frontend.min.css
+0 1 0 13516 0 0
+/wp-includes/js/wp-embed.min.js
+0 3 0 2151 0 0
+/wp-includes/js/wp-emoji-release.min.js
+0 2 0 10330 0 0
+/wp-content/themes/efor/js/jquery.fitvids.js
+0 10 0 9644 0 0
+/wp-content/plugins/pixelwars-core/themes/global/css/fonts/fontello/css/fontello.css
+0 7 0 41934 0 0
+/wp-content/plugins/pixelwars-core/themes/global/css/shortcodes.css
+0 6 0 42584 0 0
+/wp-content/themes/efor/js/fluidbox/jquery.fluidbox.min.js
+0 9 0 36162 0 0
+/wp-content/themes/efor/css/normalize.css
+0 8 93 8976 0 0
+/wp-content/plugins/elementor/assets/lib/slick/slick.min.js
+0 1 3545513976344620343 10097 0 0
+/wp-content/plugins/elementor/assets/js/frontend.min.js
+0 1 7596496585251714417 23612 0 0
+/wp-content/plugins/iconpress-lite/assets/css/iconpress.css
+0 5 0 3389 0 0
+/wp-content/uploads/elementor/css/global.css
+0 1 7308830258565051761 2156 0 0
+/wp-content/themes/efor/css/768.css
+0 5 7146771100715608163 25773 0 0
+/
+0 29 0 355429 36 14
+/wp-includes/js/utils.min.js
+0 10 0 9092 0 0
+/wp-content/themes/efor/js/jquery.magnific-popup/jquery.magnific-popup.min.js
+0 9 0 71630 0 0
+/wp-content/plugins/elementor/assets/lib/jquery-numerator/jquery-numerator.min.js
+0 1 0 677 0 0
+/courses/persuasion-masterclass-how-to-powerfully-influence-anyone/
+0 2 0 20317 2 0
+/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/style.css
+0 8 0 88904 0 0
+/wp-content/plugins/akismet/_inc/form.js
+0 3 0 898 0 0
+/wp-content/plugins/wpfront-scroll-top/css/wpfront-scroll-top.min.css
+0 7 0 1897 0 0
+/wp-content/plugins/selection-sharer/js/selection-sharer.js
+0 9 0 26196 0 0
+/wp-content/themes/efor/css/efor.css
+0 6 0 3318 0 0
+/2018/09/08/whats-the-point-of-self-improvement-anyway/
+0 1 0 11813 1 0
+/wp-content/plugins/learnpress/assets/js/utils.min.js
+0 3 0 24043 0 0
+/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js
+0 7 0 6972 0 0
+/wp-content/themes/efor/js/main.js
+0 8 0 77880 0 0
+/robots.txt
+0 31 0 2071 0 0
+/wp-content/plugins/pixelwars-core/themes/global/css/fonts/fontello/font/fontello.ttf
+0 1 0 64500 0 0
+/feed/
+0 2 0 44888 2 0
+/courses/
+0 2 0 17751 2 1
+/wp-cron.php
+0 84 0 0 0 0
+/course-category/productivity/
+0 1 0 8189 1 1
+/wp-content/themes/efor/css/main.css
+0 7 0 525006 0 0
+/wp-content/plugins/x-instafeed/assets/css/carousel/owl.carousel.min.css
+0 8 0 13086 0 0
+/wp-admin/admin-ajax.php
+0 9 0 0 0 0
+/courses/discover-yourself-values-strengths-vision-eq-and-more/
+0 2 0 20190 2 1
+/course-category/self-improvement/
+0 2 0 17025 2 1
+/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js
+0 10 0 36240 0 0
+/wp-includes/css/dist/block-library/style.min.css
+0 7 0 118475 0 0
+/wp-includes/js/jquery/ui/position.min.js
+0 1 0 2349 0 0
+/wp-content/themes/efor/js/resize-sensor.js
+0 8 0 21400 0 0
+/wp-content/themes/efor/js/jquery.collagePlus.min.js
+0 8 0 10000 0 0
+# End Of Table - urls
+# -sites- (monthly)
+crawl-66-249-79-177.googlebot.com
+0 1 0 6825 0 0
+-
+msnbot-40-77-188-220.search.msn.com
+0 1 1 145567 0 0
+-
+msnbot-40-77-189-172.search.msn.com
+0 1 1 19870 0 0
+-
+msnbot-40-77-189-82.search.msn.com
+0 2 2 113870 0 0
+-
+jobqueue-listener.jobqueue.netcraft.com-uc9d4e40c466b11ea81d76840838d6ab1u-digitalocean
+0 1 1 17912 1 1580701385
+/
+ec2-34-223-100-193.us-west-2.compute.amazonaws.com
+0 1 0 0 1 1581204574
+/
+msnbot-40-77-167-87.search.msn.com
+0 19 19 111102 1 1580802504
+/courses/life-mastery-be-happy-healthy-and-successful/
+msnbot-40-77-189-110.search.msn.com
+0 1 1 27466 0 0
+-
+msnbot-40-77-188-243.search.msn.com
+0 1 1 324 0 0
+-
+ec2-35-162-70-167.us-west-2.compute.amazonaws.com
+0 1 0 0 1 1581318706
+/
+ec2-34-212-0-240.us-west-2.compute.amazonaws.com
+0 2 1 4308 1 1581375611
+/
+msnbot-40-77-188-146.search.msn.com
+0 1 1 117975 0 0
+-
+msnbot-40-77-191-70.search.msn.com
+0 1 1 1464 0 0
+-
+msnbot-207-46-13-195.search.msn.com
+0 1 1 11813 1 1580530666
+/2018/09/08/whats-the-point-of-self-improvement-anyway/
+msnbot-40-77-189-202.search.msn.com
+0 1 1 65875 0 0
+-
+msnbot-207-46-13-57.search.msn.com
+0 12 12 83873 1 1581027034
+/courses/life-mastery-be-happy-healthy-and-successful/
+142.93.157.53
+0 2 1 0 1 1580786858
+/
+msnbot-40-77-188-193.search.msn.com
+0 1 1 117975 0 0
+-
+msnbot-40-77-167-18.search.msn.com
+0 15 15 69351 0 0
+-
+jobqueue-listener.jobqueue.netcraft.com-u7ee884c8465f11ea81d76840838d6ab1u-digitalocean
+0 1 0 0 1 1580702357
+/
+crawl-66-249-79-140.googlebot.com
+0 2 0 0 0 0
+-
+crawl-66-249-79-242.googlebot.com
+0 19 18 127561 2 1581205748
+/
+msnbot-207-46-13-212.search.msn.com
+0 19 19 156520 2 1580658371
+/courses/getting-results-become-your-own-life-coach-in-21-days/
+msnbot-207-46-13-63.search.msn.com
+0 13 13 56269 2 1581030917
+/
+ec2-54-172-161-12.compute-1.amazonaws.com
+0 1 1 101175 1 1581029650
+/
+crawl-66-249-79-142.googlebot.com
+0 6 3 183 1 1581283519
+/
+msnbot-40-77-188-252.search.msn.com
+0 3 3 36837 0 0
+-
+msnbot-40-77-189-62.search.msn.com
+0 2 2 134855 0 0
+-
+msnbot-40-77-188-242.search.msn.com
+0 1 1 849 0 0
+-
+msnbot-40-77-167-71.search.msn.com
+0 9 9 70172 1 1581475168
+/courses/life-mastery-be-happy-healthy-and-successful/
+msnbot-207-46-13-179.search.msn.com
+0 18 18 1260 0 0
+-
+142.93.157.43
+0 1 1 0 1 1580786853
+/
+bot.semrush.com
+0 2 1 22444 1 1580990492
+/feed/
+msnbot-157-55-39-254.search.msn.com
+0 14 14 69886 1 1581041760
+/contact/
+msnbot-40-77-188-190.search.msn.com
+0 2 2 20057 0 0
+-
+msnbot-40-77-188-71.search.msn.com
+0 1 1 41467 0 0
+-
+msnbot-40-77-191-33.search.msn.com
+0 3 3 55419 0 0
+-
+ec2-52-41-211-72.us-west-2.compute.amazonaws.com
+0 8 0 0 8 1581566490
+/
+msnbot-207-46-13-140.search.msn.com
+0 38 38 228305 4 1581534644
+/
+msnbot-40-77-190-80.search.msn.com
+0 2 2 225903 0 0
+-
+msnbot-207-46-13-15.search.msn.com
+0 1 1 11852 1 1581473805
+/2018/09/08/self-love-is-the-basis-for-self-improvement/
+msnbot-40-77-189-226.search.msn.com
+0 1 1 1464 0 0
+-
+msnbot-40-77-188-127.search.msn.com
+0 4 4 372951 0 0
+-
+msnbot-207-46-13-170.search.msn.com
+0 1 1 10074 1 1581144857
+/courses/getting-results-become-your-own-life-coach-in-21-days/
+msnbot-157-55-39-112.search.msn.com
+0 1 1 7729 1 1580858569
+/courses-2/
+msnbot-40-77-167-85.search.msn.com
+0 6 6 80469 0 0
+-
+msnbot-40-77-188-51.search.msn.com
+0 1 1 30440 0 0
+-
+msnbot-40-77-188-122.search.msn.com
+0 1 1 13628 0 0
+-
+msnbot-40-77-189-244.search.msn.com
+0 1 1 7300 0 0
+-
+ec2-52-34-24-33.us-west-2.compute.amazonaws.com
+0 4 0 0 4 1581147622
+/
+msnbot-40-77-188-84.search.msn.com
+0 1 1 62669 0 0
+-
+msnbot-157-55-39-181.search.msn.com
+0 36 35 175080 2 1580776032
+-
+msnbot-40-77-189-122.search.msn.com
+0 1 1 1983 0 0
+-
+crawl-66-249-79-240.googlebot.com
+0 87 80 405667 4 1581283519
+/
+msnbot-40-77-167-35.search.msn.com
+0 13 13 68404 1 1581519431
+/contact/
+msnbot-40-77-188-228.search.msn.com
+0 1 1 11713 0 0
+-
+crawl-66-249-79-144.googlebot.com
+0 1 1 61 0 0
+-
+msnbot-157-55-39-43.search.msn.com
+0 2 2 140 0 0
+-
+msnbot-40-77-190-110.search.msn.com
+0 4 4 84317 0 0
+-
+msnbot-40-77-167-28.search.msn.com
+0 16 16 92109 4 1581410774
+/course-category/self-improvement/
+msnbot-40-77-167-122.search.msn.com
+0 4 4 71963 0 0
+-
+msnbot-40-77-189-150.search.msn.com
+0 74 73 489802 1 1581407237
+/
+msnbot-207-46-13-98.search.msn.com
+0 1 1 14354 1 1581192256
+/services/
+165.227.107.111
+0 1 1 39909 1 1580701644
+/
+msnbot-40-77-189-151.search.msn.com
+0 2 2 3344 1 1581407237
+/
+msnbot-157-55-39-126.search.msn.com
+0 4 4 71963 0 0
+-
+vz01-phx.stablehost.com
+0 93 93 0 0 0
+-
+crawl-66-249-79-175.googlebot.com
+0 1 1 61 0 0
+-
+msnbot-40-77-188-202.search.msn.com
+0 1 1 2940 0 0
+-
+msnbot-40-77-190-8.search.msn.com
+0 1 1 30440 0 0
+-
+msnbot-207-46-13-173.search.msn.com
+0 1 1 10153 1 1581334618
+/blog/
+64.225.5.96
+0 1 0 0 1 1580700883
+-
+msnbot-40-77-167-186.search.msn.com
+0 5 5 17293 0 0
+-
+ec2-54-149-16-148.us-west-2.compute.amazonaws.com
+0 1 0 0 1 1580779855
+/
+msnbot-40-77-190-68.search.msn.com
+0 1 1 2242 0 0
+-
+msnbot-40-77-189-105.search.msn.com
+0 1 1 3353 0 0
+-
+msnbot-40-77-189-129.search.msn.com
+0 1 1 12113 0 0
+-
+msnbot-207-46-13-250.search.msn.com
+0 16 16 78614 3 1581311374
+/
+msnbot-157-55-39-99.search.msn.com
+0 7 7 92907 2 1581037380
+/courses/
+msnbot-40-77-191-44.search.msn.com
+0 1 1 164506 0 0
+-
+crawl-66-249-65-116.googlebot.com
+0 1 0 0 0 0
+-
+crawl-66-249-65-118.googlebot.com
+0 1 1 61 0 0
+-
+crawl-66-249-79-244.googlebot.com
+0 7 6 33270 1 1581275922
+/
+msnbot-40-77-188-162.search.msn.com
+0 4 4 182382 0 0
+-
+msnbot-40-77-190-95.search.msn.com
+0 2 2 18548 0 0
+-
+msnbot-157-55-39-165.search.msn.com
+0 9 9 70173 1 1581307438
+/courses/life-mastery-be-happy-healthy-and-successful/
+msnbot-40-77-167-89.search.msn.com
+0 16 15 84086 1 1580868430
+-
+msnbot-40-77-188-213.search.msn.com
+0 1 1 320 0 0
+-
+unassigned.psychz.net
+0 1 1 19186 1 1581537380
+/
+192.0.102.194
+0 2 1 19189 1 1581414623
+/
+msnbot-40-77-189-77.search.msn.com
+0 1 1 1193 0 0
+-
+msnbot-40-77-190-9.search.msn.com
+0 1 1 486 0 0
+-
+msnbot-157-55-39-161.search.msn.com
+0 2 2 21903 2 1581405001
+/2018/09/08/self-love-is-the-basis-for-self-improvement/
+crawl-66-249-65-67.googlebot.com
+0 1 0 6824 0 0
+-
+msnbot-40-77-188-63.search.msn.com
+0 3 3 23100 0 0
+-
+msnbot-40-77-190-82.search.msn.com
+0 1 1 62669 0 0
+-
+142.93.186.233
+0 1 0 35 1 1580702375
+/
+msnbot-40-77-190-152.search.msn.com
+0 1 1 3353 0 0
+-
+msnbot-157-55-39-248.search.msn.com
+0 3 3 30342 3 1580631380
+/courses/persuasion-masterclass-how-to-powerfully-influence-anyone/
+msnbot-157-55-39-64.search.msn.com
+0 21 21 125040 1 1580707041
+/feed/
+165.227.124.6
+0 1 0 0 1 1580700568
+-
+msnbot-40-77-190-78.search.msn.com
+0 1 1 849 0 0
+-
+msnbot-40-77-167-158.search.msn.com
+0 1 1 10159 1 1580998222
+/courses/persuasion-masterclass-how-to-powerfully-influence-anyone/
+msnbot-40-77-167-161.search.msn.com
+0 16 15 136639 1 1580769419
+-
+msnbot-157-55-39-145.search.msn.com
+0 60 60 335925 4 1580870854
+/courses/discover-yourself-values-strengths-vision-eq-and-more/
+msnbot-157-55-39-86.search.msn.com
+0 1 1 12070 1 1580735168
+/2018/09/08/how-to-supercharge-your-learning-and-self-improvement-the-golden-ratio-of-communication/
+msnbot-40-77-189-9.search.msn.com
+0 1 1 13418 0 0
+-
+msnbot-40-77-188-25.search.msn.com
+0 2 2 15173 0 0
+-
+msnbot-40-77-188-189.search.msn.com
+0 1 1 1833 0 0
+-
+msnbot-40-77-189-98.search.msn.com
+0 1 1 6754 0 0
+-
+msnbot-40-77-189-64.search.msn.com
+0 2 2 27894 0 0
+-
+msnbot-40-77-189-48.search.msn.com
+0 1 1 10802 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+ec2-52-41-211-72.us-west-2.compute.amazonaws.com
+0 1 0 0 1 1581566490
+/
+# End Of Table - sites (daily)
+# -referrers- 
+https://www.decodewomen.com/2018/10/14/how-to-be-1-better-every-day/
+0 78
+https://www.decodewomen.com/2018/09/08/how-to-supercharge-your-learning-and-self-improvement-the-golden-ratio-of-communication/
+0 18
+https://www.decodewomen.com/wp-cron.php
+0 84
+- (Direct Request)
+0 529
+https://decodewomen.com/
+0 1
+https://decodewomen.com/feed/
+0 1
+https://www.decodewomen.com/blog/
+0 23
+https://www.decodewomen.com/wp-admin/admin-ajax.php
+0 9
+https://www.decodewomen.com/
+0 40
+https://www.decodewomen.com/2018/09/08/self-love-is-the-basis-for-self-improvement/
+0 14
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+0 6
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534+ (KHTML, like Gecko) BingPreview/1.0b
+0 144
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 23
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 58
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.120 Mobile 
+0 98
+Go-http-client/1.1
+0 17
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+0 1
+msnbot/2.0b (+http://search.msn.com/msnbot.htm)
+0 343
+WordPress.com; https://decodewomen.com
+0 2
+Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)
+0 1
+WordPress/5.3.2; https://www.decodewomen.com
+0 93
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile S
+0 6
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2227.0 Safari/537.36
+0 2
+Mozilla/5.0 (compatible; SemrushBot-BA; +http://www.semrush.com/bot.html)
+0 2
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2226.0 Safari/537.36
+0 1
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

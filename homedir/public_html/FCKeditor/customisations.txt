@@ -1,0 +1,4 @@
+fck_custom_config.js
+editor\filemanager\connectors\php\config.php
+editor\filemanager\browser\default\frmupload.html
+editor\filemanager\browser\default\browser.html

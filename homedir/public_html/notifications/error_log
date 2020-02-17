@@ -1,0 +1,274 @@
+[04-Mar-2019 10:41:32 UTC] PHP Fatal error:  Class 'Main' not found in /home/idatemedia/public_html/dating/lib/class.Microtime.php on line 4
+[11-Mar-2019 06:04:44 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/idatemedia/public_html/dating/functions.php on line 373
+[11-Mar-2019 06:14:52 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/idatemedia/public_html/dating/functions.php on line 373
+[11-Mar-2019 06:41:06 UTC] PHP Parse error:  syntax error, unexpected '::' (T_PAAMAYIM_NEKUDOTAYIM), expecting '(' in /home/idatemedia/public_html/dating/lib/class.Template.php on line 18
+[13-Mar-2019 06:46:03 UTC] PHP Parse error:  syntax error, unexpected '$aData' (T_VARIABLE), expecting ',' or ')' in /home/idatemedia/public_html/dating/lib/class.Template.php on line 20
+[13-Mar-2019 06:46:07 UTC] PHP Parse error:  syntax error, unexpected '$aData' (T_VARIABLE), expecting ',' or ')' in /home/idatemedia/public_html/dating/lib/class.Template.php on line 20
+[13-Mar-2019 06:46:12 UTC] PHP Parse error:  syntax error, unexpected '$aData' (T_VARIABLE), expecting ',' or ')' in /home/idatemedia/public_html/dating/lib/class.Template.php on line 20
+[13-Mar-2019 06:46:17 UTC] PHP Parse error:  syntax error, unexpected '$aData' (T_VARIABLE), expecting ',' or ')' in /home/idatemedia/public_html/dating/lib/class.Template.php on line 20
+[13-Mar-2019 06:46:22 UTC] PHP Parse error:  syntax error, unexpected '$aData' (T_VARIABLE), expecting ',' or ')' in /home/idatemedia/public_html/dating/lib/class.Template.php on line 20
+[13-Mar-2019 06:48:22 UTC] PHP Parse error:  syntax error, unexpected 'Parse' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/idatemedia/public_html/dating/lib/class.Template.php on line 19
+[13-Mar-2019 06:48:27 UTC] PHP Parse error:  syntax error, unexpected 'Parse' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/idatemedia/public_html/dating/lib/class.Template.php on line 19
+[13-Mar-2019 06:48:32 UTC] PHP Parse error:  syntax error, unexpected 'Parse' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/idatemedia/public_html/dating/lib/class.Template.php on line 19
+[13-Mar-2019 06:48:37 UTC] PHP Parse error:  syntax error, unexpected 'Parse' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/idatemedia/public_html/dating/lib/class.Template.php on line 19
+[13-Mar-2019 06:48:42 UTC] PHP Parse error:  syntax error, unexpected 'Parse' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/idatemedia/public_html/dating/lib/class.Template.php on line 19
+[13-Mar-2019 06:48:47 UTC] PHP Parse error:  syntax error, unexpected 'Parse' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/idatemedia/public_html/dating/lib/class.Template.php on line 19
+[13-Mar-2019 06:48:52 UTC] PHP Parse error:  syntax error, unexpected 'Parse' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/idatemedia/public_html/dating/lib/class.Template.php on line 19
+[13-Mar-2019 06:48:57 UTC] PHP Parse error:  syntax error, unexpected 'Parse' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/idatemedia/public_html/dating/lib/class.Template.php on line 19
+[13-Mar-2019 06:49:02 UTC] PHP Parse error:  syntax error, unexpected 'Parse' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/idatemedia/public_html/dating/lib/class.Template.php on line 19
+[13-Mar-2019 06:49:07 UTC] PHP Parse error:  syntax error, unexpected 'Parse' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/idatemedia/public_html/dating/lib/class.Template.php on line 19
+[13-Mar-2019 06:49:12 UTC] PHP Parse error:  syntax error, unexpected 'Parse' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/idatemedia/public_html/dating/lib/class.Template.php on line 19
+[13-Mar-2019 06:49:17 UTC] PHP Parse error:  syntax error, unexpected 'Parse' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/idatemedia/public_html/dating/lib/class.Template.php on line 19
+[13-Mar-2019 06:49:22 UTC] PHP Parse error:  syntax error, unexpected 'Parse' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/idatemedia/public_html/dating/lib/class.Template.php on line 19
+[13-Mar-2019 06:49:27 UTC] PHP Parse error:  syntax error, unexpected 'Parse' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/idatemedia/public_html/dating/lib/class.Template.php on line 19
+[13-Mar-2019 06:49:32 UTC] PHP Parse error:  syntax error, unexpected 'Parse' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/idatemedia/public_html/dating/lib/class.Template.php on line 19
+[13-Mar-2019 06:49:37 UTC] PHP Parse error:  syntax error, unexpected 'Parse' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/idatemedia/public_html/dating/lib/class.Template.php on line 19
+[13-Mar-2019 06:49:42 UTC] PHP Parse error:  syntax error, unexpected 'Parse' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/idatemedia/public_html/dating/lib/class.Template.php on line 19
+[13-Mar-2019 06:49:47 UTC] PHP Parse error:  syntax error, unexpected 'Parse' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/idatemedia/public_html/dating/lib/class.Template.php on line 19
+[13-Mar-2019 06:49:52 UTC] PHP Parse error:  syntax error, unexpected 'Parse' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/idatemedia/public_html/dating/lib/class.Template.php on line 19
+[13-Mar-2019 06:49:57 UTC] PHP Parse error:  syntax error, unexpected 'Parse' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/idatemedia/public_html/dating/lib/class.Template.php on line 19
+[13-Mar-2019 06:50:02 UTC] PHP Parse error:  syntax error, unexpected 'Parse' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/idatemedia/public_html/dating/lib/class.Template.php on line 19
+[13-Mar-2019 06:50:07 UTC] PHP Parse error:  syntax error, unexpected 'Parse' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/idatemedia/public_html/dating/lib/class.Template.php on line 19
+[13-Mar-2019 06:50:12 UTC] PHP Parse error:  syntax error, unexpected 'Parse' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/idatemedia/public_html/dating/lib/class.Template.php on line 19
+[13-Mar-2019 06:50:17 UTC] PHP Parse error:  syntax error, unexpected 'Parse' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/idatemedia/public_html/dating/lib/class.Template.php on line 19
+[13-Mar-2019 06:50:22 UTC] PHP Parse error:  syntax error, unexpected 'Parse' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/idatemedia/public_html/dating/lib/class.Template.php on line 19
+[13-Mar-2019 07:22:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function FormGet() in /home/idatemedia/public_html/dating/init.php:284
+Stack trace:
+#0 /home/idatemedia/public_html/dating/db_connect.php(63): include()
+#1 /home/idatemedia/public_html/dating/notifications/notifications.php(2): include('/home/idatemedi...')
+#2 {main}
+  thrown in /home/idatemedia/public_html/dating/init.php on line 284
+[13-Mar-2019 07:23:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function FormGet() in /home/idatemedia/public_html/dating/init.php:284
+Stack trace:
+#0 /home/idatemedia/public_html/dating/db_connect.php(63): include()
+#1 /home/idatemedia/public_html/dating/notifications/notifications.php(2): include('/home/idatemedi...')
+#2 {main}
+  thrown in /home/idatemedia/public_html/dating/init.php on line 284
+[13-Mar-2019 07:23:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function FormGet() in /home/idatemedia/public_html/dating/init.php:284
+Stack trace:
+#0 /home/idatemedia/public_html/dating/db_connect.php(63): include()
+#1 /home/idatemedia/public_html/dating/notifications/notifications.php(2): include('/home/idatemedi...')
+#2 {main}
+  thrown in /home/idatemedia/public_html/dating/init.php on line 284
+[22-Mar-2019 07:38:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/idatemedia/public_html/dating/notifications/notifications.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/idatemedia/public_html/dating/notifications/notifications.php on line 10
+[22-Mar-2019 07:38:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/idatemedia/public_html/dating/notifications/notifications.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/idatemedia/public_html/dating/notifications/notifications.php on line 10
+[22-Mar-2019 07:38:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/idatemedia/public_html/dating/notifications/notifications.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/idatemedia/public_html/dating/notifications/notifications.php on line 10
+[22-Mar-2019 07:38:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/idatemedia/public_html/dating/notifications/notifications.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/idatemedia/public_html/dating/notifications/notifications.php on line 10
+[22-Mar-2019 07:38:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/idatemedia/public_html/dating/notifications/notifications.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/idatemedia/public_html/dating/notifications/notifications.php on line 10
+[22-Mar-2019 07:38:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/idatemedia/public_html/dating/notifications/notifications.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/idatemedia/public_html/dating/notifications/notifications.php on line 10
+[22-Mar-2019 07:38:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/idatemedia/public_html/dating/notifications/notifications.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/idatemedia/public_html/dating/notifications/notifications.php on line 10
+[22-Mar-2019 07:38:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/idatemedia/public_html/dating/notifications/notifications.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/idatemedia/public_html/dating/notifications/notifications.php on line 10
+[22-Mar-2019 07:38:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/idatemedia/public_html/dating/notifications/notifications.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/idatemedia/public_html/dating/notifications/notifications.php on line 10
+[22-Mar-2019 07:38:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/idatemedia/public_html/dating/notifications/notifications.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/idatemedia/public_html/dating/notifications/notifications.php on line 10
+[22-Mar-2019 07:38:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/idatemedia/public_html/dating/notifications/notifications.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/idatemedia/public_html/dating/notifications/notifications.php on line 10
+[22-Mar-2019 07:39:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/idatemedia/public_html/dating/notifications/notifications.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/idatemedia/public_html/dating/notifications/notifications.php on line 10
+[22-Mar-2019 07:39:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/idatemedia/public_html/dating/notifications/notifications.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/idatemedia/public_html/dating/notifications/notifications.php on line 10
+[22-Mar-2019 07:39:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/idatemedia/public_html/dating/notifications/notifications.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/idatemedia/public_html/dating/notifications/notifications.php on line 10
+[22-Mar-2019 07:39:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/idatemedia/public_html/dating/notifications/notifications.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/idatemedia/public_html/dating/notifications/notifications.php on line 10
+[22-Mar-2019 07:39:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/idatemedia/public_html/dating/notifications/notifications.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/idatemedia/public_html/dating/notifications/notifications.php on line 10
+[22-Mar-2019 07:39:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/idatemedia/public_html/dating/notifications/notifications.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/idatemedia/public_html/dating/notifications/notifications.php on line 10
+[22-Mar-2019 07:39:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/idatemedia/public_html/dating/notifications/notifications.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/idatemedia/public_html/dating/notifications/notifications.php on line 10
+[22-Mar-2019 07:39:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/idatemedia/public_html/dating/notifications/notifications.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/idatemedia/public_html/dating/notifications/notifications.php on line 10
+[22-Mar-2019 07:39:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/idatemedia/public_html/dating/notifications/notifications.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/idatemedia/public_html/dating/notifications/notifications.php on line 10
+[22-Mar-2019 07:39:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/idatemedia/public_html/dating/notifications/notifications.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/idatemedia/public_html/dating/notifications/notifications.php on line 10
+[22-Mar-2019 07:39:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/idatemedia/public_html/dating/notifications/notifications.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/idatemedia/public_html/dating/notifications/notifications.php on line 10
+[22-Mar-2019 07:39:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/idatemedia/public_html/dating/notifications/notifications.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/idatemedia/public_html/dating/notifications/notifications.php on line 10
+[22-Mar-2019 07:40:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/idatemedia/public_html/dating/notifications/notifications.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/idatemedia/public_html/dating/notifications/notifications.php on line 10
+[22-Mar-2019 07:40:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/idatemedia/public_html/dating/notifications/notifications.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/idatemedia/public_html/dating/notifications/notifications.php on line 10
+[22-Mar-2019 07:40:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/idatemedia/public_html/dating/notifications/notifications.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/idatemedia/public_html/dating/notifications/notifications.php on line 10
+[22-Mar-2019 07:40:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/idatemedia/public_html/dating/notifications/notifications.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/idatemedia/public_html/dating/notifications/notifications.php on line 10
+[22-Mar-2019 07:40:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/idatemedia/public_html/dating/notifications/notifications.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/idatemedia/public_html/dating/notifications/notifications.php on line 10
+[22-Mar-2019 07:40:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/idatemedia/public_html/dating/notifications/notifications.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/idatemedia/public_html/dating/notifications/notifications.php on line 10
+[22-Mar-2019 07:40:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/idatemedia/public_html/dating/notifications/notifications.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/idatemedia/public_html/dating/notifications/notifications.php on line 10
+[22-Mar-2019 07:40:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/idatemedia/public_html/dating/notifications/notifications.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/idatemedia/public_html/dating/notifications/notifications.php on line 10
+[22-Mar-2019 07:40:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/idatemedia/public_html/dating/notifications/notifications.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/idatemedia/public_html/dating/notifications/notifications.php on line 10
+[22-Mar-2019 07:40:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/idatemedia/public_html/dating/notifications/notifications.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/idatemedia/public_html/dating/notifications/notifications.php on line 10
+[22-Mar-2019 07:40:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/idatemedia/public_html/dating/notifications/notifications.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/idatemedia/public_html/dating/notifications/notifications.php on line 10
+[22-Mar-2019 07:40:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/idatemedia/public_html/dating/notifications/notifications.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/idatemedia/public_html/dating/notifications/notifications.php on line 10
+[22-Mar-2019 07:41:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/idatemedia/public_html/dating/notifications/notifications.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/idatemedia/public_html/dating/notifications/notifications.php on line 10
+[22-Mar-2019 07:41:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/idatemedia/public_html/dating/notifications/notifications.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/idatemedia/public_html/dating/notifications/notifications.php on line 10
+[22-Mar-2019 07:41:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/idatemedia/public_html/dating/notifications/notifications.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/idatemedia/public_html/dating/notifications/notifications.php on line 10
+[22-Mar-2019 07:41:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/idatemedia/public_html/dating/notifications/notifications.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/idatemedia/public_html/dating/notifications/notifications.php on line 10
+[22-Mar-2019 07:41:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/idatemedia/public_html/dating/notifications/notifications.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/idatemedia/public_html/dating/notifications/notifications.php on line 10
+[22-Mar-2019 07:41:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/idatemedia/public_html/dating/notifications/notifications.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/idatemedia/public_html/dating/notifications/notifications.php on line 10
+[22-Mar-2019 07:41:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/idatemedia/public_html/dating/notifications/notifications.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/idatemedia/public_html/dating/notifications/notifications.php on line 10
+[22-Mar-2019 07:41:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/idatemedia/public_html/dating/notifications/notifications.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/idatemedia/public_html/dating/notifications/notifications.php on line 10
+[22-Mar-2019 07:41:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/idatemedia/public_html/dating/notifications/notifications.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/idatemedia/public_html/dating/notifications/notifications.php on line 10
+[22-Mar-2019 07:41:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/idatemedia/public_html/dating/notifications/notifications.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/idatemedia/public_html/dating/notifications/notifications.php on line 10
+[15-Apr-2019 08:13:08 UTC] PHP Parse error:  syntax error, unexpected '2.' (T_DNUMBER), expecting variable (T_VARIABLE) or '{' or '$' in /home/idatemedia/public_html/dating/lib/class.Parser.php on line 112
+[15-Apr-2019 08:13:10 UTC] PHP Parse error:  syntax error, unexpected '2.' (T_DNUMBER), expecting variable (T_VARIABLE) or '{' or '$' in /home/idatemedia/public_html/dating/lib/class.Parser.php on line 112
+[15-Apr-2019 08:13:11 UTC] PHP Parse error:  syntax error, unexpected '2.' (T_DNUMBER), expecting variable (T_VARIABLE) or '{' or '$' in /home/idatemedia/public_html/dating/lib/class.Parser.php on line 112
+[15-Apr-2019 08:13:13 UTC] PHP Parse error:  syntax error, unexpected '2.' (T_DNUMBER), expecting variable (T_VARIABLE) or '{' or '$' in /home/idatemedia/public_html/dating/lib/class.Parser.php on line 112
+[15-Apr-2019 08:13:18 UTC] PHP Parse error:  syntax error, unexpected '2.' (T_DNUMBER), expecting variable (T_VARIABLE) or '{' or '$' in /home/idatemedia/public_html/dating/lib/class.Parser.php on line 112
+[15-Apr-2019 08:13:20 UTC] PHP Parse error:  syntax error, unexpected '2.' (T_DNUMBER), expecting variable (T_VARIABLE) or '{' or '$' in /home/idatemedia/public_html/dating/lib/class.Parser.php on line 112
+[15-Apr-2019 08:13:21 UTC] PHP Parse error:  syntax error, unexpected '2.' (T_DNUMBER), expecting variable (T_VARIABLE) or '{' or '$' in /home/idatemedia/public_html/dating/lib/class.Parser.php on line 112
+[15-Apr-2019 08:13:23 UTC] PHP Parse error:  syntax error, unexpected '2.' (T_DNUMBER), expecting variable (T_VARIABLE) or '{' or '$' in /home/idatemedia/public_html/dating/lib/class.Parser.php on line 112
+[15-Apr-2019 08:13:28 UTC] PHP Parse error:  syntax error, unexpected '2.' (T_DNUMBER), expecting variable (T_VARIABLE) or '{' or '$' in /home/idatemedia/public_html/dating/lib/class.Parser.php on line 112
+[15-Apr-2019 08:13:30 UTC] PHP Parse error:  syntax error, unexpected '2.' (T_DNUMBER), expecting variable (T_VARIABLE) or '{' or '$' in /home/idatemedia/public_html/dating/lib/class.Parser.php on line 112
+[15-Apr-2019 08:13:31 UTC] PHP Parse error:  syntax error, unexpected '2.' (T_DNUMBER), expecting variable (T_VARIABLE) or '{' or '$' in /home/idatemedia/public_html/dating/lib/class.Parser.php on line 112
+[15-Apr-2019 08:24:18 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/idatemedia/public_html/dating/lib/class.Parser.php on line 115
+[15-Apr-2019 08:24:20 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/idatemedia/public_html/dating/lib/class.Parser.php on line 115
+[15-Apr-2019 08:24:20 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/idatemedia/public_html/dating/lib/class.Parser.php on line 115
+[15-Apr-2019 08:24:21 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/idatemedia/public_html/dating/lib/class.Parser.php on line 115
+[15-Apr-2019 08:24:28 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/idatemedia/public_html/dating/lib/class.Parser.php on line 115
+[15-Apr-2019 08:24:30 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/idatemedia/public_html/dating/lib/class.Parser.php on line 115
+[15-Apr-2019 08:24:30 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/idatemedia/public_html/dating/lib/class.Parser.php on line 115
+[15-Apr-2019 08:24:31 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/idatemedia/public_html/dating/lib/class.Parser.php on line 115
+[15-Apr-2019 08:24:38 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/idatemedia/public_html/dating/lib/class.Parser.php on line 115
+[15-Apr-2019 08:24:40 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/idatemedia/public_html/dating/lib/class.Parser.php on line 115
+[15-Apr-2019 08:24:40 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/idatemedia/public_html/dating/lib/class.Parser.php on line 115
+[15-Apr-2019 08:24:41 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/idatemedia/public_html/dating/lib/class.Parser.php on line 115
+[15-Apr-2019 08:24:48 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/idatemedia/public_html/dating/lib/class.Parser.php on line 115
+[15-Apr-2019 08:24:50 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/idatemedia/public_html/dating/lib/class.Parser.php on line 115
+[15-Apr-2019 08:24:50 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/idatemedia/public_html/dating/lib/class.Parser.php on line 115
+[15-Apr-2019 08:24:51 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/idatemedia/public_html/dating/lib/class.Parser.php on line 115
+[15-Apr-2019 08:24:58 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/idatemedia/public_html/dating/lib/class.Parser.php on line 115
+[15-Apr-2019 08:25:00 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/idatemedia/public_html/dating/lib/class.Parser.php on line 115
+[19-Nov-2019 11:02:15 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/idatemedia/public_html/dev/languages/english.php on line 1432
+[25-Nov-2019 23:07:15 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function FormGet() in /home2/idatemedia/dev.idatemedia.com/init.php:285
+Stack trace:
+#0 /home2/idatemedia/dev.idatemedia.com/db_connect.php(61): include()
+#1 /home2/idatemedia/dev.idatemedia.com/notifications/notifications.php(3): include('/home2/idatemed...')
+#2 {main}
+  thrown in /home2/idatemedia/dev.idatemedia.com/init.php on line 285
+[25-Nov-2019 23:10:15 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function FormGet() in /home2/idatemedia/dev.idatemedia.com/init.php:285
+Stack trace:
+#0 /home2/idatemedia/dev.idatemedia.com/db_connect.php(61): include()
+#1 /home2/idatemedia/dev.idatemedia.com/notifications/notifications.php(3): include('/home2/idatemed...')
+#2 {main}
+  thrown in /home2/idatemedia/dev.idatemedia.com/init.php on line 285

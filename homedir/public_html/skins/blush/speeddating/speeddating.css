@@ -1,0 +1,32 @@
+
+#sd_left {
+	float: left;
+	width: 180px;
+}
+
+#sd_right {
+	float:right;
+	width: 720px;
+}
+
+
+
+#home_slogan_sd {
+	width: 640px;
+	margin: 0 ;
+	padding-top: 70px;
+}
+
+#home_left_sd {
+	width: 640px;
+	float:left;
+	overflow:hidden;
+	background: url(../images/bg_search.jpg) no-repeat left top;
+}
+
+#home_right_sd {
+	width: 250px;
+	float:right;
+	overflow:hidden;
+	padding-top:70px;
+}

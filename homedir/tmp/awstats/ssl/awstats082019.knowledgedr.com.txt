@@ -1,0 +1,382 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 201908 will be lost/reset.
+# Last config file used to build this data file was /home/knowled5/tmp/awstats/ssl/awstats.knowledgedr.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2016                
+POS_TIME 2694                
+POS_VISITOR 11313               
+POS_DAY 11690               
+POS_DOMAIN 3285                
+POS_LOGIN 3509                
+POS_ROBOT 3664                
+POS_WORMS 3898                
+POS_EMAILSENDER 4029                
+POS_EMAILRECEIVER 4172                
+POS_SESSION 11887               
+POS_SIDER 12033               
+POS_FILETYPES 4307                
+POS_DOWNLOADS 4388                
+POS_OS 4436                
+POS_BROWSER 4513                
+POS_SCREENSIZE 4575                
+POS_UNKNOWNREFERER 4649                
+POS_UNKNOWNREFERERBROWSER 4821                
+POS_ORIGIN 4988                
+POS_SEREFERRALS 5118                
+POS_PAGEREFS 5262                
+POS_SEARCHWORDS 5410                
+POS_KEYWORDS 5562                
+POS_MISC 2358                
+POS_ERRORS 5621                
+POS_CLUSTER 3365                
+POS_SIDER_404 5712                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20190901004052 12 1809 10910838047483
+FirstTime 20190814201626
+LastTime 20190831182228
+LastUpdate 20190901051230 12 0 11 0 0
+TotalVisits 8                   
+TotalUnique 8                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 8                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+FlashSupport 0 0 0
+QuickTimeSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+TotalMisc 0 0 0
+JavaEnabled 0 0 0
+PDFSupport 0 0 0
+JavascriptDisabled 0 0 0
+DirectorSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 8 13 16179
+1 0 0 0 8 10 12735
+2 0 0 0 9 9 10332
+3 0 0 0 4 7 8036
+4 0 0 0 5 7 8036
+5 0 0 0 8 10 11480
+6 1 1 8144 5 6 6888
+7 0 0 0 6 8 9184
+8 0 0 0 6 8 11694
+9 0 0 0 12 15 17220
+10 0 0 0 5 8 9317
+11 0 0 0 9 13 13828
+12 0 0 0 8 12 15031
+13 0 0 0 12 14 16072
+14 0 0 0 7 9 10332
+15 1 1 8144 4 6 6888
+16 0 0 0 12 21 25363
+17 0 0 0 10 12 13776
+18 1 1 2403 6 6 6888
+19 3 3 7209 6 7 9291
+20 2 2 4806 7 12 13776
+21 0 0 0 8 8 9184
+22 0 0 0 4 4 4592
+23 0 0 0 1 1 1148
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+us 8 8 30706
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 3
+AhrefsBot/ 7 16821 20190831122648 0
+Googlebot/ 2 78 20190823100118 2
+bingbot/ 1 2403 20190824082327 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 1
+html 8 30706 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 1
+Unknown 8 8
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 1
+Unknown 8 8
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+Softaculous 20190822061747
+Go-http-client/2.0 20190831182228
+PleskBot 20190827153040
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+Softaculous 20190822061747
+Go-http-client/2.0 20190831182228
+PleskBot 20190827153040
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 8 8
+From1 0 0
+From2 0 0
+From3 0 0
+From4 0 0
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 1
+404 216 247968
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 134
+/category/social-media/feed/ 1 -
+/category/health/diseases-conditions/feed/ 1 -
+/privacy-policy/feed/ 1 -
+/robots.txt 40 -
+/create-a-morning-routine-for-a-healthy-start/ 1 -
+/category/technology/feed/ 2 -
+/the-truth-about-cardio-you-need-to-know/ 1 -
+/category/happiness/feed/ 2 -
+/category/health/mental-health/feed/ 1 -
+/category/health/alternative-medicine/alternative-remedies/ 1 -
+/how-sleep-loss-alters-our-emotional-perception-tips-to-better-sleep/feed/ 1 -
+/contact.php 5 -
+/category/sports/feed/ 1 -
+/category/health/physical-health/ 1 -
+/man-talking-about-architecture-ideas/feed/ 1 -
+/category/health/alternative-medicine/herbs/ 1 -
+/category/beauty/skin-care/feed/ 1 -
+/category/health/alternative-medicine/aromatherapy/ 1 -
+/category/mindfulness/feed/ 1 -
+/category/relationships/friendships/ 1 -
+/recipes/ 1 -
+/category/health/feed/ 2 -
+/the-amazing-health-benefits-of-grounding-earthing/feed/ 1 -
+/category/happiness/manifesting/ 1 -
+/category/health/alternative-medicine/homeopathy/ 1 -
+/category/uncategorized/feed/ 2 -
+/category/lifestyle/life-skills/self-motivation/feed/ 1 -
+/combat-acidosis-with-these-10-alkaline-foods-added-in-your-diet/ 1 -
+/category/food/diet-nutrition/feed/ 1 -
+/category/health/mens-health/feed/ 1 -
+/8-ways-to-plan-out-a-healthy-lifestyle/ 1 -
+/category/happiness/gratitude-appreciation/feed/ 1 -
+/category/food/feed/ 1 -
+/taking-care-of-you-for-a-happy-mind-and-body/ 1 -
+/tag/woman/ 1 -
+/category/relationships/dating/ 1 -
+/author/allen/feed/ 3 -
+/category/health/alternative-medicine/ayurveda/feed/ 1 -
+/category/health/alternative-medicine/feed/ 1 -
+/category/fitness/exercises/feed/ 1 -
+/pile-of-green-limes-on-market-pattern/ 1 -
+/category/health/alternative-medicine/chinese-medicine/ 1 -
+/category/food/functional-foods/ 1 -
+/category/lifestyle/life-skills/goal-setting/feed/ 1 -
+/category/lifestyle/life-skills/healthy-habits/feed/ 1 -
+/category/lifestyle/life-skills/healthy-habits/ 1 -
+/category/fitness/ 1 -
+/category/beauty/skin-care/ 1 -
+/tag/sexual-energy/feed/ 2 -
+/donate/ 1 -
+/write-for-us/ 1 -
+/category/health/integrative-health/ 1 -
+/category/health/mental-health/ 1 -
+/feed/ 2 -
+/tag/young/feed/ 1 -
+/category/fitness/yoga/ 1 -
+/category/relationships/couples/ 1 -
+/vps-hosting.php 5 -
+/category/lifestyle/non-toxic-living/ 1 -
+/amazing-sun-through-snowy-forest/ 1 -
+/category/health/alternative-medicine/ 1 -
+/guy-meets-girl-with-split-second-decision/ 1 -
+/fight-depression-now-with-these-6-steps-to-raise-your-spirits/ 1 -
+/happy-shoes-shoelace-heart/ 1 -
+/funny-usa-america-flag-retro-sunglasses/feed/ 1 -
+/combat-acidosis-with-these-10-alkaline-foods-added-in-your-diet/feed/ 1 -
+/top-5-tips-on-how-to-not-hurt-yourself-in-the-gym/ 1 -
+/pile-of-green-limes-on-market-pattern/feed/ 1 -
+/category/technology/ 1 -
+/create-a-morning-routine-for-a-healthy-start/feed/ 1 -
+/category/happiness/success/ 1 -
+/category/lifestyle/life-skills/goal-setting/ 1 -
+/the-link-between-depression-and-diet/ 1 -
+/category/mindfulness/personal-growth/ 1 -
+/privacy-policy/ 1 -
+/category/lifestyle/life-skills/feed/ 1 -
+/category/happiness/beliefs/ 1 -
+/boost-the-immune-system-protect-your-body-with-vitamin-d3/feed/ 1 -
+/disclaimer-2/ 1 -
+/category/relationships/couples/feed/ 1 -
+/category/beauty/personal-care/ 1 -
+/first-timers-guide-to-visiting-bordeaux/feed/ 1 -
+/ads.txt 14 -
+/reseller-hosting.php 5 -
+/pure-nature-above-green-forest-on-the-hill/feed/ 1 -
+/prague-astronomical-clock-in-the-old-town-square/feed/ 1 -
+/category/health/alternative-medicine/herbs/feed/ 1 -
+/category/happiness/dreams-goals/feed/ 1 -
+/fast-food-is-a-time-bomb/feed/ 1 -
+/author/admin/ 1 -
+/category/sports/ 1 -
+/category/happiness/dreams-goals/ 1 -
+/category/health/physical-health/feed/ 1 -
+/soul-mate-or-scam-bait/ 1 -
+/young-blonde-woman-looking-around-on-terrace/feed/ 1 -
+/wp-login.php 1 -
+/the-truth-about-cardio-you-need-to-know/feed/ 1 -
+/young-blonde-woman-looking-around-on-terrace/ 1 -
+/tag/young/ 1 -
+/comments/feed/ 1 -
+/how-sleep-loss-alters-our-emotional-perception-tips-to-better-sleep/ 1 -
+/category/fitness/exercises/ 1 -
+/category/health/alternative-medicine/acupressure/feed/ 1 -
+/grossglockner-road-in-austria/feed/ 1 -
+/acheive-success-with-your-personal-growth/feed/ 1 -
+/contact/ 1 -
+/web-hosting.php 5 -
+/category/beauty/personal-care/feed/ 1 -
+/author/zack/feed/ 1 -
+/7-steps-to-beautiful-healthier-skin/ 1 -
+/page/4/ 1 -
+/category/beauty/general-beauty/ 1 -
+/author/zack/ 1 -
+/7-steps-to-beautiful-healthier-skin/feed/ 1 -
+/about-us.php 5 -
+/happy-shoes-shoelace-heart/feed/ 1 -
+/category/fitness/feed/ 1 -
+/tag/men/feed/ 1 -
+/the-shocking-truth-about-whats-in-your-skin-care-products/feed/ 1 -
+/category/fitness/pilates/ 1 -
+/category/health/alternative-medicine/alternative-remedies/feed/ 1 -
+/about/ 1 -
+/author/admin/feed/ 3 -
+/amazing-sun-through-snowy-forest/feed/ 1 -
+/the-link-between-depression-and-diet/feed/ 1 -
+/the-super-power-of-garlic-as-a-natural-antibiotic/ 1 -
+/tag/diet/feed/ 1 -
+/category/beauty/feed/ 1 -
+/category/relationships/marriage/feed/ 1 -
+/category/lifestyle/non-toxic-living/feed/ 1 -
+/category/health/alternative-medicine/holistic-medicine/ 1 -
+/category/mindfulness/spirituality/ 1 -
+/category/lifestyle/life-skills/other-life-skills/feed/ 1 -
+/category/mindfulness/personal-growth/feed/ 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 8
+54.188.65.133 1 1 2403 20190816190727
+54.245.169.20 1 1 2403 20190824191904
+54.245.67.135 1 1 2403 20190822191711
+18.237.10.3 1 1 2403 20190831182228
+54.187.225.214 1 1 2403 20190815204609
+184.154.46.57 1 1 8144 20190822061747
+38.131.153.202 1 1 2403 20190814201626
+34.247.182.189 1 1 8144 20190827153040
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 7
+20190814 1 1 2403 1
+20190815 1 1 2403 1
+20190816 1 1 2403 1
+20190822 2 2 10547 2
+20190824 1 1 2403 1
+20190827 1 1 8144 1
+20190831 1 1 2403 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 1
+0s-30s 8
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 1
+/ 8 30706 8 8
+END_SIDER

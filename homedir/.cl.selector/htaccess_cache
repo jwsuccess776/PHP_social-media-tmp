@@ -1,0 +1,12 @@
+[/home/knowled5/public_html]
+htaccess_list = /home/knowled5/public_html/.htaccess,/home/knowled5/public_html/wp-content/plugins/akismet/.htaccess
+
+[/home/knowled5/ebaydownloads.com]
+htaccess_list = /home/knowled5/ebaydownloads.com/dippec/app/.htaccess,/home/knowled5/ebaydownloads.com/dippec/app/cache/.htaccess,/home/knowled5/ebaydownloads.com/dippec/sys/.htaccess
+
+[/home/knowled5/bettermancoach.com]
+htaccess_list = /home/knowled5/bettermancoach.com/.htaccess,/home/knowled5/bettermancoach.com/wp-content/plugins/akismet/.htaccess
+
+[/home/knowled5/decodewomen.com]
+htaccess_list = /home/knowled5/decodewomen.com/.htaccess,/home/knowled5/decodewomen.com/wp-content/plugins/akismet/.htaccess
+

@@ -1,0 +1,12 @@
+<public:attach event="onmouseover" onevent="color()" />
+<public:attach event="onmouseout" onevent="restore()" />
+<script language="JavaScript" type="text/javascript">
+function color() {
+    element.style.backgroundColor='#CCCCCC';
+    element.style.cursor = 'hand';
+}
+function restore() {
+    element.style.backgroundColor='';
+    element.style.cursor = 'default';
+}
+</SCRIPT>

@@ -1,0 +1,337 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202002 will be lost/reset.
+# Last config file used to build this data file was /home/knowled5/tmp/awstats/awstats.knowledgedr.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2012                
+POS_TIME 2689                
+POS_VISITOR 7890                
+POS_DAY 8586                
+POS_DOMAIN 3349                
+POS_LOGIN 3614                
+POS_ROBOT 3769                
+POS_WORMS 4234                
+POS_EMAILSENDER 4365                
+POS_EMAILRECEIVER 4508                
+POS_SESSION 8868                
+POS_SIDER 9036                
+POS_FILETYPES 4643                
+POS_DOWNLOADS 4840                
+POS_OS 4888                
+POS_BROWSER 5051                
+POS_SCREENSIZE 5306                
+POS_UNKNOWNREFERER 5380                
+POS_UNKNOWNREFERERBROWSER 5611                
+POS_ORIGIN 5837                
+POS_SEREFERRALS 5971                
+POS_PAGEREFS 6134                
+POS_SEARCHWORDS 6282                
+POS_KEYWORDS 6434                
+POS_MISC 2353                
+POS_ERRORS 6493                
+POS_CLUSTER 3470                
+POS_SIDER_404 6603                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20200213090612 21 3438 8937281313526
+FirstTime 20200201035948
+LastTime 20200213090611
+LastUpdate 20200213090844 21 0 21 0 0
+TotalVisits 16                  
+TotalUnique 16                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 16                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+FlashSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+PDFSupport 0 0 0
+TotalMisc 0 0 0
+JavascriptDisabled 0 0 0
+JavaEnabled 0 0 0
+DirectorSupport 0 0 0
+RealPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 24 32 83134
+1 3 3 4906 11 20 914405
+2 0 0 0 18 28 85619
+3 3 3 724 16 24 89171
+4 4 10 174727 15 29 167803
+5 0 0 0 15 23 70409
+6 17 17 32629 20 28 176619
+7 0 0 0 15 16 53413
+8 0 0 0 17 26 123888
+9 1 5 4274 7 16 93512
+10 0 0 0 10 12 73486
+11 0 0 0 7 10 96495
+12 1 1 722 13 18 63426
+13 20 20 14480 15 22 121116
+14 4 10 175772 12 18 58567
+15 0 0 0 8 14 73160
+16 0 0 0 7 12 36649
+17 1 1 722 9 15 83006
+18 1 1 722 14 20 47168
+19 0 0 0 17 23 59400
+20 0 0 0 15 19 62171
+21 0 0 0 10 16 42158
+22 1 1 726 20 35 76716
+23 0 0 0 6 15 94571
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 4
+us 47 53 224730
+in 4 8 9180
+dz 4 10 175772
+de 1 1 722
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 9
+bingbot/ 167 109506 20200213090111 0
+AhrefsBot/ 147 1670771 20200213050423 0
+Googlebot/ 10 70493 20200205152913 0
+YandexBot/ 7 4438 20200211015644 0
+no_user_agent 6 4328 20200207014317 0
+Baiduspider/ 3 3305 20200213081851 0
+Googlebot\-Image/ 1 808259 20200211015753 0
+spider 1 0 20200212224103 0
+Mail\.RU_Bot/ 1 722 20200211191501 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+html 45 39234 0 0
+woff 2 14688 0 0
+php 6 6792 0 0
+html_ 1 16166 0 0
+css 8 84628 0 0
+js 4 91024 0 0
+woff2 2 154320 0 0
+png 4 3552 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 8
+macosx10 1 1
+Unknown 3 3
+win7 1 1
+linux 38 38
+win10 15 5
+macosx9 1 1
+linuxandroid 10 4
+macosx 3 3
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 10
+chrome66.0.3359.139 3 3
+Unknown 3 3
+firefox56.0 9 3
+chrome65.0.3325.181 38 38
+chrome35.0.1916.47 1 1
+chrome76.0.3809.132 1 1
+firefox73.0 5 1
+chrome79.0.3945.116 10 4
+chrome41.0.2228.0 1 1
+firefox59.0 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+HubSpot_Connect_2.0_(http://dev.hubspot.com/)_-_BizOpsCompanies-Tq2-BizCoDomainValidationAudit 20200212035610
+Go-http-client/1.1 20200210172423
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+Go-http-client/1.1 20200210172423
+HubSpot_Connect_2.0_(http://dev.hubspot.com/)_-_BizOpsCompanies-Tq2-BizCoDomainValidationAudit 20200212035610
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 10 10
+From1 0 0
+From2 2 2
+From3 0 0
+From4 44 60
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+404 137 169332
+403 4 4908
+302 2 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 28
+/tag/men/ 2 -
+/web-hosting.php 1 -
+/category/fashion/ 1 -
+/2017/06/27/young-photographer-in-action-taking-a-photo/ 1 -
+/tag/splash/ 1 -
+/category/business/ 1 -
+/sites/all/themes/views/views.php 1 -
+/robots.txt 86 -
+/category/health-living/ 1 -
+/wp-content/uploads/2017/06/34-500x300.jpg 1 -
+/feed/ 13 -
+/what-is-meditation-and-how-do-you-get-started/ 1 -
+/lifestyle/ 1 -
+/.aws/credentials 3 -
+/top-10-exercise-tips-for-rapid-weight-loss/ 1 -
+/8-ways-to-plan-out-a-healthy-lifestyle/ 2 -
+/3-ways-to-save-money-in-your-everyday-life/ 1 -
+/wp-content/plugins/wp-time-capsule/css/opentip.css 1 -
+/category/health/ 1 -
+/category/lifestyle/life-skills/goal-setting/ 1 -
+/adminer.php 1 -
+/2017/06/27/young-girl-with-pink-shoes-on-longboard/ 1 -
+/wp-json/ 1 -
+/how-sleep-loss-alters-our-emotional-perception-tips-to-better-sleep/ 1 -
+/combat-acidosis-with-these-10-alkaline-foods-added-in-your-diet/ 1 -
+/category/lifestyle/life-skills/healthy-habits/ 1 -
+/ads.txt 5 -
+/index.html 5 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 16
+209.97.156.181 20 20 14480 20200211131532
+138.197.7.112 17 17 32629 20200206064332
+41.109.135.144 3 9 174005 20200207045902
+45.152.32.144 3 3 4906 20200205015305
+66.249.93.73 2 8 166661 20200203141820
+54.191.129.57 1 1 722 20200210172423
+216.145.17.190 1 1 726 20200211220315
+54.174.53.4 1 1 0 20200212035610
+1.186.196.37 1 5 4274 20200213090611 20200213090611 /
+41.108.198.245 1 1 1767 20200203142140
+199.244.88.131 1 1 722 20200209183244
+54.174.53.101 1 1 0 20200205035628
+78.47.40.121 1 1 722 20200208123049
+66.249.93.75 1 1 7344 20200203141820
+23.82.165.143 1 1 722 20200210044339
+209.97.152.245 1 1 724 20200201035948
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 11
+20200201 1 1 724 1
+20200203 4 10 175772 3
+20200205 4 4 4906 2
+20200206 17 17 32629 1
+20200207 3 9 174005 1
+20200208 1 1 722 1
+20200209 1 1 722 1
+20200210 2 2 1444 2
+20200211 21 21 15206 2
+20200212 1 1 0 1
+20200213 1 5 4274 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 3
+30s-2mn 1
+5mn-15mn 1
+0s-30s 13
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 15
+/ 35 23880 12 9
+/_vfm-admin/login.php 4 6792 3 1
+/contact.html 3 6279 0 1
+/_vfm-admin/fonts/fontawesome-webfont.woff2 2 154320 0 2
+/_vfm-admin/fonts/vfm-font.woff 2 14688 1 1
+/blog.html 1 2718 0 0
+/index.html_ 1 16166 0 1
+/blog-post.html 1 3502 0 0
+/js/ 1 512 0 0
+/fonts/ 1 569 0 0
+/img/ 1 814 0 0
+/css/ 1 505 0 0
+/uploads/ 1 455 0 0
+/_index.php 1 0 0 0
+/_vfm-thumb.php 1 0 0 0
+END_SIDER

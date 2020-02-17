@@ -1,0 +1,44 @@
+
+#sd_left {
+	float: left;
+	width: 180px;
+}
+
+#sd_right {
+	float:right;
+	width: 700px;
+}
+
+
+#home_slogan_sd {
+	width: 640px;
+	margin: 0 ;
+	padding-top: 70px;
+}
+
+#home_left_sd {
+	width: 430px;
+	margin-left: 20px;
+	margin-top: 20px;
+	display:inline;
+	float:left;
+	overflow:hidden;
+}
+#home_right_sd {
+	width: 430px;
+	margin-right: 20px;
+	margin-top: 20px;
+	display:inline;
+	float:right;
+	overflow:hidden;
+}
+
+#home_search_sd {
+	padding-top: 95px;
+	padding-left: 500px;
+}
+
+#home_content_bot_sd {
+	width: 900px;
+	background:url(../images/bg_home_bot.gif) top repeat-x;
+}

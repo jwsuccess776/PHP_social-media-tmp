@@ -1,0 +1,446 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 201912 will be lost/reset.
+# Last config file used to build this data file was /home/knowled5/tmp/awstats/ssl/awstats.knowledgedr.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2016                
+POS_TIME 2681                
+POS_VISITOR 10569               
+POS_DAY 11383               
+POS_DOMAIN 3381                
+POS_LOGIN 3640                
+POS_ROBOT 3795                
+POS_WORMS 4108                
+POS_EMAILSENDER 4239                
+POS_EMAILRECEIVER 4382                
+POS_SESSION 11699               
+POS_SIDER 11867               
+POS_FILETYPES 4517                
+POS_DOWNLOADS 4743                
+POS_OS 4791                
+POS_BROWSER 4941                
+POS_SCREENSIZE 5161                
+POS_UNKNOWNREFERER 5235                
+POS_UNKNOWNREFERERBROWSER 5596                
+POS_ORIGIN 5867                
+POS_SEREFERRALS 6003                
+POS_PAGEREFS 6147                
+POS_SEARCHWORDS 6493                
+POS_KEYWORDS 6645                
+POS_MISC 2344                
+POS_ERRORS 6704                
+POS_CLUSTER 3496                
+POS_SIDER_404 6840                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20200101000214 40 6161 9489452880296
+FirstTime 0
+LastTime 20191231172332
+LastUpdate 20200101051512 40 0 39 0 0
+TotalVisits 21                  
+TotalUnique 19                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 19                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+RealPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+TotalMisc 0 0 0
+JavaEnabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+PDFSupport 0 0 0
+FlashSupport 0 0 0
+AddToFavourites 0 34 0
+JavascriptDisabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 22 42 904606
+1 0 0 0 30 40 921915
+2 2 2 51052 22 33 152305
+3 17 17 650151 27 42 600736
+4 0 0 0 25 36 563934
+5 0 0 0 20 28 629438
+6 0 0 0 23 38 878573
+7 13 27 390228 35 49 355226
+8 0 0 0 40 46 158063
+9 2 2 0 31 42 478260
+10 0 0 0 20 31 348714
+11 0 0 0 18 33 710209
+12 0 0 0 31 44 364013
+13 1 1 12081 34 43 460638
+14 0 0 0 25 36 324983
+15 1 1 12062 27 51 196013
+16 0 0 0 26 67 637888
+17 4 4 13297 34 51 311782
+18 1 1 16166 18 22 470126
+19 172 429 7256489 29 72 433706
+20 0 0 0 47 63 576560
+21 4 4 11382 32 41 701276
+22 15 15 598923 42 62 426417
+23 0 0 0 19 29 559489
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 3
+us 213 484 8349084
+pt 16 16 610066
+gb 3 3 52681
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 4
+AhrefsBot/ 707 11670536 20191231235948 0
+bot[\s_+:,\.\;\/\\-] 3 62183 20191206184019 0
+(firefox/)([0-9]\.|[0-1][0]\.) 3 25989 20191214192348 0
+no_user_agent 1 3302 20191229000458 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 9
+woff2 31 475776 0 0
+php 143 4174737 0 0
+css 63 307293 0 0
+html 49 1106832 0 0
+js 123 839624 0 0
+png 82 2066204 0 0
+gif 2 18894 0 0
+svg 1 951 0 0
+woff 9 21520 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 7
+macosx11 1 1
+Unknown 35 35
+linux 33 33
+macosx 431 160
+winxp 1 1
+win8.1 1 1
+win10 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 9
+Unknown 31 31
+firefox62.0 31 31
+chrome78.0.3904.108 2 2
+firefox51.0 1 1
+chrome55.0.2883.87 1 1
+mozilla 4 4
+safari12.1 431 160
+chrome41.0.2225.0 1 1
+chrome41.0.2224.3 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 6
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20191205030125
+python-requests/2.21.0 20191206211701
+WordPress/5.3.1;_https://knowledgedr.com 20191214193407
+Softaculous 20191214193655
+Go-http-client/1.1 20191231172332
+Go-http-client/2.0 20191224135540
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 5
+python-requests/2.21.0 20191206211701
+Go-http-client/1.1 20191231172332
+Go-http-client/2.0 20191224135540
+WordPress/5.3.1;_https://knowledgedr.com 20191214193407
+Softaculous 20191214193655
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 50 50
+From1 0 0
+From2 0 0
+From3 4 4
+From4 178 449
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 3
+https://pcluster18.stablehost.com:2083 2 2
+https://pcluster18.stablehost.com:2083/cpsess2677781245/frontend/paper_lantern/softaculous/index.live.php 1 1
+http://webmail.knowledgedr.com/index.php 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+403 12 14724
+401 18 630
+302 16 85922
+404 244 301584
+301 1 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 102
+/ads.txt 30 -
+/category/mindfulness/meditation/ 1 -
+/category/health/mens-health/ 1 -
+/admin/ 1 -
+/8-ways-to-plan-out-a-healthy-lifestyle/ 1 -
+/tag/woman/ 1 -
+/category/lifestyle/life-skills/other-life-skills/ 1 -
+/magento/admin/ 1 -
+/store/ 1 -
+/page/4/ 1 -
+/category/health/alternative-medicine/ 1 -
+/category/health/alternative-medicine/homeopathy/ 1 -
+/tag/men/ 1 -
+/category/lifestyle/life-skills/goal-setting/ 1 -
+/category/fitness/ 2 -
+/tag/sexual-energy/ 1 -
+/category/lifestyle/non-toxic-living/ 1 -
+/category/health/alternative-medicine/acupressure/ 1 -
+/category/beauty/skin-care/ 1 -
+/lifestyle/ 1 -
+/category/relationships/ 1 -
+/store/admin/ 1 -
+/category/mindfulness/personal-growth/ 1 -
+/donate/ 1 -
+/category/relationships/family/ 1 -
+/category/health/physical-health/ 1 -
+/magento2/pub/errors/503.php 1 -
+/category/health/integrative-health/ 1 -
+/magento/pub/errors/503.php 1 -
+/privacy-policy/ 1 -
+/write-for-us/ 1 -
+/shop/ 1 -
+/category/relationships/marriage/ 1 -
+/vps-hosting.php 1 -
+/shop/pub/errors/503.php 1 -
+/category/mindfulness/spirituality/ 1 -
+/about/ 1 -
+/the-shocking-truth-about-whats-in-your-skin-care-products/ 1 -
+/category/beauty/personal-care/ 1 -
+/pub/errors/503.php 1 -
+/category/fitness/exercises/ 1 -
+/category/health/mental-health/ 1 -
+/category/happiness/dreams-goals/ 1 -
+/recipes/ 1 -
+/category/fitness/yoga/ 1 -
+/category/fitness/general-fitness/ 1 -
+/soul-mate-or-scam-bait/ 1 -
+/robots.txt 105 -
+/the-truth-about-cardio-you-need-to-know/ 1 -
+/contact.php 1 -
+/category/health/alternative-medicine/naturopathy/ 1 -
+/category/relationships/singlehood/ 1 -
+/contact/ 1 -
+/category/happiness/gratitude-appreciation/ 1 -
+/category/beauty/general-beauty/ 1 -
+/category/food/functional-foods/ 1 -
+/magento2/admin/ 1 -
+/category/health/alternative-medicine/alternative-remedies/ 1 -
+/boost-the-immune-system-protect-your-body-with-vitamin-d3/ 1 -
+/comments/feed/ 1 -
+/category/fitness/workouts/ 1 -
+/tag/diet/ 1 -
+/category/relationships/dating/ 1 -
+/the-super-power-of-garlic-as-a-natural-antibiotic/ 1 -
+/category/fitness/exercises/aerobics/ 1 -
+/category/health/alternative-medicine/holistic-medicine/ 1 -
+/disclaimer-2/ 1 -
+/tag/attraction/ 1 -
+/combat-acidosis-with-these-10-alkaline-foods-added-in-your-diet/ 1 -
+/category/beauty/ 1 -
+/category/relationships/couples/ 1 -
+/category/happiness/success/ 1 -
+/magento2/ 1 -
+/about-us.php 1 -
+/index.html 8 -
+/category/health/alternative-medicine/herbs/ 1 -
+/category/health/alternative-medicine/chinese-medicine/ 1 -
+/category/health/alternative-medicine/aromatherapy/ 2 -
+/category/food/diet-nutrition/ 1 -
+/category/happiness/beliefs/ 1 -
+/category/health/ 1 -
+/shop/admin/ 1 -
+/category/relationships/friendships/ 1 -
+/magento/ 1 -
+/category/health/diseases-conditions/ 1 -
+/category/mindfulness/ 1 -
+/reseller-hosting.php 1 -
+/category/fitness/exercises/stretching/ 1 -
+/store/pub/errors/503.php 1 -
+/category/health/alternative-medicine/ayurveda/ 1 -
+/category/lifestyle/life-skills/organization/ 1 -
+/author/admin/ 1 -
+/category/lifestyle/life-skills/healthy-habits/ 1 -
+/author/luca-nicole/ 1 -
+/category/fitness/pilates/ 1 -
+/how-sleep-loss-alters-our-emotional-perception-tips-to-better-sleep/ 1 -
+/category/happiness/humor/ 1 -
+/the-amazing-health-benefits-of-grounding-earthing/ 1 -
+/category/food/ 1 -
+/tag/depression/ 1 -
+/category/lifestyle/life-skills/self-motivation/ 1 -
+/category/happiness/manifesting/ 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 19
+97.101.16.201 160 431 7640113 20191214193453
+184.154.46.57 26 26 22770 20191214193655
+173.244.36.79 15 15 599111 20191216035107
+82.102.27.115 15 15 598923 20191211222804
+167.71.146.169 2 2 7258 20191208215222
+18.236.218.173 1 1 3402 20191206211701
+34.221.92.70 1 1 718 20191216172014
+138.197.173.88 1 1 0 20191229093230
+157.245.117.224 1 1 11143 20191205030125
+51.15.241.250 1 1 722 20191223215658
+38.240.23.9 1 1 12081 20191224135540
+138.197.107.13 1 1 39909 20191205023517
+159.203.12.19 1 1 0 20191229093232
+167.172.28.166 1 1 39897 20191205030058
+163.172.161.137 1 1 12062 20191223155034
+54.188.2.133 1 1 718 20191231172332
+159.203.81.141 1 1 11143 20191205025539
+54.188.13.88 1 1 718 20191226170613
+82.102.27.56 1 1 11143 20191206173400
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 12
+20191205 4 4 102092 4
+20191206 2 2 14545 2
+20191207 13 27 390228 1
+20191208 2 2 7258 1
+20191211 15 15 598923 1
+20191214 173 430 7272655 3
+20191216 16 16 599829 2
+20191223 2 2 12784 2
+20191224 1 1 12081 1
+20191226 1 1 718 1
+20191229 2 2 0 2
+20191231 1 1 718 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 3
+30s-2mn 2
+0s-30s 17
+5mn-15mn 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 42
+/wp-admin/themes.php 42 1273624 0 0
+/ 28 288547 17 16
+/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2 24 72716 0 0
+/wp-admin/admin-ajax.php 21 241767 0 0
+/wp-admin/load-scripts.php 19 900179 0 0
+/wp-cron.php 13 0 1 0
+/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.woff 8 14176 0 1
+/wp-admin/load-styles.php 7 611538 0 0
+/wp-admin/options-general.php 6 245288 0 0
+/wp-admin/plugins.php 6 268214 0 0
+/vfm-admin/ajax/session.php 4 0 0 1
+/wp-admin/plugin-install.php 3 110462 0 0
+/shop/admin/ 3 119784 0 0
+/wp-admin/ 3 99625 0 0
+/wp-admin/index.php 3 71158 0 0
+/admin/ 2 79836 2 0
+/store/admin/ 2 79864 0 0
+/wp-admin/admin.php 2 22876 0 0
+/vfm-admin/ajax/get-files.php 2 110 0 0
+/pub/errors/503.php 2 79888 0 0
+/store/pub/errors/503.php 2 79916 0 0
+/shop/ 2 79832 0 0
+/magento/ 2 79844 0 0
+/vfm-admin/ajax/get-dirs.php 2 1326 0 0
+/shop/pub/errors/503.php 2 79912 0 0
+/wp-admin/update.php 1 5670 0 0
+/magento2/admin/ 1 39944 0 0
+/wp-content/themes/twentytwenty/assets/fonts/inter/Inter-upright-var.woff2 1 223892 0 0
+/wp-content/themes/efor/css/fonts/now/Now-Medium.woff2 1 16620 0 0
+/wp-content/themes/efor/css/fonts/now/Now-Bold.woff2 1 16832 0 0
+/index.php 1 12081 1 1
+/vfm-admin/fonts/fontawesome-webfont.woff2 1 77160 0 0
+/wp-content/themes/efor/css/fonts/now/Now-Regular.woff2 1 16548 0 0
+/magento2/ 2 79848 0 2
+/wp-content/themes/efor/css/fonts/now/Now-Light.woff2 1 16620 0 0
+/vfm-admin/fonts/vfm-font.woff 1 7344 0 0
+/wp-content/plugins/pixelwars-core/themes/global/css/fonts/fontello/font/fontello.woff2 1 35388 0 0
+/magento/pub/errors/503.php 2 79924 0 0
+/magento/admin/ 2 79872 0 0
+/store/ 2 79836 0 0
+/magento2/pub/errors/503.php 2 79928 0 0
+/wp-admin/theme-install.php 1 10876 0 0
+END_SIDER

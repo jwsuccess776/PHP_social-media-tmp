@@ -1,0 +1,18 @@
+register_globals = Off
+max_execution_time=360
+upload_max_filesize=50M
+post_max_size=50M
+memory_limit=30M
+
+zend_extension="/usr/local/IonCube/ioncube_loader_lin_5.2.so"
+zend_extension_ts="/usr/local/IonCube/ioncube_loader_lin_5.2_ts.so"
+
+[Zend]
+zend_optimizer.optimization_level=15
+zend_extension_manager.optimizer=/usr/local/Zend/lib/Optimizer-3.3.3
+zend_extension_manager.optimizer_ts=/usr/local/Zend/lib/Optimizer_TS-3.3.3
+zend_optimizer.version=3.3.0
+
+
+zend_extension=/usr/local/Zend/lib/ZendExtensionManager.so
+zend_extension_ts=/usr/local/Zend/lib/ZendExtensionManager_TS.so

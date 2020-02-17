@@ -1,0 +1,1099 @@
+# Webalizer V2.23-08 Incremental Data - 02/14/2020 02:21:19
+2020 2 14 2 21 19
+614 459 244 64 13 42 3305270 360 253 0
+5 7 21 1 14
+24 14 22930 20 12 12
+25 10 86393 20 14 14
+45 33 281354 26 18 17
+78 67 513349 46 46 32
+45 34 370270 32 17 15
+45 31 229157 23 26 10
+38 33 298423 18 17 14
+57 42 275245 31 39 30
+61 45 175425 22 49 33
+25 16 36098 20 16 16
+42 30 842911 20 29 10
+52 35 110030 28 37 26
+54 48 56413 12 36 21
+23 21 7272 5 4 3
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+48 37 85772 24
+23 13 919311 12
+35 29 90253 20
+27 19 89895 18
+39 32 343766 15
+23 18 70409 14
+45 36 209248 33
+16 14 53413 14
+26 21 123888 17
+24 15 101200 11
+12 9 73486 7
+10 7 96495 5
+26 21 85832 14
+43 38 136373 34
+34 29 240523 11
+14 10 73160 7
+16 12 39129 9
+16 8 83728 9
+21 14 47890 14
+23 14 59400 17
+25 22 64679 17
+16 9 42158 10
+37 26 78219 22
+15 6 97043 6
+0
+0
+0
+459
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+2
+0
+0
+0
+0
+0
+4
+147
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/.well-known/pki-validation/41625BD2402C276992E72F2FC2ADB301.txt
+0 1 4 64 0 0
+/css/font-awesome.min.css
+0 3 8030813603925946979 19974 0 0
+/_vfm-admin/js/bootstrap.min.js
+0 2 7867340375392871795 22834 0 0
+/js/jquery.min.js
+0 3 94 87525 0 0
+/_autoindex/icons/html.png
+0 2 3977010769151538485 2394 0 0
+/img/cta1-background.jpg
+0 3 0 47784 0 0
+/img/course07.jpg
+0 2 8462095953220861952 42463 0 0
+/_vfm-thumb.php
+0 5 8030813603925946979 0 0 0
+/js/google-map.js
+0 1 3330749672971382327 620 0 0
+/img/course03.jpg
+0 1 8390891574744080686 20480 0 0
+/_vfm-admin/login.php
+0 7 18531104 10893 0 0
+/img/logo.png
+0 3 0 29706 0 0
+/img/course05.jpg
+0 3 0 52209 0 0
+/img/course02.jpg
+0 2 0 36408 0 0
+/fonts/fontawesome-webfont.woff
+0 1 0 16384 0 0
+/img/blog-post-background.jpg
+0 2 0 74056 0 0
+/img/logo-alt.png
+0 2 0 9740 0 0
+/js/bootstrap.min.js
+0 3 0 28545 0 0
+/fonts/fontawesome-webfont.eot
+0 3 0 127632 0 0
+/img/course01.jpg
+0 1 0 24576 0 0
+/css/
+0 27 0 13142 21 9
+/js/
+0 38 0 18568 28 20
+/img/post03.jpg
+0 2 0 36487 0 0
+/img/avatar.png
+0 2 0 6540 0 0
+/img/blog03.jpg
+0 3 0 142690 0 0
+/fonts/fontawesome-webfont.woff2
+0 2 0 106864 0 0
+/img/page-background.jpg
+0 4 0 68264 0 0
+/img/post02.jpg
+0 2 0 32312 0 0
+/_autoindex/icons/unknown.png
+0 2 0 2140 0 0
+/_vfm-admin/css/font-awesome.min.css
+0 2 0 15498 0 0
+/_index.php
+0 5 0 0 0 0
+/img/about.png
+0 1 0 20480 0 0
+/fonts/FontAwesome.otf
+0 2 0 40504 0 0
+/_autoindex/icons/blank.png
+0 6 0 1026 0 0
+/img/course04.jpg
+0 3 0 55188 0 0
+/_vfm-admin/js/jquery-3.3.1.min.js
+0 2 0 68190 0 0
+/css/style.css
+0 4 0 17404 0 0
+/_vfm-admin/vfm-style.css
+0 2 0 19368 0 0
+/fonts/fontawesome-webfont.svg
+0 1 3977010743348180532 20480 0 0
+/blog-post.html
+0 1 0 3502 0 0
+/fonts/fontawesome-webfont.ttf
+0 3 3343207377014973039 86880 0 0
+/img/blog04.jpg
+0 2 7651178596918457459 40504 0 0
+/_vfm-admin/fonts/vfm-font.woff
+0 2 7867340375392871795 14688 0 0
+/fonts/
+0 16 85621380706612785 7975 15 3
+/js/main.js
+0 1 30803244233221733 266 0 0
+/img/cta2-background.jpg
+0 2 7165897045451878957 824187 0 0
+/_vfm-admin/css/bootstrap.min.css
+0 2 18544512 49282 0 0
+/css/bootstrap.min.css
+0 3 0 50126 0 0
+/img/
+0 21 0 15647 16 2
+/img/about-video.jpg
+0 3 0 78400 0 0
+/.well-known/pki-validation/E3E716FFBA3325AAEA6C61F90A0EC8D9.txt
+0 12 65 924 0 0
+/contact.html
+0 4 0 6279 1 1
+/img/post01.jpg
+0 3 0 47784 0 0
+/img/blog02.jpg
+0 2 0 74056 0 0
+/img/home-background.jpg
+0 1 0 15928 0 0
+/img/blog01.jpg
+0 2 0 31856 0 0
+/_vfm-admin/_content/skins/blank.css
+0 2 0 480 0 0
+/
+0 202 0 215168 132 69
+/_vfm-admin/fonts/fontawesome-webfont.woff2
+0 2 0 154320 0 0
+/img/course08.jpg
+0 2 0 49289 0 0
+/uploads/james/
+0 3 0 1021 3 1
+/blog.html
+0 1 0 2718 0 0
+/_autoindex/icons/folder.png
+0 6 0 6684 0 0
+/uploads/
+0 3 0 1274 2 0
+# End Of Table - urls
+# -sites- (monthly)
+msnbot-40-77-167-204.search.msn.com
+0 2 2 1232 2 1580619871
+/
+45.152.32.144
+0 3 3 4906 1 1580867585
+/contact.html
+ip-54-36-150-125.a.ahrefs.com
+0 1 1 3270 0 0
+-
+ip-54-36-148-33.a.ahrefs.com
+0 1 0 0 1 1580685434
+-
+5.2.73.12
+0 1 0 1236 1 1580734419
+-
+1.186.196.37.dvois.com
+0 6 5 5510 1 1581584771
+/
+ip-54-36-149-22.a.ahrefs.com
+0 1 1 425 1 1581143032
+/js/
+ec2-18-188-184-221.us-east-2.compute.amazonaws.com
+0 4 3 2935 1 1581646877
+/
+crawl-66-249-73-14.googlebot.com
+0 2 0 2472 0 0
+-
+ip-54-36-148-19.a.ahrefs.com
+0 1 1 15928 0 0
+-
+ip-54-36-150-85.a.ahrefs.com
+0 1 0 1227 1 1580723716
+-
+138.197.7.112
+0 21 17 36319 1 1580971412
+/
+93-158-161-143.spider.yandex.com
+0 1 1 720 1 1580842102
+/
+ec2-34-221-117-190.us-west-2.compute.amazonaws.com
+0 1 0 1236 0 0
+-
+msnbot-157-55-39-139.search.msn.com
+0 14 14 8986 7 1580849282
+/
+ip-54-36-150-51.a.ahrefs.com
+0 1 1 0 0 0
+-
+ip-54-36-148-156.a.ahrefs.com
+0 2 2 36487 0 0
+-
+209.97.156.181
+0 20 20 14480 1 1581426932
+/
+msnbot-157-55-39-100.search.msn.com
+0 2 2 1440 2 1581035924
+/
+222.152.155.107.static.reverse.as19531.net
+0 1 0 1236 1 1580848137
+-
+ec2-18-217-211-104.us-east-2.compute.amazonaws.com
+0 3 2 1650 1 1581640737
+/
+ip-54-36-148-241.a.ahrefs.com
+0 1 1 367 1 1580854202
+/uploads/
+ip-54-36-150-101.a.ahrefs.com
+0 1 1 16384 0 0
+-
+msnbot-157-55-39-172.search.msn.com
+0 7 7 4738 6 1581297227
+/fonts/
+ip-54-36-150-172.a.ahrefs.com
+0 1 1 20480 0 0
+-
+ip-54-36-148-205.a.ahrefs.com
+0 1 0 1236 0 0
+-
+209.97.152.245
+0 1 1 724 1 1580529588
+/
+ipv4-216-145-17-190.greenhousedata.net
+0 2 1 1962 1 1581458595
+/
+ip-54-36-149-16.a.ahrefs.com
+0 1 1 0 0 0
+-
+ip-54-36-148-255.a.ahrefs.com
+0 2 0 2472 0 0
+-
+ip-54-36-148-177.a.ahrefs.com
+0 1 0 1236 0 0
+-
+199.167.30.49
+0 1 0 1236 1 1580943713
+-
+ip-54-36-150-76.a.ahrefs.com
+0 2 2 27011 0 0
+-
+ip-54-36-148-46.a.ahrefs.com
+0 1 1 4870 0 0
+-
+77-88-47-59.spider.yandex.com
+0 1 0 1236 0 0
+-
+ip-54-36-150-145.a.ahrefs.com
+0 1 1 20480 0 0
+-
+ip-54-36-148-150.a.ahrefs.com
+0 1 0 1236 0 0
+-
+msnbot-157-55-39-180.search.msn.com
+0 1 1 511 1 1581277891
+/js/
+ip-54-36-150-67.a.ahrefs.com
+0 2 2 62472 0 0
+-
+ip-54-36-149-101.a.ahrefs.com
+0 1 1 15928 0 0
+-
+ip-54-36-150-2.a.ahrefs.com
+0 1 1 15928 0 0
+-
+ip-54-36-150-34.a.ahrefs.com
+0 1 1 628 1 1580569018
+/
+crawl-66-249-79-158.googlebot.com
+0 3 2 810126 1 1580672544
+/
+ip-54-36-148-240.a.ahrefs.com
+0 2 1 1236 0 0
+-
+ip-54-36-148-88.a.ahrefs.com
+0 1 1 15928 0 0
+-
+fetcher1-8.go.mail.ru
+0 1 0 1236 0 0
+-
+ip-54-36-148-179.a.ahrefs.com
+0 1 1 632 1 1580775017
+/
+ip-54-36-148-119.a.ahrefs.com
+0 1 1 475 1 1581399966
+/fonts/
+ip-54-36-148-227.a.ahrefs.com
+0 1 1 677 1 1581253269
+/img/
+ip-54-36-148-86.a.ahrefs.com
+0 1 0 1236 0 0
+-
+162.253.178.187
+0 1 0 1236 1 1581132863
+-
+ip-54-36-150-107.a.ahrefs.com
+0 1 1 421 1 1581518071
+/css/
+ip-54-36-148-24.a.ahrefs.com
+0 1 0 1236 0 0
+-
+100-43-91-107.spider.yandex.com
+0 1 1 722 1 1581309191
+/
+ip-54-36-148-107.a.ahrefs.com
+0 1 0 1236 0 0
+-
+client.yota.ru
+0 1 0 1236 0 0
+-
+msnbot-157-55-39-18.search.msn.com
+0 25 0 30900 0 0
+-
+ip-54-36-150-104.a.ahrefs.com
+0 1 1 15928 0 0
+-
+192.175.22.68
+0 1 0 1236 1 1581132864
+-
+msnbot-157-55-39-200.search.msn.com
+0 5 5 2549 5 1581045046
+/js/
+ip-54-36-149-90.a.ahrefs.com
+0 1 1 15928 0 0
+-
+ip-54-36-148-144.a.ahrefs.com
+0 2 2 1051 2 1581467031
+/js/
+ip-54-36-148-134.a.ahrefs.com
+0 1 1 15928 0 0
+-
+ip-54-36-150-73.a.ahrefs.com
+0 1 1 1367 0 0
+-
+mtrlpq4706w-lp140-03-70-27-248-143.dsl.bell.ca
+0 1 0 1236 0 0
+-
+ip-54-36-148-106.a.ahrefs.com
+0 1 0 1236 0 0
+-
+ip-54-36-150-151.a.ahrefs.com
+0 1 1 646 1 1580894838
+/img/
+msnbot-40-77-167-179.search.msn.com
+0 5 5 3417 3 1580785434
+/
+ip-54-36-148-102.a.ahrefs.com
+0 1 0 1236 0 0
+-
+ip-54-36-150-181.a.ahrefs.com
+0 1 1 15928 0 0
+-
+ip-54-36-149-33.a.ahrefs.com
+0 1 1 64330 0 0
+-
+ip-54-36-149-103.a.ahrefs.com
+0 2 2 16586 1 1581521757
+/img/
+fetcher1-6.go.mail.ru
+0 2 0 2472 1 1581478365
+/
+ip-54-36-150-112.a.ahrefs.com
+0 1 1 620 0 0
+-
+ip-54-36-148-64.a.ahrefs.com
+0 1 0 1236 1 1581211341
+/
+188.212.86.174
+0 2 2 1448 1 1580715829
+/
+ip-54-36-148-25.a.ahrefs.com
+0 1 0 1236 0 0
+-
+ip-54-36-150-165.a.ahrefs.com
+0 1 1 53784 0 0
+-
+37-9-87-162.spider.yandex.com
+0 2 2 960 2 1581306078
+/uploads/
+ip-54-36-150-138.a.ahrefs.com
+0 2 2 16408 1 1581137584
+/fonts/
+41.108.198.245
+0 1 1 1767 0 0
+-
+ec2-3-14-244-170.us-east-2.compute.amazonaws.com
+0 3 3 1699 1 1581646827
+/
+ip-54-36-150-14.a.ahrefs.com
+0 1 1 0 0 0
+-
+ip-54-36-148-22.a.ahrefs.com
+0 2 0 2472 0 0
+-
+ip-54-36-148-77.a.ahrefs.com
+0 2 2 32094 1 1580663947
+/
+ip-54-36-150-81.a.ahrefs.com
+0 1 1 630 1 1580857191
+/
+ip-54-36-150-12.a.ahrefs.com
+0 1 1 627 1 1580995316
+/
+ip-54-36-149-75.a.ahrefs.com
+0 1 0 1236 0 0
+-
+199.101.100.175
+0 2 0 2472 1 1581208514
+-
+93-63-162-100.ip28.fastwebnet.it
+0 4 4 3108 4 1581634268
+/
+23.82.165.143
+0 1 1 722 1 1581309819
+/
+vmi341203.contaboserver.net
+0 1 0 1236 1 1580679305
+-
+ip-54-36-149-0.a.ahrefs.com
+0 1 0 1236 0 0
+-
+ec2-18-195-106-201.eu-central-1.compute.amazonaws.com
+0 1 0 1236 0 0
+-
+msnbot-157-55-39-110.search.msn.com
+0 41 40 27641 23 1581305522
+/
+crawl-66-249-79-156.googlebot.com
+0 4 0 3708 2 1581237755
+-
+77-88-47-56.spider.yandex.com
+0 2 0 2472 0 0
+-
+static.121.40.47.78.clients.your-server.de
+0 1 1 722 1 1581165049
+/
+msnbot-40-77-167-155.search.msn.com
+0 2 2 1004 2 1580819980
+/css/
+86.55.181.93
+0 2 2 1440 1 1581039797
+/
+ip-54-36-148-57.a.ahrefs.com
+0 1 1 20480 0 0
+-
+msnbot-157-55-39-137.search.msn.com
+0 1 1 505 1 1580533400
+/css/
+aurum010.a.ahrefs.com
+0 3 3 16400 2 1580844775
+/
+ip-54-36-149-48.a.ahrefs.com
+0 1 1 0 0 0
+-
+ip-54-36-149-13.a.ahrefs.com
+0 1 1 266 0 0
+-
+ip-54-36-148-118.a.ahrefs.com
+0 1 1 15928 0 0
+-
+ip-54-36-149-99.a.ahrefs.com
+0 1 1 29175 0 0
+-
+ip-54-36-148-114.a.ahrefs.com
+0 1 1 15928 0 0
+-
+msnbot-157-55-39-181.search.msn.com
+0 3 3 2166 2 1581152066
+/
+ip-54-36-148-154.a.ahrefs.com
+0 1 1 9902 0 0
+-
+static.vnpt.vn
+0 1 0 1236 0 0
+-
+ip-54-36-150-127.a.ahrefs.com
+0 1 1 472 1 1580558678
+/fonts/
+google-proxy-66-249-93-75.google.com
+0 2 1 8580 0 0
+-
+ip-54-36-150-17.a.ahrefs.com
+0 1 1 4351 0 0
+-
+fetcher1-5.go.mail.ru
+0 1 1 722 1 1581448501
+/
+ip-54-36-150-50.a.ahrefs.com
+0 1 1 20480 0 0
+-
+ip-54-36-148-37.a.ahrefs.com
+0 1 1 1367 0 0
+-
+141-8-144-12.spider.yandex.com
+0 2 1 1960 1 1580965073
+/
+ip-54-36-148-60.a.ahrefs.com
+0 1 1 421 1 1581296311
+/js/
+ip-54-36-148-63.a.ahrefs.com
+0 1 1 23332 0 0
+-
+93-158-161-107.spider.yandex.com
+0 1 0 1236 0 0
+-
+ip-54-36-149-5.a.ahrefs.com
+0 1 1 16384 0 0
+-
+msnbot-40-77-167-106.search.msn.com
+0 5 4 3897 4 1580769594
+/
+ip-54-36-149-65.a.ahrefs.com
+0 1 1 15928 0 0
+-
+ip-54-36-150-92.a.ahrefs.com
+0 2 1 25803 1 1580777585
+-
+msnbot-207-46-13-218.search.msn.com
+0 3 3 1945 2 1580859608
+/
+ip-54-36-150-75.a.ahrefs.com
+0 2 1 1659 2 1581476196
+/js/
+ip-54-36-150-157.a.ahrefs.com
+0 1 1 26535 0 0
+-
+msnbot-207-46-13-72.search.msn.com
+0 3 3 2178 2 1581539285
+/
+ip-54-36-149-61.a.ahrefs.com
+0 1 1 9902 0 0
+-
+ip-54-36-148-54.a.ahrefs.com
+0 2 1 54812 0 0
+-
+msnbot-207-46-13-214.search.msn.com
+0 8 8 5783 6 1580810433
+/
+37-9-87-141.spider.yandex.com
+0 1 1 502 1 1581377036
+/css/
+crawl-66-249-73-10.googlebot.com
+0 1 0 1236 1 1581523611
+-
+54.174.53.4
+0 1 1 0 1 1581479770
+/
+ip-54-36-150-98.a.ahrefs.com
+0 1 1 423 1 1580963182
+/js/
+msnbot-40-77-167-78.search.msn.com
+0 6 5 4848 4 1581535967
+/
+ip-54-36-149-21.a.ahrefs.com
+0 1 0 1236 0 0
+-
+ip-54-36-149-12.a.ahrefs.com
+0 1 1 418 1 1581191362
+/js/
+ip-54-36-148-141.a.ahrefs.com
+0 1 1 472 1 1581133990
+/fonts/
+ip-54-36-148-7.a.ahrefs.com
+0 1 1 656 1 1580937085
+/img/
+ip-54-36-150-5.a.ahrefs.com
+0 1 1 340 1 1580885107
+/uploads/james/
+vz01-phx.stablehost.com
+0 10 10 757 0 0
+-
+msnbot-40-77-167-65.search.msn.com
+0 8 8 5360 5 1581586136
+/
+c-73-96-72-40.hsd1.or.comcast.net
+0 5 3 4171 1 1581603882
+/
+172.110.18.204
+0 1 0 1236 1 1581576216
+-
+ip-54-36-148-235.a.ahrefs.com
+0 1 0 1236 0 0
+-
+ip-54-36-148-101.a.ahrefs.com
+0 2 0 2472 0 0
+-
+ip-54-36-149-47.a.ahrefs.com
+0 2 2 36408 0 0
+-
+msnbot-40-77-167-127.search.msn.com
+0 4 4 2227 3 1580798371
+/
+ip-54-36-148-51.a.ahrefs.com
+0 2 2 16562 1 1581139221
+/
+141-8-143-137.spider.yandex.com
+0 1 1 810 1 1581386204
+/img/
+crawl-66-249-79-129.googlebot.com
+0 17 2 37441 10 1581207077
+-
+ip-54-36-150-170.a.ahrefs.com
+0 1 1 53288 0 0
+-
+ip-54-36-150-95.a.ahrefs.com
+0 1 1 15928 0 0
+-
+ip-54-36-150-61.a.ahrefs.com
+0 1 1 481 1 1580782379
+/fonts/
+aurum091.a.ahrefs.com
+0 3 3 1687 3 1581033751
+/
+cloud.alecsei.net.br
+0 3 3 3305 1 1581581931
+/
+ip-54-36-150-180.a.ahrefs.com
+0 2 2 54207 1 1580776232
+/
+ip-54-36-150-123.a.ahrefs.com
+0 2 2 9990 1 1581388498
+/fonts/
+ip-54-36-148-243.a.ahrefs.com
+0 1 0 1236 0 0
+-
+vm26383.hv8.ru
+0 1 1 0 1 1581547263
+/
+ip-54-36-150-133.a.ahrefs.com
+0 1 1 481 1 1580725778
+/fonts/
+ip-54-36-148-68.a.ahrefs.com
+0 1 1 24576 0 0
+-
+ip-54-36-148-94.a.ahrefs.com
+0 1 0 1236 0 0
+-
+ip-54-36-148-165.a.ahrefs.com
+0 2 2 16268 1 1580596567
+/uploads/james/
+ip-54-36-149-53.a.ahrefs.com
+0 1 1 55024 0 0
+-
+ip-54-36-148-182.a.ahrefs.com
+0 1 1 53576 0 0
+-
+ip-54-36-148-174.a.ahrefs.com
+0 2 1 17164 0 0
+-
+199.244.88.131
+0 1 1 722 1 1581273164
+/
+ip-54-36-150-100.a.ahrefs.com
+0 1 1 20480 0 0
+-
+ip-54-36-149-41.a.ahrefs.com
+0 1 1 4351 0 0
+-
+ip-54-36-150-158.a.ahrefs.com
+0 2 2 1842 1 1581373572
+/fonts/
+ip-54-36-148-170.a.ahrefs.com
+0 1 1 634 1 1581238583
+/
+msnbot-207-46-13-8.search.msn.com
+0 4 4 2161 3 1580751631
+/
+fetcher9-6.go.mail.ru
+0 1 0 1236 0 0
+-
+ip-54-36-149-63.a.ahrefs.com
+0 1 1 628 1 1581046136
+/
+crawl-66-249-79-131.googlebot.com
+0 10 1 15475 5 1581189853
+-
+ip-54-36-150-66.a.ahrefs.com
+0 1 1 15928 0 0
+-
+ip-54-36-148-190.a.ahrefs.com
+0 1 1 634 1 1580917728
+/
+ip-54-36-150-30.a.ahrefs.com
+0 1 1 422 1 1580753078
+/css/
+ip-54-36-150-32.a.ahrefs.com
+0 1 1 0 0 0
+-
+ip-54-36-149-20.a.ahrefs.com
+0 1 0 1236 0 0
+-
+ip-54-36-150-163.a.ahrefs.com
+0 1 1 630 1 1580988151
+/
+ip-54-36-150-53.a.ahrefs.com
+0 1 1 643 1 1581220747
+/img/
+41.109.135.144
+0 10 9 175241 0 0
+-
+ip-54-36-148-99.a.ahrefs.com
+0 1 1 15928 0 0
+-
+ip-54-36-150-68.a.ahrefs.com
+0 1 1 636 1 1581238472
+/
+136.253-157-192.rdns.scalabledns.com
+0 1 0 1236 1 1581023499
+-
+ip-54-36-150-26.a.ahrefs.com
+0 1 1 9515 0 0
+-
+ip-54-36-149-8.a.ahrefs.com
+0 1 0 1236 0 0
+-
+162.250.233.99
+0 1 0 1236 1 1581401257
+-
+ip-54-36-149-10.a.ahrefs.com
+0 1 1 418 1 1581408956
+/js/
+msnbot-157-55-39-52.search.msn.com
+0 1 1 726 1 1581257307
+/
+162.253.177.249
+0 1 0 1236 1 1580628542
+-
+ip-54-36-150-116.a.ahrefs.com
+0 2 2 1054 2 1580803488
+/
+crawl-66-249-73-12.googlebot.com
+0 1 0 1236 1 1581506303
+-
+ip-54-36-148-188.a.ahrefs.com
+0 2 1 1656 1 1581547117
+/js/
+ip-54-36-148-35.a.ahrefs.com
+0 1 0 1236 0 0
+-
+ip-54-36-148-197.a.ahrefs.com
+0 1 1 420 1 1581343918
+/css/
+ip-54-36-150-140.a.ahrefs.com
+0 1 1 4870 0 0
+-
+ip-54-36-149-56.a.ahrefs.com
+0 1 1 631 1 1581034355
+/
+104.36.84.102
+0 1 0 1236 1 1581472664
+-
+ip-54-36-149-18.a.ahrefs.com
+0 1 1 15928 0 0
+-
+msnbot-157-55-39-101.search.msn.com
+0 24 22 16302 16 1581271951
+/img/
+secure.trust-provider.net
+0 3 3 231 0 0
+-
+fetcher9-2.go.mail.ru
+0 1 0 1236 0 0
+-
+ip-54-36-148-29.a.ahrefs.com
+0 2 1 1882 1 1580848773
+/img/
+54.174.53.101
+0 1 1 0 1 1580874988
+/
+ip-54-36-150-121.a.ahrefs.com
+0 1 1 9902 0 0
+-
+103.73.66.18
+0 1 0 1236 1 1581240213
+-
+77-88-47-33.spider.yandex.com
+0 1 0 1236 0 0
+-
+ip-54-36-149-28.a.ahrefs.com
+0 1 1 480 1 1581519362
+/fonts/
+ip-54-36-148-0.a.ahrefs.com
+0 1 1 53576 0 0
+-
+ip-54-36-149-89.a.ahrefs.com
+0 1 1 472 1 1580660009
+/fonts/
+ip-54-36-150-39.a.ahrefs.com
+0 2 2 16583 1 1581194481
+/img/
+ec2-54-191-129-57.us-west-2.compute.amazonaws.com
+0 1 1 722 1 1581355463
+/
+ec2-3-10-206-15.eu-west-2.compute.amazonaws.com
+0 1 0 1236 0 0
+-
+ip-54-36-150-83.a.ahrefs.com
+0 1 1 24576 0 0
+-
+ip-54-36-148-169.a.ahrefs.com
+0 2 1 54812 0 0
+-
+ip-54-36-148-32.a.ahrefs.com
+0 1 1 15928 0 0
+-
+ip-54-36-150-15.a.ahrefs.com
+0 1 1 24576 0 0
+-
+crawl-66-249-79-133.googlebot.com
+0 12 5 55262 4 1580916553
+/
+ip-54-36-149-31.a.ahrefs.com
+0 1 1 659 1 1581509276
+/img/
+097-101-016-201.res.spectrum.com
+0 16 15 25895 3 1581626437
+/
+37.254.80.92
+0 2 2 1440 1 1580797366
+/
+ip-54-36-150-161.a.ahrefs.com
+0 2 2 16607 1 1581175907
+/img/
+msnbot-207-46-13-64.search.msn.com
+0 1 1 726 1 1581585285
+/
+ip-54-36-150-187.a.ahrefs.com
+0 2 2 27138 0 0
+-
+ip-54-36-150-159.a.ahrefs.com
+0 1 1 29175 0 0
+-
+google-proxy-66-249-93-73.google.com
+0 8 8 166661 0 0
+-
+ip-54-36-148-112.a.ahrefs.com
+0 3 3 16903 2 1581460374
+/
+ip-54-36-148-12.a.ahrefs.com
+0 2 2 36408 1 1580669086
+/
+crawl-66-249-65-107.googlebot.com
+0 2 0 2472 1 1581530077
+-
+ip-54-36-150-178.a.ahrefs.com
+0 1 1 479 1 1581556880
+/fonts/
+ip-54-36-148-160.a.ahrefs.com
+0 1 0 1236 0 0
+-
+ip-54-36-148-67.a.ahrefs.com
+0 1 1 421 1 1580862945
+/css/
+ip-54-36-150-77.a.ahrefs.com
+0 2 2 16559 1 1580549422
+/
+fetcher9-7.go.mail.ru
+0 2 0 2472 1 1581377212
+/
+ip-54-36-150-70.a.ahrefs.com
+0 1 1 15928 0 0
+-
+msnbot-207-46-13-138.search.msn.com
+0 9 9 6219 4 1581581649
+/js/
+msnbot-40-77-167-38.search.msn.com
+0 16 15 11303 7 1581547583
+/
+ip-54-36-150-94.a.ahrefs.com
+0 1 1 3270 0 0
+-
+ip-54-36-150-48.a.ahrefs.com
+0 2 2 37712 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+ec2-18-188-184-221.us-east-2.compute.amazonaws.com
+0 4 3 2935 1 1581646877
+/
+ec2-18-217-211-104.us-east-2.compute.amazonaws.com
+0 3 2 1650 1 1581640737
+/
+ec2-3-14-244-170.us-east-2.compute.amazonaws.com
+0 3 3 1699 1 1581646827
+/
+vz01-phx.stablehost.com
+0 10 10 757 0 0
+-
+secure.trust-provider.net
+0 3 3 231 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+http://knowledgedr.com/
+0 9
+http://www.sugardaddylink.com/
+0 8
+http://www.knowledgedr.com/_vfm-admin/
+0 1
+http://www.knowledgedr.com/_vfm-admin/css/font-awesome.min.css
+0 2
+http://www.knowledgedr.com/_vfm-admin/vfm-style.css
+0 2
+http://www.knowledgedr.com/
+0 2
+http://www.knowledgedr.com
+0 30
+https://www.google.com/
+0 2
+- (Direct Request)
+0 525
+http://sugardaddylink.com/
+0 7
+http://www.knowledgedr.com/_vfm-admin/login.php
+0 14
+http://knowledgedr.com/contact.html
+0 1
+http://knowledgedr.com
+0 11
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (X11; Linux x86_64; rv:7.01) Gecko/20100101 Firefox/7.01
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36
+0 7
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1 Safari/605.1.15
+0 16
+Mozilla/5.0 (X11; Datanyze; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+0 41
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.130 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; AffiliateLabz/1.0; +https://affiliatelabz.com/)
+0 1
+CheckMarkNetwork/1.0 (+http://www.checkmarknetwork.com/spider.html)
+0 3
+Mozilla/5.0 (compatible; AhrefsBot/6.1; +http://ahrefs.com/robot/)
+0 183
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36
+0 3
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 196
+COMODO DCV
+0 13
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:56.0) Gecko/20100101 Firefox/56.0
+0 10
+Go-http-client/1.1
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+0 5
+SocialSearcher/0.1  Mozilla/5.0
+0 3
+Googlebot-Image/1.0
+0 3
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Chrome/79.0.39
+0 5
+DLE_Spider.exe
+0 1
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/125.2 (KHTML, like Gecko) Safari/125.8
+0 1
+Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html
+0 3
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/600.6.3 (KHTML, like Gecko) Version/8.0.6 Safari/600.6.3
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.47 Safari/537.36
+0 1
+msnbot/2.0b (+http://search.msn.com/msnbot.htm)
+0 4
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:59.0) Gecko/20100101 Firefox/59.0
+0 2
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CL
+0 1
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile S
+0 8
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+0 13
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:29.0) Gecko/20100101 Firefox/29.0
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+0 4
+Mozilla/5.0 (compatible; Linux x86_64; Mail.RU_Bot/2.0; +http://go.mail.ru/help/robots)
+0 8
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.124 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:73.0) Gecko/20100101 Firefox/73.0
+0 6
+Mozilla/5.0 (Linux; Android 7.0; D1_Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.116 Mobile Safari/537.36
+0 11
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.106 Safari/535.2
+0 2
+Opera/9.80 (Windows NT 6.0) Presto/2.12.388 Version/12.14
+0 1
+Mozilla/5.0 (Windows; U; MSIE 9.0; Windows NT 9.0; en-US)
+0 1
+curl/7.47.0
+0 3
+HubSpot Connect 2.0 (http://dev.hubspot.com/) - BizOpsCompanies-Tq2-BizCoDomainValidationAudit
+0 2
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

@@ -1,0 +1,27 @@
+; cPanel first:84.0.21 (update_time):1581611991 Cpanel::ZoneFile::VERSION:1.3 hostname:pcluster18.stablehost.com latest:84.0.21
+; Zone file for sugardaddylink.com
+$TTL 3600
+sugardaddylink.com.	86400	IN	SOA	ns1.stablehost.com.	sysadmin.stablehost.com.	(
+						2020021304 ;Serial Number
+						7200 ;refresh
+						3600 ;retry
+						1209600 ;expire
+						3600	)
+
+sugardaddylink.com.	86400	IN	NS	ns1.stablehost.com.
+sugardaddylink.com.	86400	IN	NS	ns2.stablehost.com.
+
+
+sugardaddylink.com.	3600	IN	A	184.154.46.57
+sugardaddylink.com.	3600	IN	MX	0	sugardaddylink.com.
+
+mail	3600	IN	A	184.154.46.57
+www	3600	IN	CNAME	sugardaddylink.com.
+webmail	14400	IN	A	184.154.46.57
+whm	14400	IN	A	184.154.46.57
+webdisk	14400	IN	A	184.154.46.57
+cpcalendars	14400	IN	A	184.154.46.57
+cpanel	14400	IN	A	184.154.46.57
+cpcontacts	14400	IN	A	184.154.46.57
+_cpanel-dcv-test-record	14400	IN	TXT	_cpanel-dcv-test-record=UPM0IKygE08UJqDiXTLd2pYLgNiA_Ln0VcdtBmJR4SlQyUifXI0ccUjR1JwDVFa2
+default._domainkey	3600	IN	TXT	"v=DKIM1; k=rsa; p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsj5CHbrTxfDyeT7c3/c8kNTltJXz6efYbXDuginBrZmFubna7HnsPsksRiejVdfpUIiv2VMWLaFKDMHPa3JeCpMj8WykrJVzlvYhC7POVi65CyyorP10kEuPR1Kvf62ARIG6S8hx/hJx7THodEWB3yRRFyWjxwierHehAgbOjcCu/BlzWJauLmSgwWXw7SdHw" hxSVcc/7Z2AgwQH9gbdTiODmaG+eKphu5e+CkcrvERPQ/pfmoAZIOgImpDqD2LhZmqZc7575yEdB7sCrGXUHM8ig9hJwxavZ96PG916qTLu4lwE7Y8GtJ5/7quZB+TFSM4gswdFUdrr4EhH54arjwIDAQAB\;

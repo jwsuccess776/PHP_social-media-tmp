@@ -1,0 +1,303 @@
+<html>
+<head>
+    <title> OpenTok Getting Started </title>
+    <link href="css/app.css" rel="stylesheet" type="text/css">
+    <script src="https://static.opentok.com/v2/js/opentok.js" charset="utf-8"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+    <style type="text/css">
+        #videos{
+            width: 75%;
+            position: relative;
+            float: left;
+        }
+        #publisher{
+            width: 120px;
+            height: 120px;
+            position: absolute;
+            bottom: 20px;
+            right: 30px;
+        }
+        #textchat {width: 24%;float: right; border: 2px solid #eeeeee; position: relative;}
+        #textchat .view {height: 80%;}
+        .emoji_box {font-size: 25px;margin-bottom: 10%;background: rgb(255, 255, 255);height: 175px;padding: 0px;overflow: scroll;}
+        .emoji_box li {list-style:none;display: inline-flex;}
+        .emoji_box li a {text-decoration: none;}
+        p.mine {
+            float: right;
+            margin: 5px 8px;
+            padding: 6px 13px;
+            background-color: #abf7ae;
+            border-radius: 30px;
+            clear: both;
+        }
+        p.theirs {
+            margin: 5px 8px;
+            padding: 6px 13px;
+            background-color: #51f357;
+            border-radius: 30px;
+            float: left;
+            clear: both;
+        }
+        .message_form {
+            height: 37px;
+            margin: 0;
+            position: absolute;
+            width: 100%;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+
+    <div id="videos">
+        <div id="subscriber"></div>
+        <div id="publisher"></div>
+    </div>
+    
+    <div id="textchat">
+        <div class="view" id="history"></div>
+        <form name="chat_form" id="target" method="post" class="message_form" enctype="multipart/form-data">
+         <input type="hidden" name="user_id">
+         <table style="width: 100%">
+            <tr>
+                <td style="width: 85%"> 
+                    <input type="text" placeholder="Input your text here" id="msgTxt" style="height: 34px;width: 100%">
+                </td>
+                <td>
+                    <img src="img/download.png" class="check_emoji" style="width: 90%;float: right;max-width: 35px;">
+                </td>
+          <!--       <td>
+                    <label for="input-chat-file">
+                        <img src="https://www.slavicgirls4u.com/inc/templates/v22_design/chat_system/img/camera.png" class="input-chat-file" style="width: 80%;float: right;" />
+                    </label>
+                </td> -->
+            </tr>
+         </table>
+        <input type="file" id="input-chat-file" name="fileupload" style="display: none;">
+        <input type="submit" id="msg_submit" name="" style="visibility: hidden;">
+        </form>
+        <ul class="emoji_box" style="position: absolute;bottom: 0;margin-top: 2px;display: none;">
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F601</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F602</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F603</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F604</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F605</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F606</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F609</a></li>
+
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1f60a</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1f60b</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1f60c</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F60D</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F60F</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F612</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F613</a></li>
+
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F614</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F616</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F618</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F61A</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F61C</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F61D</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F61E</a></li>
+
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F620</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F621</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F622</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F623</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F624</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F625</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F628</a></li>
+
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F629</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F62A</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F62B</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F62D</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F630</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F631</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F632</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F633</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F635</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F637</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F638</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F639</a></li>
+
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F63A</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F63B</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F63C</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F63D</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F63E</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F63F</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F640</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F645</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F646</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F647</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F648</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F649</a></li>
+
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F64A</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F64B</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F64C</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F64D</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F64E</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F64F</a></li>
+
+            
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F640</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F645</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F646</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F647</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F648</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F649</a></li>
+
+            <li><a class="emoji_img" href="javascript:void(0)">&#x2702</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x2705</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x2708</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x2709</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x270A</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x270B</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x270C</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x270F</a></li>
+
+            <li><a class="emoji_img" href="javascript:void(0)">&#x2712</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x2714</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x2716</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x2728</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x2733</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x2734</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x2744</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x2747</a></li>
+
+            <li><a class="emoji_img" href="javascript:void(0)">&#x274C</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x274E</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x2753</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x2754</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x2755</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x2757</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x2764</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x2795</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x2796</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x2797</a></li>
+
+            <li><a class="emoji_img" href="javascript:void(0)">&#x27A1</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x27B0</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F680</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F683</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F684</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F685</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F687</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F689</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F68C</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F68F</a></li>
+
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F691</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F692</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F693</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F695</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F697</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F699</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F69A</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F6A2</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F6A4</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F6A5</a></li>
+
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F6A7</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F6A8</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F6A9</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F6AA</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F6AB</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F6AC</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F6AD</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F6B2</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F6B6</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F6B9</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F6BA</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F6BB</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F6BC</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F6BD</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F6BE</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F6C0</a></li>
+
+            <li><a class="emoji_img" href="javascript:void(0)">&#x24c2</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F170</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F171</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F17E</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F18E</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F191</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F192</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F193</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F194</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F195</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F196</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F197</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F198</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F199</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F19A</a></li>
+
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F567</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F566</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F565</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F564</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F563</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F562</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F561</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F560</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F55F</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F55E</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F55D</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F55C</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F52D</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F52C</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F515</a></li>
+
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F509</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F507</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F506</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F505</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F504</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F502</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F501</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F500</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F4F5</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F4EF</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F4ED</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F4EC</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F4BC</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F4B6</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F4AD</a></li>
+
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F46D</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F46C</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F465</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F42A</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F416</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F415</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F413</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F410</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F40F</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F40B</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F40A</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F409</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F408</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F407</a></li>
+            <li><a class="emoji_img" href="javascript:void(0)">&#x1F406</a></li>
+        </ul>
+    </div>
+           
+  <br/>
+</div>
+    </div>    
+    <script type="text/javascript" src="js/app.js"></script>
+    <script type="text/javascript">
+        $('.check_emoji').click(function() {
+            $('.emoji_box').slideToggle('slow');
+        });
+        $('.emoji_img').click(function() {
+            var emoji_val = $(this).text(); 
+            var msgValue = $('#msgTxt').val();
+            var newMsg = msgValue+' '+emoji_val;
+            $('#msgTxt').val(newMsg);
+        });
+    </script>
+</body>
+</html>

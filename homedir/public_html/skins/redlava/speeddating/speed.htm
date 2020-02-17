@@ -1,0 +1,145 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>
+<?=$CONST_COMPANY?>
+</title>
+<meta name="Keywords" content="dating, online dating, internet dating, russian dating, uk dating,
+london dating, romance, relationships, marriage, free personals, online chat, chat, chat room, single men,
+single women, service, personal ads, photo profile,  matchmaking, meet people, free, online,  single, christian dating,
+jewish dating, asian dating, women, dating site, personals, matchmaker, couples,
+swinging, gay dating, lesbian dating, gay, lesbian, relationship,  on-line, marriage, women,
+chat, romance, interracial dating,  adult dating,  love, introduction, swinging, couples,  personals,
+relationship, personal, ladies, dating agency" />
+<meta name="Description" content="Online dating free dating gay dating site with chat room and adult dating. Looking for new ways to find a date?  Try a Keyword Search to find people with similar interests or a Custom Search
+to describe exactly what you want in a dream date." />
+<meta name="ROBOTS" content="INDEX, FOLLOW" />
+<meta name="language" content="en" />
+<link rel='stylesheet' type='text/css' href='<?=$CONST_LINK_ROOT.$skin->Path?>template.css' />
+<link rel='stylesheet' type='text/css' href='<?=$CONST_LINK_ROOT.$skin->Path?>core.css' />
+<LINK rel='stylesheet' type='text/css' href="<?=$CONST_LINK_ROOT.$skin->Path?>speeddating/speeddating.css" >
+<script language="JavaScript" src="<?=$CONST_LINK_ROOT?>jscript_lib.js.php" type="text/javascript"></script>
+</head>
+<body>
+<div id="wrapper">
+<!-- Start Header -->
+<div id="header">
+  <div id="header_left">
+    <?php if (isset($_SESSION['Sess_UserId'])){	?>
+    <a href="<?=$CONST_LINK_ROOT?>/home.php"><img src="<?=$CONST_IMAGE_ROOT?>logo.gif" alt="<?=$CONST_COMPANY?>" width="350" height="95" border="0" /></a>
+    <?php } else { ?>
+    <a href="<?=$CONST_LINK_ROOT?>/index.php"><img src="<?=$CONST_IMAGE_ROOT?>logo.gif" alt="<?=$CONST_COMPANY?>" width="350" height="95" border="0" /></a>
+    <?php }	?>
+  </div>
+  <div id="header_right">
+    <?php if (isset($_SESSION['Sess_UserId'])){	?>
+    <a href="<?=$CONST_LINK_ROOT?>/home.php">
+    <?=$MENU_HOME?>
+    </a> | <a href="<?=$CONST_LINK_ROOT?>/speeddating/register.php" >Register</a>
+    <? } else { ?>
+    <a href="<?=$CONST_LINK_ROOT?>/index.php">
+    <?=$MENU_HOME?>
+    </a>
+    <? } ?>
+    |
+    <?=$generatedLogin?>
+    | <a href="<?=$CONST_LINK_ROOT?>/speeddating/aboutus.php">About Us</a> | <a href="<?=$CONST_LINK_ROOT?>/speeddating/stories_list.php">Stories</a> | <a href="<?=$CONST_LINK_ROOT?>/speeddating/help.php"  >Help</a> </div>
+</div>
+<!-- End Header - Start Nav -->
+<div id="nav">
+  <div id="nav_inner"> <a href="<?=$CONST_LINK_ROOT?>/speeddating/index.php"  >Speed Dating Home</a><a href="<?=$CONST_LINK_ROOT?>/speeddating/home.php">Personal Page</a><a href="<?=$CONST_LINK_ROOT?>/speeddating/tipafriend.php" >Tell a Friend</a></div>
+</div>
+<!-- End Nav - Start Content -->
+<div id="content">
+<div id="content_inner">
+
+HERE      <div class="clearBoth"></div>
+    </div>
+  </div>
+  <!-- End Content - Start Footer -->
+  <div id="footer">
+    <div id="footer_inner">
+      <div id="footer_content">
+        <div class="footer_cell">
+          <?php if (isset($_SESSION['Sess_UserId'])){	?>
+          <a href="<?=$CONST_LINK_ROOT?>/get_premium.php">
+          <?=HOME_UPGRADE?>
+          </a>
+          <?php } else { ?>
+          <a href="<?=$CONST_LINK_ROOT?>/register.php">
+          <?=$MENU_REGISTER?>
+          </a>
+          <?php }	?>
+          <br />
+          <a href="<?php echo $CONST_LINK_ROOT?>/myinfo.php">
+          <?= HOME_SETTINGS?>
+          </a><br />
+          <a href="<?="$CONST_LINK_ROOT/prgpicadmin.php?mode=show"?>">
+          <?= HOME_VIDEO?>
+          </a><br />
+          <a href="<?php echo $CONST_LINK_ROOT?>/prgamendad.php">
+          <?= HOME_PROFILE?>
+          </a><br />
+          <a href="<?php echo $CONST_LINK_ROOT?>/prgamendreg.php"><?php echo MYINFO_LINK_REGISTRATION?></a><br />
+          <a href="<?php echo $CONST_LINK_ROOT?>/eventscalendar.php">
+          <?= HOME_CALENDAR?>
+          </a><br />
+          <a href="<?php echo $CONST_LINK_ROOT?>/whoson.php">
+          <?= HOME_WHOSEON?>
+          </a> </div>
+        <div class="footer_cell"><a class='forumlinks' href="<?php echo $CONST_LINK_ROOT?>/invitefriend.php">
+          <?= HOME_INVITE_FRIENDS?>
+          </a><br />
+          <a href="<?php echo $CONST_LINK_ROOT?>/interested_in_me.php">
+          <?= HOME_INTERESTED_IN_ME?>
+          </a><br />
+          <a href="javascript:MDM_openWindow('<?php echo $CONST_LINK_ROOT?>/prgencounters.php','Encounters','scrollbars=yes, width=560,height=550')">
+          <?= HOME_ENCOUNT?>
+          </a><br />
+          <a href="<?php echo $CONST_LINK_ROOT?>/my_interests.php">
+          <?= HOME_MY_INTERESTS?>
+          </a><br />
+          <a href="<?php echo $CONST_LINK_ROOT?>/my_matches.php">
+          <?= HOME_MYMATCH?>
+          </a><br />
+          <a href="<?php echo $CONST_GROUPS_LINK_ROOT?>/my_groups.php">
+          <?= HOME_GROUPS?>
+          </a><br />
+          <a href="<?php echo $CONST_LINK_ROOT?>/prgmailblock.php"><?php echo MYINFO_LINK_MANAGE?></a></div>
+        <div class="footer_cell">
+          <?php if (isset($_SESSION['Sess_UserId'])){	?>
+          <a href="<?=$CONST_LINK_ROOT?>/logoff.php">
+          <?=$MENU_LOGOUT?>
+          </a>
+          <?php } else { ?>
+          <a href="<?=$CONST_LINK_ROOT?>/login.php">
+          <?=$MENU_LOGIN?>
+          </a>
+          <?php }	?>
+          <br />
+          <a href="<?=$CONST_LINK_ROOT?>/disclaimer.php">
+          <?=$MENU_DISCLAIMER?>
+          </a> <br />
+          <a href="<?=$CONST_LINK_ROOT?>/contact.php">
+          <?=$MENU_CONTACT?>
+          </a> <br />
+          <a href="<?=$CONST_LINK_ROOT?>/scheme.php">
+          <?=$MENU_AFFILIATES?>
+          </a> <br />
+          <a href="<?=$CONST_LINK_ROOT?>/privacy.php">
+          <?=$MENU_PRIVACY?>
+          </a><br />
+          <br />
+          <?php echo "Copyright &copy; ".date("Y")." ".$CONST_COMPANY; ?> </div>
+        <div class="clearBoth"></div>
+      </div>
+    </div>
+  </div>
+  <!-- End Footer -->
+</div>
+<div id="language">
+  <?= $CONST_LINK_LANG_SWITCHER;?>
+</div>
+</body>
+</html>

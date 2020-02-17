@@ -1,0 +1,10 @@
+{
+   "subscriber_unique_id" : "STABLEHOST.UCZxmgXLapFQcoQZ9Drv/Q==",
+   "label" : "Download Resources",
+   "group_id" : "whmcs",
+   "implements" : "",
+   "url" : "https://billing.stablehost.com/index.php?rp=/download&ssoredirect=1",
+   "autologin_token_url" : "https://billing.stablehost.com/oauth/token.php?scope=clientarea%3Asso+clientarea%3Adownloads&module_type=server&module=cpanel",
+   "base64_png_image" : "iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAAAQlBMVEUAAADOzs7Ozs7Ozs7t7e3Ozs7Ozs7t7e3t7e0Ym9glMjwyPkdNsN1XYWhbtd99hImip6uq0+bF3unOzs7c3Nzt7e2Y2TCUAAAACXRSTlMAQFBgj6/f3+/npsWFAAAAmUlEQVR4Ae3SsQ7CMAyE4QCBQoJbt8bv/6owoJMpIrpMINGb/2+w5PSy/cn883Ja72BmTgn0bTC8923gq54E6FmAngfoeYCeBOhJsLNOcOwFsb8xwOl9E0gpsoEWmESkPCYiEwVqwSoFtGDKgCCUPVrRMwBCnQAQtervvPdyDVsIMF7CRgLMEczdN/w12MDA9ucnyCzICYLv78X3mW+KzHVUAAAAAElFTkSuQmCC",
+   "order" : "1"
+}

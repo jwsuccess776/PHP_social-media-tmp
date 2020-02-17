@@ -1,0 +1,70 @@
+Return-Path: <>
+Delivered-To: knowled5@pcluster18.stablehost.com
+Received: from pcluster18.stablehost.com
+	by pcluster18.stablehost.com with LMTP
+	id iPj+NF2SpVwBNjAASrJg7Q
+	(envelope-from <>)
+	for <knowled5@pcluster18.stablehost.com>; Wed, 03 Apr 2019 22:13:01 -0700
+Return-path: <>
+Envelope-to: knowled5@pcluster18.stablehost.com
+Delivery-date: Wed, 03 Apr 2019 22:13:02 -0700
+Received: from mailnull by pcluster18.stablehost.com with local (Exim 4.91)
+	id 1hBugP-00DNCt-OW
+	for knowled5@pcluster18.stablehost.com; Wed, 03 Apr 2019 22:13:01 -0700
+X-Failed-Recipients: admin@knowledgedr.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@pcluster18.stablehost.com>
+To: knowled5@pcluster18.stablehost.com
+Content-Type: multipart/report; report-type=delivery-status; boundary=1554354781-eximdsn-895001474
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1hBugP-00DNCt-OW@pcluster18.stablehost.com>
+Date: Wed, 03 Apr 2019 22:13:01 -0700
+
+--1554354781-eximdsn-895001474
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  admin@knowledgedr.com
+    No Such User Here
+
+--1554354781-eximdsn-895001474
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; pcluster18.stablehost.com
+
+Action: failed
+Final-Recipient: rfc822;admin@knowledgedr.com
+Status: 5.0.0
+
+--1554354781-eximdsn-895001474
+Content-type: message/rfc822
+
+Return-path: <knowled5@pcluster18.stablehost.com>
+Received: from knowled5 by pcluster18.stablehost.com with local (Exim 4.91)
+	(envelope-from <knowled5@pcluster18.stablehost.com>)
+	id 1hBugP-00DN96-EA
+	for admin@knowledgedr.com; Wed, 03 Apr 2019 22:13:01 -0700
+To: admin@knowledgedr.com
+Subject: [KnowledgeDr] New User Registration
+X-PHP-Script: knowledgedr.com/wp-login.php for 95.174.64.154
+X-PHP-Filename: /home/knowled5/public_html/wp-login.php REMOTE_ADDR: 95.174.64.154
+Date: Thu, 4 Apr 2019 05:13:01 +0000
+From: WordPress <wordpress@knowledgedr.com>
+Message-ID: <56e1332d1f3a186471ee8b08645d105c@knowledgedr.com>
+X-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+New user registration on your site KnowledgeDr:
+
+Username: shellydennis
+
+Email: viliticcosg1982@poczta.pl
+
+
+--1554354781-eximdsn-895001474--

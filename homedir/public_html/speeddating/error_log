@@ -1,0 +1,367 @@
+[27-Feb-2019 19:47:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/idatemedia/public_html/dating/skins/grunge/speeddating/index.php:216
+Stack trace:
+#0 /home/idatemedia/public_html/dating/lib/class.Skin.php(75): include()
+#1 /home/idatemedia/public_html/dating/speeddating/index.php(21): Skin->ShowIndex('speeddating')
+#2 {main}
+  thrown in /home/idatemedia/public_html/dating/skins/grunge/speeddating/index.php on line 216
+[27-Feb-2019 19:48:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/idatemedia/public_html/dating/skins/grunge/speeddating/index.php:216
+Stack trace:
+#0 /home/idatemedia/public_html/dating/lib/class.Skin.php(75): include()
+#1 /home/idatemedia/public_html/dating/speeddating/index.php(21): Skin->ShowIndex('speeddating')
+#2 {main}
+  thrown in /home/idatemedia/public_html/dating/skins/grunge/speeddating/index.php on line 216
+[27-Feb-2019 19:48:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/idatemedia/public_html/dating/skins/grunge/speeddating/index.php:216
+Stack trace:
+#0 /home/idatemedia/public_html/dating/lib/class.Skin.php(75): include()
+#1 /home/idatemedia/public_html/dating/speeddating/index.php(21): Skin->ShowIndex('speeddating')
+#2 {main}
+  thrown in /home/idatemedia/public_html/dating/skins/grunge/speeddating/index.php on line 216
+[27-Feb-2019 19:54:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/idatemedia/public_html/dating/skins/grunge/speeddating/index.php:216
+Stack trace:
+#0 /home/idatemedia/public_html/dating/lib/class.Skin.php(75): include()
+#1 /home/idatemedia/public_html/dating/speeddating/index.php(21): Skin->ShowIndex('speeddating')
+#2 {main}
+  thrown in /home/idatemedia/public_html/dating/skins/grunge/speeddating/index.php on line 216
+[27-Feb-2019 19:54:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/idatemedia/public_html/dating/skins/grunge/speeddating/index.php:216
+Stack trace:
+#0 /home/idatemedia/public_html/dating/lib/class.Skin.php(75): include()
+#1 /home/idatemedia/public_html/dating/speeddating/index.php(21): Skin->ShowIndex('speeddating')
+#2 {main}
+  thrown in /home/idatemedia/public_html/dating/skins/grunge/speeddating/index.php on line 216
+[27-Feb-2019 20:03:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/idatemedia/public_html/dating/skins/grunge/speeddating/index.php:216
+Stack trace:
+#0 /home/idatemedia/public_html/dating/lib/class.Skin.php(75): include()
+#1 /home/idatemedia/public_html/dating/speeddating/index.php(21): Skin->ShowIndex('speeddating')
+#2 {main}
+  thrown in /home/idatemedia/public_html/dating/skins/grunge/speeddating/index.php on line 216
+[27-Feb-2019 20:04:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/idatemedia/public_html/dating/skins/grunge/speeddating/index.php:216
+Stack trace:
+#0 /home/idatemedia/public_html/dating/lib/class.Skin.php(75): include()
+#1 /home/idatemedia/public_html/dating/speeddating/index.php(21): Skin->ShowIndex('speeddating')
+#2 {main}
+  thrown in /home/idatemedia/public_html/dating/skins/grunge/speeddating/index.php on line 216
+[28-Feb-2019 21:35:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/idatemedia/public_html/dating/skins/grunge/speeddating/index.php:216
+Stack trace:
+#0 /home/idatemedia/public_html/dating/lib/class.Skin.php(75): include()
+#1 /home/idatemedia/public_html/dating/speeddating/index.php(21): Skin->ShowIndex('speeddating')
+#2 {main}
+  thrown in /home/idatemedia/public_html/dating/skins/grunge/speeddating/index.php on line 216
+[28-Feb-2019 21:37:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/idatemedia/public_html/dating/speeddating/home.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/idatemedia/public_html/dating/speeddating/home.php on line 30
+[28-Feb-2019 21:37:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/idatemedia/public_html/dating/speeddating/stories_list.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/idatemedia/public_html/dating/speeddating/stories_list.php on line 30
+[01-Mar-2019 02:59:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/idatemedia/public_html/dating/skins/grunge/speeddating/index.php:216
+Stack trace:
+#0 /home/idatemedia/public_html/dating/lib/class.Skin.php(75): include()
+#1 /home/idatemedia/public_html/dating/speeddating/index.php(21): Skin->ShowIndex('speeddating')
+#2 {main}
+  thrown in /home/idatemedia/public_html/dating/skins/grunge/speeddating/index.php on line 216
+[01-Mar-2019 11:31:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/idatemedia/public_html/dating/speeddating/home.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/idatemedia/public_html/dating/speeddating/home.php on line 30
+[01-Mar-2019 19:39:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/idatemedia/public_html/dating/skins/grunge/speeddating/index.php:216
+Stack trace:
+#0 /home/idatemedia/public_html/dating/lib/class.Skin.php(75): include()
+#1 /home/idatemedia/public_html/dating/speeddating/index.php(21): Skin->ShowIndex('speeddating')
+#2 {main}
+  thrown in /home/idatemedia/public_html/dating/skins/grunge/speeddating/index.php on line 216
+[03-Mar-2019 05:27:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/idatemedia/public_html/dating/speeddating/stories_list.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/idatemedia/public_html/dating/speeddating/stories_list.php on line 30
+[07-Mar-2019 08:20:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/idatemedia/public_html/dating/skins/grunge/speeddating/index.php:216
+Stack trace:
+#0 /home/idatemedia/public_html/dating/lib/class.Skin.php(75): include()
+#1 /home/idatemedia/public_html/dating/speeddating/index.php(21): Skin->ShowIndex('speeddating')
+#2 {main}
+  thrown in /home/idatemedia/public_html/dating/skins/grunge/speeddating/index.php on line 216
+[07-Mar-2019 18:04:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/idatemedia/public_html/dating/skins/grunge/speeddating/index.php:216
+Stack trace:
+#0 /home/idatemedia/public_html/dating/lib/class.Skin.php(75): include()
+#1 /home/idatemedia/public_html/dating/speeddating/index.php(21): Skin->ShowIndex('speeddating')
+#2 {main}
+  thrown in /home/idatemedia/public_html/dating/skins/grunge/speeddating/index.php on line 216
+[08-Mar-2019 03:47:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/idatemedia/public_html/dating/skins/grunge/speeddating/index.php:216
+Stack trace:
+#0 /home/idatemedia/public_html/dating/lib/class.Skin.php(75): include()
+#1 /home/idatemedia/public_html/dating/speeddating/index.php(21): Skin->ShowIndex('speeddating')
+#2 {main}
+  thrown in /home/idatemedia/public_html/dating/skins/grunge/speeddating/index.php on line 216
+[08-Mar-2019 05:15:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/idatemedia/public_html/dating/skins/sunburst/speeddating/index.php:215
+Stack trace:
+#0 /home/idatemedia/public_html/dating/lib/class.Skin.php(75): include()
+#1 /home/idatemedia/public_html/dating/speeddating/index.php(21): Skin->ShowIndex('speeddating')
+#2 {main}
+  thrown in /home/idatemedia/public_html/dating/skins/sunburst/speeddating/index.php on line 215
+[08-Mar-2019 05:16:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/idatemedia/public_html/dating/speeddating/stories_list.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/idatemedia/public_html/dating/speeddating/stories_list.php on line 30
+[08-Mar-2019 05:16:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/idatemedia/public_html/dating/skins/sunburst/speeddating/index.php:215
+Stack trace:
+#0 /home/idatemedia/public_html/dating/lib/class.Skin.php(75): include()
+#1 /home/idatemedia/public_html/dating/speeddating/index.php(21): Skin->ShowIndex('speeddating')
+#2 {main}
+  thrown in /home/idatemedia/public_html/dating/skins/sunburst/speeddating/index.php on line 215
+[08-Mar-2019 12:50:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/idatemedia/public_html/dating/skins/grunge/speeddating/index.php:216
+Stack trace:
+#0 /home/idatemedia/public_html/dating/lib/class.Skin.php(75): include()
+#1 /home/idatemedia/public_html/dating/speeddating/index.php(21): Skin->ShowIndex('speeddating')
+#2 {main}
+  thrown in /home/idatemedia/public_html/dating/skins/grunge/speeddating/index.php on line 216
+[14-Mar-2019 03:38:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/idatemedia/public_html/dating/skins/grunge/speeddating/index.php:216
+Stack trace:
+#0 /home/idatemedia/public_html/dating/lib/class.Skin.php(75): include()
+#1 /home/idatemedia/public_html/dating/speeddating/index.php(21): Skin->ShowIndex('speeddating')
+#2 {main}
+  thrown in /home/idatemedia/public_html/dating/skins/grunge/speeddating/index.php on line 216
+[14-Mar-2019 14:43:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/idatemedia/public_html/dating/skins/grunge/speeddating/index.php:216
+Stack trace:
+#0 /home/idatemedia/public_html/dating/lib/class.Skin.php(75): include()
+#1 /home/idatemedia/public_html/dating/speeddating/index.php(21): Skin->ShowIndex('speeddating')
+#2 {main}
+  thrown in /home/idatemedia/public_html/dating/skins/grunge/speeddating/index.php on line 216
+[15-Mar-2019 00:03:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/idatemedia/public_html/dating/speeddating/adm_waiting_list.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/idatemedia/public_html/dating/speeddating/adm_waiting_list.php on line 25
+[15-Mar-2019 00:04:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/idatemedia/public_html/dating/speeddating/adm_events.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/idatemedia/public_html/dating/speeddating/adm_events.php on line 91
+[15-Mar-2019 15:51:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/idatemedia/public_html/dating/skins/grunge/speeddating/index.php:216
+Stack trace:
+#0 /home/idatemedia/public_html/dating/lib/class.Skin.php(75): include()
+#1 /home/idatemedia/public_html/dating/speeddating/index.php(21): Skin->ShowIndex('speeddating')
+#2 {main}
+  thrown in /home/idatemedia/public_html/dating/skins/grunge/speeddating/index.php on line 216
+[16-Mar-2019 01:51:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/idatemedia/public_html/dating/skins/steel/speeddating/index.php:214
+Stack trace:
+#0 /home/idatemedia/public_html/dating/lib/class.Skin.php(75): include()
+#1 /home/idatemedia/public_html/dating/speeddating/index.php(21): Skin->ShowIndex('speeddating')
+#2 {main}
+  thrown in /home/idatemedia/public_html/dating/skins/steel/speeddating/index.php on line 214
+[16-Mar-2019 01:52:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/idatemedia/public_html/dating/speeddating/stories_list.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/idatemedia/public_html/dating/speeddating/stories_list.php on line 30
+[16-Mar-2019 01:52:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/idatemedia/public_html/dating/speeddating/home.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/idatemedia/public_html/dating/speeddating/home.php on line 30
+[16-Mar-2019 01:52:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/idatemedia/public_html/dating/skins/steel/speeddating/index.php:214
+Stack trace:
+#0 /home/idatemedia/public_html/dating/lib/class.Skin.php(75): include()
+#1 /home/idatemedia/public_html/dating/speeddating/index.php(21): Skin->ShowIndex('speeddating')
+#2 {main}
+  thrown in /home/idatemedia/public_html/dating/skins/steel/speeddating/index.php on line 214
+[16-Mar-2019 01:52:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/idatemedia/public_html/dating/speeddating/event_list.php:99
+Stack trace:
+#0 {main}
+  thrown in /home/idatemedia/public_html/dating/speeddating/event_list.php on line 99
+[16-Mar-2019 01:53:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/idatemedia/public_html/dating/speeddating/stories_list.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/idatemedia/public_html/dating/speeddating/stories_list.php on line 30
+[17-Mar-2019 13:46:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/idatemedia/public_html/dating/skins/grunge/speeddating/index.php:216
+Stack trace:
+#0 /home/idatemedia/public_html/dating/lib/class.Skin.php(75): include()
+#1 /home/idatemedia/public_html/dating/speeddating/index.php(21): Skin->ShowIndex('speeddating')
+#2 {main}
+  thrown in /home/idatemedia/public_html/dating/skins/grunge/speeddating/index.php on line 216
+[18-Mar-2019 00:43:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/idatemedia/public_html/dating/skins/grunge/speeddating/index.php:216
+Stack trace:
+#0 /home/idatemedia/public_html/dating/lib/class.Skin.php(75): include()
+#1 /home/idatemedia/public_html/dating/speeddating/index.php(21): Skin->ShowIndex('speeddating')
+#2 {main}
+  thrown in /home/idatemedia/public_html/dating/skins/grunge/speeddating/index.php on line 216
+[18-Mar-2019 08:39:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/idatemedia/public_html/dating/skins/grunge/speeddating/index.php:216
+Stack trace:
+#0 /home/idatemedia/public_html/dating/lib/class.Skin.php(75): include()
+#1 /home/idatemedia/public_html/dating/speeddating/index.php(21): Skin->ShowIndex('speeddating')
+#2 {main}
+  thrown in /home/idatemedia/public_html/dating/skins/grunge/speeddating/index.php on line 216
+[18-Mar-2019 08:41:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/idatemedia/public_html/dating/skins/grunge/speeddating/index.php:216
+Stack trace:
+#0 /home/idatemedia/public_html/dating/lib/class.Skin.php(75): include()
+#1 /home/idatemedia/public_html/dating/speeddating/index.php(21): Skin->ShowIndex('speeddating')
+#2 {main}
+  thrown in /home/idatemedia/public_html/dating/skins/grunge/speeddating/index.php on line 216
+[18-Mar-2019 08:41:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/idatemedia/public_html/dating/speeddating/home.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/idatemedia/public_html/dating/speeddating/home.php on line 30
+[18-Mar-2019 13:15:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/idatemedia/public_html/dating/skins/grunge/speeddating/index.php:216
+Stack trace:
+#0 /home/idatemedia/public_html/dating/lib/class.Skin.php(75): include()
+#1 /home/idatemedia/public_html/dating/speeddating/index.php(21): Skin->ShowIndex('speeddating')
+#2 {main}
+  thrown in /home/idatemedia/public_html/dating/skins/grunge/speeddating/index.php on line 216
+[19-Mar-2019 14:55:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/idatemedia/public_html/dating/speeddating/adm_stories.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/idatemedia/public_html/dating/speeddating/adm_stories.php on line 73
+[21-Mar-2019 02:44:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/idatemedia/public_html/dating/skins/grunge/speeddating/index.php:216
+Stack trace:
+#0 /home/idatemedia/public_html/dating/lib/class.Skin.php(75): include()
+#1 /home/idatemedia/public_html/dating/speeddating/index.php(21): Skin->ShowIndex('speeddating')
+#2 {main}
+  thrown in /home/idatemedia/public_html/dating/skins/grunge/speeddating/index.php on line 216
+[24-Mar-2019 20:00:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/idatemedia/public_html/dating/skins/grunge/speeddating/index.php:216
+Stack trace:
+#0 /home/idatemedia/public_html/dating/lib/class.Skin.php(75): include()
+#1 /home/idatemedia/public_html/dating/speeddating/index.php(21): Skin->ShowIndex('speeddating')
+#2 {main}
+  thrown in /home/idatemedia/public_html/dating/skins/grunge/speeddating/index.php on line 216
+[25-Mar-2019 06:33:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/idatemedia/public_html/dating/skins/grunge/speeddating/index.php:216
+Stack trace:
+#0 /home/idatemedia/public_html/dating/lib/class.Skin.php(75): include()
+#1 /home/idatemedia/public_html/dating/speeddating/index.php(21): Skin->ShowIndex('speeddating')
+#2 {main}
+  thrown in /home/idatemedia/public_html/dating/skins/grunge/speeddating/index.php on line 216
+[27-Mar-2019 05:47:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/idatemedia/public_html/dating/speeddating/adm_events.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/idatemedia/public_html/dating/speeddating/adm_events.php on line 91
+[27-Mar-2019 06:01:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/idatemedia/public_html/dating/speeddating/adm_event_tickets.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/idatemedia/public_html/dating/speeddating/adm_event_tickets.php on line 58
+[27-Mar-2019 06:01:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/idatemedia/public_html/dating/speeddating/adm_matches.php:72
+Stack trace:
+#0 {main}
+  thrown in /home/idatemedia/public_html/dating/speeddating/adm_matches.php on line 72
+[27-Mar-2019 06:04:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/idatemedia/public_html/dating/speeddating/adm_event_tickets.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/idatemedia/public_html/dating/speeddating/adm_event_tickets.php on line 58
+[27-Mar-2019 06:12:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/idatemedia/public_html/dating/speeddating/adm_matches.php:72
+Stack trace:
+#0 {main}
+  thrown in /home/idatemedia/public_html/dating/speeddating/adm_matches.php on line 72
+[27-Mar-2019 06:15:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/idatemedia/public_html/dating/speeddating/adm_prgvenues.php:231
+Stack trace:
+#0 {main}
+  thrown in /home/idatemedia/public_html/dating/speeddating/adm_prgvenues.php on line 231
+[27-Mar-2019 06:30:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/idatemedia/public_html/dating/geography.php:55
+Stack trace:
+#0 /home/idatemedia/public_html/dating/speeddating/adm_prgvenues.php(293): get_geography_js('sd_venues', 'vnu_countryid', 'vnu_stateid', 'vnu_cityid')
+#1 {main}
+  thrown in /home/idatemedia/public_html/dating/geography.php on line 55
+[27-Mar-2019 06:34:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/idatemedia/public_html/dating/geography.php:55
+Stack trace:
+#0 /home/idatemedia/public_html/dating/speeddating/adm_prgvenues.php(293): get_geography_js('sd_venues', 'vnu_countryid', 'vnu_stateid', 'vnu_cityid')
+#1 {main}
+  thrown in /home/idatemedia/public_html/dating/geography.php on line 55
+[27-Mar-2019 06:57:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/idatemedia/public_html/dating/geography.php:55
+Stack trace:
+#0 /home/idatemedia/public_html/dating/speeddating/adm_prgvenues.php(293): get_geography_js('sd_venues', 'vnu_countryid', 'vnu_stateid', 'vnu_cityid')
+#1 {main}
+  thrown in /home/idatemedia/public_html/dating/geography.php on line 55
+[27-Mar-2019 06:57:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/idatemedia/public_html/dating/geography.php:55
+Stack trace:
+#0 /home/idatemedia/public_html/dating/speeddating/adm_prgvenues.php(293): get_geography_js('sd_venues', 'vnu_countryid', 'vnu_stateid', 'vnu_cityid')
+#1 {main}
+  thrown in /home/idatemedia/public_html/dating/geography.php on line 55
+[27-Mar-2019 06:59:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/idatemedia/public_html/dating/geography.php:55
+Stack trace:
+#0 /home/idatemedia/public_html/dating/speeddating/adm_prgvenues.php(293): get_geography_js('sd_venues', 'vnu_countryid', 'vnu_stateid', 'vnu_cityid')
+#1 {main}
+  thrown in /home/idatemedia/public_html/dating/geography.php on line 55
+[27-Mar-2019 07:02:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_result() in /home/idatemedia/public_html/dating/speeddating/adm_prgvenues.php:249
+Stack trace:
+#0 {main}
+  thrown in /home/idatemedia/public_html/dating/speeddating/adm_prgvenues.php on line 249
+[27-Mar-2019 07:09:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function misqli_num_rows() in /home/idatemedia/public_html/dating/speeddating/adm_prgvenues.php:248
+Stack trace:
+#0 {main}
+  thrown in /home/idatemedia/public_html/dating/speeddating/adm_prgvenues.php on line 248
+[27-Mar-2019 07:12:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_result() in /home/idatemedia/public_html/dating/speeddating/adm_prgvenues.php:249
+Stack trace:
+#0 {main}
+  thrown in /home/idatemedia/public_html/dating/speeddating/adm_prgvenues.php on line 249
+[27-Mar-2019 07:15:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/idatemedia/public_html/dating/speeddating/adm_stories.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/idatemedia/public_html/dating/speeddating/adm_stories.php on line 73
+[27-Mar-2019 07:51:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/idatemedia/public_html/dating/speeddating/adm_report_event.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/idatemedia/public_html/dating/speeddating/adm_report_event.php on line 48
+[27-Mar-2019 08:01:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/idatemedia/public_html/dating/speeddating/adm_waiting_list.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/idatemedia/public_html/dating/speeddating/adm_waiting_list.php on line 25
+[27-Mar-2019 16:00:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/idatemedia/public_html/dating/skins/grunge/speeddating/index.php:216
+Stack trace:
+#0 /home/idatemedia/public_html/dating/lib/class.Skin.php(75): include()
+#1 /home/idatemedia/public_html/dating/speeddating/index.php(21): Skin->ShowIndex('speeddating')
+#2 {main}
+  thrown in /home/idatemedia/public_html/dating/skins/grunge/speeddating/index.php on line 216
+[27-Mar-2019 16:00:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/idatemedia/public_html/dating/speeddating/event_list.php:99
+Stack trace:
+#0 {main}
+  thrown in /home/idatemedia/public_html/dating/speeddating/event_list.php on line 99
+[27-Mar-2019 20:00:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/idatemedia/public_html/dating/skins/grunge/speeddating/index.php:216
+Stack trace:
+#0 /home/idatemedia/public_html/dating/lib/class.Skin.php(75): include()
+#1 /home/idatemedia/public_html/dating/speeddating/index.php(21): Skin->ShowIndex('speeddating')
+#2 {main}
+  thrown in /home/idatemedia/public_html/dating/skins/grunge/speeddating/index.php on line 216
+[01-Apr-2019 01:27:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/idatemedia/public_html/dating/skins/grunge/speeddating/index.php:216
+Stack trace:
+#0 /home/idatemedia/public_html/dating/lib/class.Skin.php(75): include()
+#1 /home/idatemedia/public_html/dating/speeddating/index.php(21): Skin->ShowIndex('speeddating')
+#2 {main}
+  thrown in /home/idatemedia/public_html/dating/skins/grunge/speeddating/index.php on line 216
+[05-Apr-2019 12:49:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/idatemedia/public_html/dating/skins/grunge/speeddating/index.php:216
+Stack trace:
+#0 /home/idatemedia/public_html/dating/lib/class.Skin.php(75): include()
+#1 /home/idatemedia/public_html/dating/speeddating/index.php(21): Skin->ShowIndex('speeddating')
+#2 {main}
+  thrown in /home/idatemedia/public_html/dating/skins/grunge/speeddating/index.php on line 216
+[05-Apr-2019 21:57:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/idatemedia/public_html/dating/skins/grunge/speeddating/index.php:216
+Stack trace:
+#0 /home/idatemedia/public_html/dating/lib/class.Skin.php(75): include()
+#1 /home/idatemedia/public_html/dating/speeddating/index.php(21): Skin->ShowIndex('speeddating')
+#2 {main}
+  thrown in /home/idatemedia/public_html/dating/skins/grunge/speeddating/index.php on line 216
+[05-Apr-2019 21:59:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/idatemedia/public_html/dating/speeddating/event_list.php:99
+Stack trace:
+#0 {main}
+  thrown in /home/idatemedia/public_html/dating/speeddating/event_list.php on line 99
+[05-Apr-2019 22:02:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/idatemedia/public_html/dating/skins/grunge/speeddating/index.php:216
+Stack trace:
+#0 /home/idatemedia/public_html/dating/lib/class.Skin.php(75): include()
+#1 /home/idatemedia/public_html/dating/speeddating/index.php(21): Skin->ShowIndex('speeddating')
+#2 {main}
+  thrown in /home/idatemedia/public_html/dating/skins/grunge/speeddating/index.php on line 216
+[08-Apr-2019 03:05:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/idatemedia/public_html/dating/skins/grunge/speeddating/index.php:216
+Stack trace:
+#0 /home/idatemedia/public_html/dating/lib/class.Skin.php(75): include()
+#1 /home/idatemedia/public_html/dating/speeddating/index.php(21): Skin->ShowIndex('speeddating')
+#2 {main}
+  thrown in /home/idatemedia/public_html/dating/skins/grunge/speeddating/index.php on line 216
+[08-Apr-2019 06:12:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/idatemedia/public_html/dating/skins/grunge/speeddating/index.php:216
+Stack trace:
+#0 /home/idatemedia/public_html/dating/lib/class.Skin.php(75): include()
+#1 /home/idatemedia/public_html/dating/speeddating/index.php(21): Skin->ShowIndex('speeddating')
+#2 {main}
+  thrown in /home/idatemedia/public_html/dating/skins/grunge/speeddating/index.php on line 216
+[08-Apr-2019 06:14:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/idatemedia/public_html/dating/skins/grunge/speeddating/index.php:216
+Stack trace:
+#0 /home/idatemedia/public_html/dating/lib/class.Skin.php(75): include()
+#1 /home/idatemedia/public_html/dating/speeddating/index.php(21): Skin->ShowIndex('speeddating')
+#2 {main}
+  thrown in /home/idatemedia/public_html/dating/skins/grunge/speeddating/index.php on line 216
+[09-Apr-2019 07:37:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/idatemedia/public_html/dating/skins/grunge/speeddating/index.php:216
+Stack trace:
+#0 /home/idatemedia/public_html/dating/lib/class.Skin.php(75): include()
+#1 /home/idatemedia/public_html/dating/speeddating/index.php(21): Skin->ShowIndex('speeddating')
+#2 {main}
+  thrown in /home/idatemedia/public_html/dating/skins/grunge/speeddating/index.php on line 216

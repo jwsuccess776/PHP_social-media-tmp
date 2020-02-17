@@ -1,0 +1,731 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 201909 will be lost/reset.
+# Last config file used to build this data file was /home/knowled5/tmp/awstats/awstats.knowledgedr.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2012                
+POS_TIME 2678                
+POS_VISITOR 21525               
+POS_DAY 24830               
+POS_DOMAIN 3454                
+POS_LOGIN 3890                
+POS_ROBOT 4045                
+POS_WORMS 4740                
+POS_EMAILSENDER 4871                
+POS_EMAILRECEIVER 5014                
+POS_SESSION 25538               
+POS_SIDER 25734               
+POS_FILETYPES 5149                
+POS_DOWNLOADS 5394                
+POS_OS 5734                
+POS_BROWSER 5963                
+POS_SCREENSIZE 6751                
+POS_UNKNOWNREFERER 6825                
+POS_UNKNOWNREFERERBROWSER 7170                
+POS_ORIGIN 7388                
+POS_SEREFERRALS 7526                
+POS_PAGEREFS 7699                
+POS_SEARCHWORDS 7954                
+POS_KEYWORDS 8106                
+POS_MISC 2342                
+POS_ERRORS 8165                
+POS_CLUSTER 3746                
+POS_SIDER_404 8290                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20191001003149 89 17561 21555510125180
+FirstTime 0
+LastTime 20190930151053
+LastUpdate 20191001051636 89 0 88 0 0
+TotalVisits 111                 
+TotalUnique 82                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 84                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+FlashSupport 0 0 0
+JavascriptDisabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+RealPlayerSupport 0 0 0
+PDFSupport 0 0 0
+TotalMisc 0 0 0
+QuickTimeSupport 0 0 0
+AddToFavourites 0 0 0
+JavaEnabled 0 0 0
+DirectorSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 3 9 15410 35 50 106560
+1 5 5 40233 37 90 226314
+2 4 10 63341 50 83 137660
+3 15 26 106129 42 73 216408
+4 3 3 21080 23 39 63090
+5 9 9 33322 28 55 290487
+6 0 0 0 27 47 70105
+7 3 13 358141 27 78 226629
+8 11 24 300141 44 63 258410
+9 18 78 950049 51 95 173695
+10 14 16 30937 23 48 1105861
+11 3 3 14923 26 43 75205
+12 25 25 89630 30 46 84940
+13 5 5 36235 29 60 205833
+14 7 17 375492 37 70 1155086
+15 256 300 1645356 70 103 201901
+16 7 9 45663 24 35 63389
+17 174 174 86159 131 142 52618
+18 72 86 344397 37 90 362197
+19 26 26 99655 32 46 409461
+20 22 32 443771 44 89 1098315
+21 3 3 14898 21 68 99028
+22 7 7 39041 33 56 1172360
+23 4 14 295327 29 50 1571704
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 17
+us 631 781 4460845
+gb 23 23 212560
+fr 13 13 122123
+ru 9 9 29554
+cn 5 53 570574
+ir 4 4 12559
+sc 1 1 3402
+ee 1 1 3402
+id 1 1 3402
+vn 1 1 3402
+in 1 1 3377
+de 1 1 3402
+hn 1 1 2403
+ca 1 1 8144
+hu 1 1 3377
+se 1 1 3402
+kr 1 1 3402
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 13
+AhrefsBot/ 151 496261 20190930062538 0
+bingbot/ 105 910614 20190930232321 0
+Googlebot/ 92 1132307 20190930191010 0
+bingpreview 49 4656351 20190930232327 0
+bot[\s_+:,\.\;\/\\-] 32 98799 20190929135744 0
+YandexBot/ 27 80042 20190930091547 0
+PhantomJS 25 891487 20190928204045 0
+Sogou[\x20]web[\x20]spider/ 22 65855 20190930091922 0
+no_user_agent 6 42682 20190928204035 0
+[\s_+:,\.\;\/\\-]bot 3 33429 20190923221810 0
+Apache\-HttpClient/ 1 3402 20190928085232 0
+Xenu[\x20]Link[\x20]Sleuth 1 0 20190929135808 0
+(firefox/)([0-9]\.|[0-1][0]\.) 1 2403 20190910234453 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 10
+gif 1 2837 0 0
+css 100 1005766 0 0
+txt 8 616 0 0
+js 62 1775549 0 0
+php 406 306384 0 0
+woff 10 36720 0 0
+jpg 4 182694 0 0
+png 23 250379 0 0
+woff2 11 403828 0 0
+html 269 1484557 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 4
+/.well-known/pki-validation/99EF9FDB352752D8FA4704ADA781DA4D.txt 2 0 154
+/.well-known/pki-validation/3D442D8D88B119444327E0FC14EFB843.txt 2 0 154
+/.well-known/pki-validation/979A948C7C110DE26C535993780F7335.txt 2 0 154
+/.well-known/pki-validation/9A462F230D284385E73978D18F971701.txt 2 0 154
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 13
+Unknown 28 20
+win8 5 5
+macosx11 2 2
+macosx 704 592
+ios_iphone 3 3
+winlong 50 2
+macosx12 2 2
+macosx10 2 2
+win7 30 10
+linux 17 7
+winxp 36 36
+win10 13 13
+macosx8 2 2
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 40
+firefox42.0 1 1
+firefox52.0 1 1
+msie11.0 14 4
+safari11.1 1 1
+chrome71.0.3578.80 1 1
+chrome76.0.3809.100 1 1
+firefox61.0 1 1
+chrome74.0.3694.0 1 1
+Unknown 26 18
+firefox18.0 2 2
+firefox59.0 1 1
+chrome58.0.3029.110 2 2
+chrome40.0.2214.115 1 1
+firefox67.0 1 1
+firefox55.0 1 1
+chrome41.0.2227.0 1 1
+msie7.0 48 0
+safari12.1 631 541
+netscape5.0 1 1
+safari10.0 2 2
+chrome74.0.3729.131 2 2
+firefox51.0 1 1
+mozilla 2 2
+edge18 1 1
+firefox68.0 1 1
+safari12.1.2 1 1
+opera12.17 5 5
+chrome66.0.3359.139 41 41
+chrome63.0.3239.26 1 1
+msie6.0 36 36
+chrome26.0.1410.65 2 2
+firefox69.0 29 7
+firefox46.0 3 3
+chrome13.0.782.112 2 2
+chrome69.0.3494.0 11 1
+chrome53.0.2785.104 1 1
+chrome56.0.2924.92 1 1
+firefox65.0 1 1
+chrome76.0.3809.132 14 4
+firefox60.0 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 6
+python-requests/2.12.4 20190914141737
+COMODO_DCV 20190923001646
+python-requests/2.22.0 20190907142425
+Mozilla/5.0_zgrab/0.x 20190906225103
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20190907091656
+Go-http-client/1.1 20190924190500
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 4
+Go-http-client/1.1 20190924190500
+python-requests/2.22.0 20190907142425
+COMODO_DCV 20190923001646
+python-requests/2.12.4 20190914141737
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 114 171
+From1 1 1
+From2 3 3
+From3 3 3
+From4 575 716
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+baidu 2 2
+www_google_com 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 3
+https://brandnewblogs.com 1 1
+http://www.xpzb.net/blog/14914322/ 1 1
+http://datadepths.com/profile.php 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+404 880 1010240
+302 31 2245
+204 123 0
+403 1 1139
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 258
+/category/health/womens-health/ 1 -
+//wp-content/plugins/crelly-slider/readme.txt 1 -
+/category/health/diseases-conditions/feed/ 1 -
+/wp-includes/js/jquery/ui/core.min.js 3 http://knowledgedr.com/relationships/
+/js/functions.js 17 http://knowledgedr.com/
+/2017/05/05/gut-problems/ 1 -
+/7-steps-to-beautiful-healthier-skin/ 7 -
+/ads.txt 31 -
+/wp-content/themes/standard-pro/assets/js/html5.js 3 http://knowledgedr.com/relationships/
+/category/health/alternative-medicine/holistic-medicine/ 1 -
+/category/social-media/ 4 -
+/category/health/alternative-medicine/chinese-medicine/ 1 -
+/category/relationships/dating/feed/ 1 -
+/tag/link/ 2 -
+/vfm-admin/js/videojs/lang/pt.js 1 http://knowledgedr.com/
+/category/health/alternative-medicine/aromatherapy/ 1 -
+/contact/ 3 -
+/category/beauty/skin-care/feed/ 1 -
+/7-steps-to-beautiful-healthier-skin/feed/ 1 -
+/backup/wp-login.php 1 -
+/why-you-shouldnt-quit-or-give-up/feed/ 1 -
+/self/ 3 -
+/category/sports/feed/ 1 -
+/blue-endless-ocean-in-fog/feed/ 1 -
+/test/ 1 -
+/happy-shoes-shoelace-heart/feed/ 1 -
+/tag/men/ 6 -
+/wordpress/ 1 -
+/cms/ 1 -
+/t-shirts-on-rack-with-room-for-text/ 1 -
+/hello-world/ 1 -
+/wp-admin/admin-ajax.php 1 http://knowledgedr.com/wp-admin/admin-ajax.php
+/vfm-admin/js/videojs/lang/ro.js 1 http://www.knowledgedr.com/
+/wp-content/plugins/uploadify/includes/check.php 1 http://knowledgedr.com/wp-content/plugins/uploadify/includes/check.php
+/category/sport/ 2 -
+/wp-content/themes/goodpress-pro/assets/js/modernizr.min.js 5 http://knowledgedr.com/red-rose-with-drops-close-up/
+/wp-content/plugins/ajax_multi_upload/readme.txt 1 http://knowledgedr.com/wp-content/plugins/ajax_multi_upload/readme.txt
+/wp-content/themes/goodpress-pro/responsive.css 5 http://knowledgedr.com/red-rose-with-drops-close-up/
+/register/ 1 -
+/8-ways-to-plan-out-a-healthy-lifestyle/ 2 -
+/category/health/feed/ 1 -
+//installer.php 2 -
+/wp-content/plugins/radykal-fancy-gallery/admin/generate-code.php 1 http://knowledgedr.com/wp-content/plugins/radykal-fancy-gallery/admin/generate-code.php
+/main/ 1 -
+/the-amazing-health-benefits-of-grounding-earthing/feed/ 1 -
+/combat-acidosis-with-these-10-alkaline-foods-added-in-your-diet/ 1 -
+/wp-content/plugins/wp-automatic/inc/csv.php 1 -
+/t-shirts-on-rack-with-room-for-text/feed/ 1 -
+/guy-meets-girl-with-split-second-decision/ 1 -
+/category/lifestyle/life-skills/ 1 -
+/yorkshire-terrier-eating-treats-in-bed/ 1 -
+/category/happiness/humor/feed/ 1 -
+/soul-mate-or-scam-bait/feed/ 1 -
+/taking-care-of-you-for-a-happy-mind-and-body/feed/ 1 -
+/comments/feed 3 -
+/category/mindfulness/personal-growth/ 1 -
+/wp-content/plugins/maintenance/load/js/jquery.frontend.js 2 http://knowledgedr.com/category/health/
+/the-link-between-depression-and-diet/ 1 -
+//installer-backup.php 1 -
+/wp-content/plugins/mm-forms/includes/doajaxfileupload.php 1 http://knowledgedr.com/wp-content/plugins/mm-forms/includes/doajaxfileupload.php
+/backup/ 1 -
+/wp-content/plugins/tag-groups/css/jquery-ui.structure.min.css 3 http://knowledgedr.com/relationships/
+/site/ 1 -
+/acheive-success-with-your-personal-growth/feed/ 1 -
+/wp-content/plugins/maintenance/load/css/fonts.css 2 http://knowledgedr.com/category/health/
+/category/health/ 2 -
+/guy-meets-girl-with-split-second-decision/feed/ 1 -
+/category/happiness/humor/ 1 -
+/wp-content/uploads/2019/04/team-voyas-1112360-unsplash-796x445.jpg 3 -
+/wp-includes/js/jquery/ui/widget.min.js 4 http://knowledgedr.com/relationships/
+/how-sleep-loss-alters-our-emotional-perception-tips-to-better-sleep/feed/ 1 -
+/wp-content/themes/standard-pro/assets/js/jquery.bxslider.min.js 2 http://knowledgedr.com/2017/06/
+/8-ways-to-plan-out-a-healthy-lifestyle/feed/ 1 -
+/contact.php 12 -
+/man-talking-about-architecture-ideas/feed/ 2 -
+/disclaimer-2/ 1 -
+/2017/06/27/marketing-expert-writing-new-strategy-on-whiteboard/ 1 -
+/zzack/flirt.pdf 5 -
+/category/lifestyle/non-toxic-living/ 1 -
+/wp-content/uploads/2019/05/tracks-in-the-sand-1444747_1280-796x445.jpg 1 -
+/temp/ 1 -
+/category/health/alternative-medicine/alternative-remedies/feed/ 1 -
+/blog/ 1 -
+/upload.php 16 http://www.knowledgedr.com/
+/wp-content/themes/standard-pro/assets/js/superfish.js 4 http://knowledgedr.com/relationships/
+/2017/09/ 1 -
+/fast-food-is-a-time-bomb/ 1 -
+/wp-content/themes/goodpress-pro/assets/js/jquery.bxslider.min.js 6 http://knowledgedr.com/red-rose-with-drops-close-up/
+/wp-includes/js/comment-reply.min.js 5 http://knowledgedr.com/red-rose-with-drops-close-up/
+/category/fitness/exercises/aerobics/ 1 -
+/wp-content/plugins/quotes-collection/blocks/quotes/style.css 8 http://knowledgedr.com/relationships/
+/wp-content/plugins/jquery-html5-file-upload/readme.txt 1 http://knowledgedr.com/wp-content/plugins/jquery-html5-file-upload/readme.txt
+/wp-login.php 28 -
+/wp-content/plugins/CCSlider/includes/upload.php 1 http://knowledgedr.com/wp-content/plugins/CCSlider/includes/upload.php
+/wp-content/themes/standard-pro/assets/js/jquery.slicknav.min.js 3 http://knowledgedr.com/relationships/
+/top-home-remedies-for-yeast-infection-treatment/ 6 -
+/v2/ 1 -
+/category/lifestyle/life-skills/goal-setting/feed/ 2 -
+/prague-astronomical-clock-in-the-old-town-square/feed/ 1 -
+/category/beauty/skin-care/ 1 -
+/zzack/ 1 -
+/young-girl-with-pink-shoes-on-longboard/ 2 -
+/check-stats/ 4 http://www.knowledgedr.com/
+/wp-content/themes/goodpress-pro/assets/js/html5.js 6 http://knowledgedr.com/red-rose-with-drops-close-up/
+//wp-content/plugins/revslider/license.php 1 -
+/wp-content/themes/standard-pro/assets/img/icon-google-plus-white.png 1 -
+/category/health/alternative-medicine/naturopathy/ 2 -
+/news/5-strategies-that-will-really-grow-your-instagram-audience/ 1 -
+/amazing-sun-through-snowy-forest/feed/ 1 -
+/category/sports/ 1 -
+/comments/feed/ 2 -
+/category/fitness/exercises/feed/ 1 -
+/wp-login.php/wp-login.php 1 -
+/category/fitness/feed/ 2 -
+/tag/tag-one/ 4 -
+/category/beauty/feed/ 1 -
+/category/lifestyle/life-skills/healthy-habits/feed/ 1 -
+/category/lifestyle/life-skills/healthy-habits/ 2 -
+/category/lifestyle/life-skills/goal-setting/ 1 -
+/news/how-to-use-automation-to-boost-ppc-performance/ 1 -
+/wp-content/plugins/uploadify/readme.txt 1 http://knowledgedr.com/wp-content/plugins/uploadify/readme.txt
+/pure-nature-above-green-forest-on-the-hill/feed/ 1 -
+/wp-includes/js/jquery/ui/accordion.min.js 3 http://knowledgedr.com/relationships/
+/about-us.php 8 -
+/wp-content/plugins/mm-forms-community/includes/doajaxfileupload.php 1 http://knowledgedr.com/wp-content/plugins/mm-forms-community/includes/doajaxfileupload.php
+/wp-content/themes/standard-pro/genericons/genericons.css 3 http://knowledgedr.com/relationships/
+/wp-includes/css/dist/block-library/style.min.css 8 http://knowledgedr.com/relationships/
+/category/relationships/friendships/feed/ 1 -
+/diet/ 3 -
+/2017/10/ 2 -
+/wp-content/themes/standard-pro/responsive.css 3 http://knowledgedr.com/relationships/
+/category/mindfulness/feed/ 1 -
+/author/zack/feed/ 1 -
+/category/food/diet-nutrition/feed/ 1 -
+/wp-includes/js/jquery/jquery-migrate.min.js 9 http://knowledgedr.com/relationships/
+/wp-content/plugins/maintenance/load/css/style.css 2 http://knowledgedr.com/category/health/
+/feed/ 23 -
+/wp-includes/js/wp-embed.min.js 8 http://knowledgedr.com/red-rose-with-drops-close-up/
+/category/health/alternative-medicine/reflexology/ 1 -
+/vps-hosting.php 8 -
+/tmp/ 1 -
+/wp-content/themes/goodpress-pro/genericons/genericons.css 5 http://knowledgedr.com/red-rose-with-drops-close-up/
+/wp-content/themes/standard-pro/style.css 3 http://knowledgedr.com/relationships/
+/tag/sexual-energy/ 2 -
+/grossglockner-road-in-austria/feed/ 1 -
+/category/lifestyle/life-skills/self-motivation/feed/ 2 -
+/category/health/physical-health/feed/ 1 -
+/wp-includes/js/jquery/jquery.js 9 http://knowledgedr.com/relationships/
+/2017/06/27/fresh-strawberries-and-blackberries-in-little-bowl/ 1 -
+/wp-content/plugins/complete-gallery-manager/frames/upload-images.php 1 http://knowledgedr.com/wp-content/plugins/complete-gallery-manager/frames/upload-images.php
+/category/lifestyle/life-skills/other-life-skills/feed/ 1 -
+/v1/ 1 -
+/2018/12/26/hello-world/ 2 -
+/wp-content/plugins/quotes-collection/js/quotes-collection.js 8 http://knowledgedr.com/relationships/
+/web/ 1 -
+/category/science/ 1 -
+/test/wp-login.php 1 -
+/wp-content/themes/goodpress-pro/assets/js/superfish.js 5 http://knowledgedr.com/red-rose-with-drops-close-up/
+/wp-content/themes/goodpress-pro/assets/js/jquery.sticky.js 6 http://knowledgedr.com/red-rose-with-drops-close-up/
+/pile-of-green-limes-on-market-pattern/feed/ 2 -
+/tag/bass/ 1 -
+/wp-content/uploads/2019/04/Vitamin-D3-150x150.jpg 1 -
+/the-super-power-of-garlic-as-a-natural-antibiotic/ 8 -
+//wp-content/plugins/WP_Estimation_Form/assets/css/lfb_frontendPackedLibs.min.css 1 -
+/2017/06/16/t-shirts-on-rack-with-room-for-text/ 1 -
+/new/ 1 -
+/create-a-morning-routine-for-a-healthy-start/feed/ 1 -
+/fight-depression-now-with-these-6-steps-to-raise-your-spirits/feed/ 1 -
+/tag/men/feed/ 1 -
+/wp-content/themes/standard-pro/assets/js/jquery.sticky.js 3 http://knowledgedr.com/relationships/
+/young-girl-with-pink-shoes-on-longboard/feed/ 2 -
+/vBulletin/js/ajax.js 1 knowledgedr.com
+/washington-street-palms-in-san-francisco/ 1 -
+/category/happiness/beliefs/feed/ 1 -
+/vfm-admin/login 2 -
+/web-hosting.php 6 -
+/author/luca-nicole/feed/ 1 -
+/wp-content/uploads/2019/04/8-ways-to-plan-out-a-300x200.jpg 1 -
+/js/modernizr.custom.14914.js 15 http://knowledgedr.com/
+/category/lifestyle/life-skills/self-motivation/ 1 -
+/feed 9 -
+/wp-content/plugins/quotes-collection/css/quotes-collection.css 8 http://knowledgedr.com/relationships/
+/page/4/ 5 -
+/tag/depression/feed/ 1 -
+/wp-content/uploads/2019/01/kdr_logo-e1548203043488.png 1 -
+/category/food/ 1 -
+/category/health/alternative-medicine/feed/ 1 -
+/demo/ 1 -
+/category/technology/feed/ 1 -
+/wp/wp-admin/ 1 -
+/tag/woman/ 1 -
+/wp-content/plugins/akismet/_inc/form.js 6 http://knowledgedr.com/red-rose-with-drops-close-up/
+/funny-usa-america-flag-retro-sunglasses/feed/ 1 -
+/wp-content/plugins/quotes-collection/blocks/random-quote/style.css 7 http://knowledgedr.com/relationships/
+/laptop-on-wooden-desk-in-office-open-space/feed/ 1 -
+/category/relationships/singlehood/feed/ 1 -
+/tag/young/feed/ 1 -
+/robots.txt 209 -
+/category/fitness/general-fitness/feed/ 1 -
+/old/ 1 -
+/social-media/social-media-marketing-for-link-building-top-tactics-strategies/ 2 -
+/seo-hacks/multiple-sites-does-it-hurt-or-help-seo/ 1 -
+/seo-hacks/3-reasons-seo-is-incredibly-valuable-to-your-company/ 1 -
+/wp-content/themes/standard-pro/assets/js/modernizr.min.js 3 http://knowledgedr.com/relationships/
+/wp-content/themes/sketch/404.php 1 -
+/tag/attraction/ 2 -
+/wp-includes/js/wp-emoji-release.min.js 8 http://knowledgedr.com/red-rose-with-drops-close-up/
+/category/happiness/dreams-goals/feed/ 1 -
+/tag/diet/feed/ 1 -
+/category/happiness/manifesting/feed/ 1 -
+/js/jquery-1.11.0.min.js 15 http://knowledgedr.com/
+/page/3/ 1 -
+/category/business/ 4 -
+/wp-content/themes/goodpress-pro/style.css 5 http://knowledgedr.com/red-rose-with-drops-close-up/
+/golden-gate-bridge-from-battery-spencer-viewpoint/ 2 -
+/vfm-admin/js/videojs/lang/zh.js 1 http://knowledgedr.com/
+/wp-content/themes/standard-pro/assets/js/jquery.custom.js 2 http://knowledgedr.com/2017/06/
+/tag/tag-three/ 2 -
+/the-super-power-of-garlic-as-a-natural-antibiotic/feed/ 1 -
+/category/fitness/ 1 -
+/category/education/ 1 -
+/young-blonde-woman-looking-around-on-terrace/feed/ 2 -
+/the-shocking-truth-about-whats-in-your-skin-care-products/feed/ 1 -
+/wp-content/plugins/tag-groups/css/ui-gray/jquery-ui.theme.min.css 2 http://knowledgedr.com/relationships/
+/the-link-between-depression-and-diet/feed/ 1 -
+/category/mindfulness/ 1 -
+/author/admin/ 1 -
+/wp-includes/js/jquery/ui/tabs.min.js 3 http://knowledgedr.com/relationships/
+/zzack 1 -
+/category/health/integrative-health/ 1 -
+/category/health/alternative-medicine/acupressure/feed/ 1 -
+/tag/tag-two/ 6 -
+/xmlrpc.php 1 -
+/taking-care-of-you-for-a-happy-mind-and-body/ 1 -
+/red-rose-with-drops-close-up/ 1 -
+/author/zack/ 1 -
+/category/lifestyle/life-skills/feed/ 2 -
+/install.php 3 -
+/wp/ 2 -
+/young-woman-enjoying-morning-breakfast-in-bed/ 1 -
+/category/mindfulness/meditation/ 1 -
+/top-5-tips-on-how-to-not-hurt-yourself-in-the-gym/feed/ 1 -
+/category/health/alternative-medicine/ayurveda/ 1 -
+/category/lifestyle/life-skills/organization/ 1 -
+/home/ 1 -
+/category/food/feed/ 1 -
+/wp-content/themes/goodpress-pro/assets/js/jquery.custom.js 6 http://knowledgedr.com/red-rose-with-drops-close-up/
+/category/happiness/feed/ 1 -
+/seo-hacks/world-class-link-building-is-more-than-links/ 1 -
+/combat-acidosis-with-these-10-alkaline-foods-added-in-your-diet/feed/ 1 -
+/install 2 -
+/category/lifestyle/travel/feed/ 1 -
+/reseller-hosting.php 1 -
+/lifestyle/ 4 -
+/how-sleep-loss-alters-our-emotional-perception-tips-to-better-sleep/ 1 -
+/admin/ 1 -
+/the-truth-about-cardio-you-need-to-know/feed/ 2 -
+/boost-the-immune-system-protect-your-body-with-vitamin-d3/feed/ 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 84
+97.101.16.201 549 661 3298393 20190926072227
+162.212.168.236 21 21 72279 20190930121416
+104.237.232.233 16 16 55150 20190922195646
+163.172.70.215 5 5 52716 20190927182953
+91.222.236.122 5 5 16970 20190921050458
+163.172.251.150 5 5 46718 20190926134548
+163.172.71.49 4 4 32576 20190904184141
+62.210.172.215 4 4 35575 20190929012855
+72.189.165.138 3 13 358141 20190922202857
+35.167.243.215 3 3 10220 20190928202953
+212.83.147.249 3 3 30430 20190918094254
+195.154.156.182 2 2 19287 20190927015931
+120.33.229.6 2 2 14545 20190911223756
+5.232.152.178 2 2 6754 20190925214534
+51.15.183.122 2 2 19287 20190930151053
+51.159.30.31 2 2 16288 20190908190733
+212.129.32.52 2 2 22286 20190922205952
+120.36.213.14 2 2 22286 20190916193241
+54.188.232.17 1 1 3402 20190925111252
+52.27.29.104 1 1 2403 20190902171103
+51.159.30.29 1 1 8144 20190901202744
+185.234.146.251 1 1 3402 20190919004728
+34.70.228.156 1 1 2403 20190907142425
+54.213.133.220 1 1 3402 20190914181901
+31.184.215.241 1 1 3377 20190915203308
+184.154.46.57 0 8 616 
+34.221.206.198 1 1 2403 20190909202557
+18.237.12.211 1 1 3402 20190918200044
+151.235.190.72 1 1 2403 20190904081338
+23.108.254.96 1 1 1793 20190911042906
+62.165.226.158 1 1 3377 20190918100843
+27.116.255.152 1 1 3402 20190912011030
+52.11.85.69 1 1 3402 20190928202940
+35.161.206.181 1 1 2403 20190905193036
+18.237.161.39 1 1 3402 20190921200853
+34.229.117.207 1 1 3402 20190912134042
+171.67.70.64 1 1 2403 20190906225103
+167.71.108.77 1 1 8144 20190907091656
+171.240.70.249 1 1 3402 20190921053312
+45.32.129.1 1 1 8144 20190903113732
+5.157.26.178 1 1 3402 20190928032832
+34.223.5.100 1 1 3402 20190926080606
+178.171.125.235 1 1 2403 20190904235348
+104.241.203.1 1 1 8144 20190901200249
+46.209.78.122 1 1 3402 20190922195440
+173.211.78.108 1 1 3402 20190924174443
+198.55.96.57 1 1 2403 20190907105650
+183.253.80.83 1 1 8144 20190904104430
+54.214.53.221 1 1 3402 20190919200122
+34.221.210.238 1 1 3402 20190924190500
+54.68.3.94 1 1 2403 20190907201710
+18.202.238.251 1 1 2403 20190909135358
+54.218.41.166 1 1 3402 20190920192713
+182.23.54.146 1 1 3402 20190922195251
+51.159.0.165 1 1 11143 20190930094032
+173.193.191.198 1 1 3377 20190930095826
+24.130.40.227 1 1 3402 20190922145813
+199.46.196.155 1 11 273637 20190930085935
+173.252.127.27 1 1 2403 20190905053918
+54.202.244.159 1 1 2403 20190901182808
+54.187.70.232 1 1 3402 20190923191839
+54.201.146.134 1 1 3402 20190912191543
+51.159.30.34 1 1 11143 20190920204053
+104.168.99.26 1 1 2403 20190908024330
+51.75.65.235 1 1 3402 20190926225902
+35.203.245.216 1 11 273637 20190914230756
+186.179.36.71 1 1 2403 20190903051714
+62.210.137.158 1 1 11143 20190924235808
+34.211.181.161 1 1 3402 20190928202325
+49.207.141.184 1 1 3377 20190923112101
+212.47.239.148 1 1 3402 20190925121730
+216.145.14.142 1 1 2403 20190910225726
+185.46.84.153 1 1 3402 20190929005719
+54.187.182.205 1 1 3435 20190928202945
+196.196.98.97 1 1 3402 20190924081157
+34.211.134.250 1 1 3402 20190917200020
+51.159.30.30 1 1 11143 20190927093213
+151.237.176.203 1 1 3402 20190930121331
+54.218.115.97 1 1 2403 20190905160305
+18.237.7.115 1 1 2403 20190906192402
+106.120.173.145 0 48 525599 
+138.68.178.80 1 1 3402 20190914141737
+54.200.77.60 1 1 2403 20190910201304
+5.180.245.111 1 1 3402 20190924013404
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20190901 3 5 18845 3
+20190902 6 6 43123 6
+20190903 5 5 34979 5
+20190904 5 5 29238 5
+20190905 4 4 15353 4
+20190906 2 2 4806 2
+20190907 4 4 15353 4
+20190908 4 4 26835 4
+20190909 5 5 23497 5
+20190910 3 3 7209 3
+20190911 539 621 2228620 6
+20190912 3 8 63716 3
+20190913 4 14 369284 2
+20190914 3 13 280441 3
+20190915 6 23 422064 2
+20190916 3 5 33583 3
+20190917 1 6 56912 1
+20190918 3 3 17922 3
+20190919 2 7 60314 2
+20190920 2 2 14545 2
+20190921 9 14 99570 5
+20190922 23 33 434640 6
+20190923 2 4 6933 2
+20190924 5 5 24751 5
+20190925 5 10 78211 4
+20190926 7 23 465382 5
+20190927 3 10 106307 3
+20190928 7 7 23861 5
+20190929 2 2 14545 2
+20190930 26 41 428491 6
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+0s-30s 105
+2mn-5mn 1
+30s-2mn 1
+1h+ 2
+30mn-1h 1
+15mn-30mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 20
+/ 247 1260776 108 105
+/vfm-admin/chunk.php 147 0 0 0
+/vfm-admin/ajax/session.php 104 0 0 1
+/vfm-admin/ajax/get-dirs.php 50 15033 0 0
+/vfm-admin/ajax/get-files.php 50 27343 0 0
+/index.php 19 122060 1 1
+/vfm-admin/ 17 221536 0 1
+/vfm-admin/fonts/vfm-font.woff 10 36720 0 2
+/vfm-admin/fonts/fontawesome-webfont.woff2 10 385800 0 1
+/vfm-admin/index.php 9 90634 0 0
+/vfm-admin/login.php 8 20424 1 0
+/install.php 6 6315 1 0
+/admin/index.php 4 15000 0 0
+/vfm-admin/ajax/get-filetree.php 3 489 0 0
+/ebaydownloads.com/ 3 1377 0 0
+/ebaydownloads.com/zzack/ 2 868 0 0
+/admin/login.php 2 1568 0 0
+/vfm-thumb.php 2 66 0 0
+/admin/settings.php 2 7452 0 0
+/vfm-admin/fonts/glyphicons-halflings-regular.woff2 1 18028 0 0
+END_SIDER

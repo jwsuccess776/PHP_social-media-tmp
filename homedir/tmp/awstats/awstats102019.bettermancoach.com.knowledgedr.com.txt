@@ -1,0 +1,294 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 201910 will be lost/reset.
+# Last config file used to build this data file was /home/knowled5/tmp/awstats/awstats.bettermancoach.com.knowledgedr.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2031                
+POS_TIME 2703                
+POS_VISITOR 6702                
+POS_DAY 7232                
+POS_DOMAIN 3248                
+POS_LOGIN 3499                
+POS_ROBOT 3654                
+POS_WORMS 3965                
+POS_EMAILSENDER 4096                
+POS_EMAILRECEIVER 4239                
+POS_SESSION 7379                
+POS_SIDER 7569                
+POS_FILETYPES 4374                
+POS_DOWNLOADS 4555                
+POS_OS 4603                
+POS_BROWSER 4750                
+POS_SCREENSIZE 4928                
+POS_UNKNOWNREFERER 5002                
+POS_UNKNOWNREFERERBROWSER 5258                
+POS_ORIGIN 5460                
+POS_SEREFERRALS 5594                
+POS_PAGEREFS 5738                
+POS_SEARCHWORDS 5929                
+POS_KEYWORDS 6081                
+POS_MISC 2367                
+POS_ERRORS 6140                
+POS_CLUSTER 3355                
+POS_SIDER_404 6236                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20191115084948 1 0 11316571962027
+FirstTime 20191001011109
+LastTime 20191027092703
+LastUpdate 20191116051242 1 0 0 0 0
+TotalVisits 30                  
+TotalUnique 12                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 12                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+FlashSupport 0 0 0
+RealPlayerSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+PDFSupport 0 0 0
+JavascriptDisabled 0 0 0
+AddToFavourites 0 7 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 0 0 0
+1 9 9 68060 5 7 21811
+2 1 1 0 0 1 70
+3 0 0 0 0 0 0
+4 5 5 403 4 6 25165
+5 3 3 403 0 2 4439
+6 4 10 80945 3 5 9076
+7 1 1 0 1 1 0
+8 0 0 0 0 0 0
+9 4 4 34187 3 6 22123
+10 4 4 14146 2 2 0
+11 8 29 288452 0 5 0
+12 0 0 0 0 0 0
+13 0 0 0 0 0 0
+14 1 1 0 1 3 14827
+15 1 1 0 0 1 70
+16 1 1 0 1 3 16760
+17 1 1 0 1 2 7472
+18 0 0 0 0 0 0
+19 0 0 0 0 0 0
+20 0 0 0 0 0 0
+21 3 3 0 3 7 22477
+22 1 1 7013 0 3 5295
+23 0 0 0 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 3
+us 39 66 425549
+ls 7 7 67657
+se 1 1 403
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 5
+SemrushBot/ 23 71628 20191003044613 12
+Googlebot\-Image/ 4 27313 20191002222518 0
+Googlebot/ 2 142 20191002222517 2
+bingbot/ 2 7143 20191003042119 1
+unknown 1 70 20191001092151 1
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 7
+jpg 9 61999 0 0
+css 6 95096 0 0
+js 11 111800 0 0
+woff2 3 63224 0 0
+png 1 174 0 0
+html 12 144247 0 0
+php 32 17069 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 7
+linux 1 1
+Unknown 25 25
+win7 7 7
+winunknown 3 3
+win10 1 1
+macosx8 2 2
+macosx 35 8
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 7
+chrome49.0.2623.75 1 1
+chrome66.0.3359.181 1 1
+chrome26.0.1410.65 2 2
+safari12.1 35 8
+firefox60.0 7 7
+Unknown 27 27
+mozilla 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20191027092703
+Poster 20191003013253
+WordPress/5.2.3;_http://www.bettermancoach.com 20191003060018
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+Windows_Live_Writter 20191003050748
+WordPress/5.2.3;_http://www.bettermancoach.com 20191003060018
+Poster 20191003013253
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 10 10
+From1 0 0
+From2 0 0
+From3 1 1
+From4 36 63
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+https://pcluster18.stablehost.com:2083 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+301 7 0
+404 8 43289
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 6
+/author/coachjames/ 1 -
+/category/advice-men/ 1 https://www.google.com/
+/sitemap.xml 1 -
+/ 1 http://bettermancoach.com/
+/category/seo-tips/ 1 -
+/ads.txt 3 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 12
+184.154.46.57 23 23 0 20191003060018
+97.101.16.201 8 35 361921 20191003060019
+41.203.190.126 7 7 67657 20191001011123
+100.20.59.195 1 1 7073 20191003060944
+160.153.206.200 1 1 403 20191003013253
+72.167.190.16 1 1 403 20191002112333
+93.188.2.5 1 1 403 20191002042000
+34.215.179.100 1 1 7073 20191002105045
+66.102.9.87 1 1 7013 20191002221406
+34.217.31.112 1 1 7073 20191001105218
+173.208.246.146 1 1 403 20191003050748
+157.245.1.222 1 1 34187 20191027092703
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 4
+20191001 18 18 74730 9
+20191002 21 42 302941 14
+20191003 7 13 81751 6
+20191027 1 1 34187 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+30mn-1h 3
+15mn-30mn 1
+5mn-15mn 1
+0s-30s 24
+30s-2mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 12
+/wp-cron.php 23 0 18 18
+/ 7 87199 6 5
+/wp-login.php 4 12503 0 1
+/xmlrpc.php 4 1612 4 4
+/wp-content/themes/vw-fitness/webfonts/fa-regular-400.woff2 2 24440 1 1
+/wp-content/themes/vw-fitness/webfonts/fa-solid-900.woff2 1 38784 0 0
+/author/Zachary/ 1 34493 0 0
+/life-coach-wordpress-theme-events/ 1 6717 0 1
+/contacts/ 1 4732 0 0
+/sample-page-2/ 1 4947 0 0
+/homepage/ 1 6159 0 0
+/wp-login.php/wp-login.php 1 2954 1 0
+END_SIDER

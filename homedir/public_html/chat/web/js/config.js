@@ -1,0 +1,1 @@
+var SAMPLE_SERVER_BASE_URL = '$CONST_LINK_ROOT/chat/web';

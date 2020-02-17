@@ -1,0 +1,41 @@
+
+#sd_left {
+	float: left;
+	width: 180px;
+}
+
+#sd_right {
+	float:right;
+	width: 690px;
+}
+
+
+#home_slogan_sd {
+	width: 640px;
+	margin: 0 ;
+	padding-top: 70px;
+}
+
+#home_left_sd {
+	width: 440px;
+	margin-left: 20px;
+	margin-top: 20px;
+	display:inline;
+	float:left;
+
+
+}
+#home_right_sd {
+	width: 380px;
+	margin-right: 20px;
+	margin-top: 20px;
+	display:inline;
+	float:right;
+
+}
+
+#home_content_bot_sd {
+	width: 900px;
+	margin-top:30px;
+	background:url(../images/bg_home_bot.gif) top repeat-x;
+}

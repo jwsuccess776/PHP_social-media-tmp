@@ -1,0 +1,21 @@
+[11-Mar-2019 06:27:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/idatemedia/public_html/dating/payments/payment.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/idatemedia/public_html/dating/payments/payment.php on line 19
+[11-Mar-2019 06:33:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/idatemedia/public_html/dating/payments/cancel.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/idatemedia/public_html/dating/payments/cancel.php on line 23
+[13-Mar-2019 11:56:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/idatemedia/public_html/dating/payments/usaepay_notify.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/idatemedia/public_html/dating/payments/usaepay_notify.php on line 15
+[13-Mar-2019 11:58:10 UTC] PHP Parse error:  syntax error, unexpected 'new' (T_NEW) in /home/idatemedia/public_html/dating/payments/paypal_pro_notify.php on line 83
+[26-Mar-2019 21:22:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/idatemedia/public_html/dating/payments/authorizenet_aim_notify.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/idatemedia/public_html/dating/payments/authorizenet_aim_notify.php on line 17
+[26-Mar-2019 21:22:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/idatemedia/public_html/dating/payments/authorizenet_aim_notify.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/idatemedia/public_html/dating/payments/authorizenet_aim_notify.php on line 17
